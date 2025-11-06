@@ -1,0 +1,14 @@
+File1	File2	TP	FP	FN	TN
+human_20_10_real_category_7.bed	human_alcor2_merged_category_7.bed	1817	109514	9418	985108
+human_20_10_real_category_7.bed	human_alcor_merged_category_7.bed	2169	131012	9066	963610
+human_20_10_real_category_7.bed	human_dotplot_category_7.bed	9597	38063	1648	1057340
+human_20_10_real_category_7.bed	human_flps2_merged_category_7.bed	11066	980246	169	114376
+human_20_10_real_category_7.bed	human_flps2_strict_merged_category_7.bed	10591	517789	644	576833
+human_20_10_real_category_7.bed	human_flps_merged_category_7.bed	11058	971764	177	122858
+human_20_10_real_category_7.bed	human_flps_strict_merged_category_7.bed	10500	483281	735	611341
+human_20_10_real_category_7.bed	human_lcrfinder_category_7.bed	5412	18342	5823	1076280
+human_20_10_real_category_7.bed	human_seg_category_7.bed	9319	84623	1916	1009999
+human_20_10_real_category_7.bed	human_seg_intermediate_category_7.bed	8665	12769	2570	1081853
+human_20_10_real_category_7.bed	human_seg_strict_category_7.bed	4875	1224	6360	1093398
+human_20_10_real_category_7.bed	human_treks_merged_category_7.bed	4659	56652	6576	1037970
+human_20_10_real_category_7.bed	human_Xstream_merged_category_7.bed	0	9664	11235	1084958

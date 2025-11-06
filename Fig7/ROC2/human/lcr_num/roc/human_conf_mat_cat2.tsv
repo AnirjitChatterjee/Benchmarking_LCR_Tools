@@ -1,0 +1,14 @@
+File1	File2	TP	FP	FN	TN
+category_2_human_20_10_real.bed	category_2_human_alcor2_merged.bed	4178	34455	22018	467697
+category_2_human_20_10_real.bed	category_2_human_alcor_merged.bed	5358	45030	20838	457122
+category_2_human_20_10_real.bed	category_2_human_dotplot.bed	22222	32908	3974	469420
+category_2_human_20_10_real.bed	category_2_human_flps2_merged.bed	26058	499934	138	2218
+category_2_human_20_10_real.bed	category_2_human_flps2_strict_merged.bed	25170	461081	1026	41071
+category_2_human_20_10_real.bed	category_2_human_flps_merged.bed	26065	499112	131	3040
+category_2_human_20_10_real.bed	category_2_human_flps_strict_merged.bed	25166	453109	1030	49043
+category_2_human_20_10_real.bed	category_2_human_lcrfinder.bed	12602	21786	13594	480366
+category_2_human_20_10_real.bed	category_2_human_seg.bed	22239	71732	3957	430420
+category_2_human_20_10_real.bed	category_2_human_seg_intermediate.bed	20762	17760	5434	484392
+category_2_human_20_10_real.bed	category_2_human_seg_strict.bed	11602	1476	14594	500676
+category_2_human_20_10_real.bed	category_2_human_treks_merged.bed	10370	21667	15826	480485
+category_2_human_20_10_real.bed	category_2_human_Xstream_merged.bed	85	7004	26111	495148
