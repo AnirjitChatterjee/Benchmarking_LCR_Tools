@@ -21,7 +21,7 @@ num_files <- length(unique(data$Filename))
 distinct_colors <- createPalette(num_files, seedcolors = c("#000000", "#FFFFFF"))
 names(distinct_colors) <- unique(data$Filename)
 
-setwd("/home/anirjit/ANIRJIT/ROC2/human/images")
+setwd("/home/anirjit/ANIRJIT/images_R1")
 
 p1 <- ggplot(data, aes(x = Purity, y = Proportion, color = Filename, group = Filename)) +
   geom_line(size = 2) +
