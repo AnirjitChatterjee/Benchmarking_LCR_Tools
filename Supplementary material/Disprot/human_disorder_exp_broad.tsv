@@ -1,0 +1,4761 @@
+CAMP	134	170	CD/IR spectroscopy
+CAMP	134	170	Other
+CAMP	150	162	Electron microscopy
+CAMP	150	162	X-ray crystallography
+APEX1	1	42	X-ray crystallography
+APEX1	1	36	Biochemical activity assays
+APEX1	32	43	X-ray crystallography
+APEX1	2	40	X-ray crystallography
+ST1A3	64	77	X-ray crystallography
+ST1A3	216	261	X-ray crystallography
+CFTR	708	831	CD/IR spectroscopy
+CFTR	654	838	NMR spectroscopy
+CFTR	708	831	Biochemical activity assays
+CFTR	789	819	Fluorescence methods
+CFTR	762	801	Fluorescence methods
+CFTR	747	774	Fluorescence methods
+CFTR	747	774	Thermodynamics
+CFTR	762	801	Thermodynamics
+CFTR	789	819	Thermodynamics
+CFTR	766	770	Cell-based/phenotypic assays
+CFTR	766	770	X-ray crystallography
+CFTR	751	758	X-ray crystallography
+CFTR	698	702	Cell-based/phenotypic assays
+CFTR	751	755	Cell-based/phenotypic assays
+CFTR	764	774	X-ray crystallography
+CFTR	793	798	X-ray crystallography
+CGB3	132	165	X-ray crystallography
+CGB3	133	165	X-ray crystallography
+CGB3	143	165	Mass spectrometry
+CDN1A	1	164	Chromatography/electrophoresis
+CDN1A	1	164	Biochemical activity assays
+CDN1A	1	164	CD/IR spectroscopy
+CDN1A	1	94	NMR spectroscopy
+CDN1A	9	84	NMR spectroscopy
+CDN1A	9	84	CD/IR spectroscopy
+CDN1A	1	94	CD/IR spectroscopy
+CDN1A	1	94	Biochemical activity assays
+CDN1A	9	84	Biochemical activity assays
+CDN1A	1	164	Biochemical activity assays
+CDN1A	1	164	Other
+CDN1A	1	164	Other
+CDN1A	1	164	Interaction assays
+CDN1A	1	164	Interaction assays
+CDN1A	139	160	Other
+CDN1A	139	160	Other
+CDN1A	1	164	Cell-based/phenotypic assays
+CDN1A	1	164	Cell-based/phenotypic assays
+CDN1A	152	158	Interaction assays
+CDN1A	1	164	Interaction assays
+CDN1A	143	147	Cell-based/phenotypic assays
+CDN1A	143	147	Biochemical activity assays
+CDN1A	139	160	X-ray crystallography
+CDN1A	139	143	Cell-based/phenotypic assays
+CDN1A	143	147	Cell-based/phenotypic assays
+CDN1A	1	164	Biochemical activity assays
+CDN1A	143	147	Biochemical activity assays
+CDN1A	1	164	Interaction assays
+CDN1A	1	49	Interaction assays
+CDN1A	1	164	Interaction assays
+CDN1C	1	316	CD/IR spectroscopy
+CDN1C	1	316	Fluorescence methods
+CDN1C	1	316	Chromatography/electrophoresis
+CDN1C	27	97	CD/IR spectroscopy
+CDN1C	27	97	Fluorescence methods
+CDN1C	27	97	NMR spectroscopy
+CDN1C	27	97	Other
+CDN1C	1	61	Interaction assays
+CDN1C	1	316	Interaction assays
+CDN1B	38	59	NMR spectroscopy
+CDN1B	105	198	NMR spectroscopy
+CDN1B	1	198	CD/IR spectroscopy
+CDN1B	55	95	NMR spectroscopy
+CDN1B	1	50	X-ray crystallography
+CDN1B	97	197	X-ray crystallography
+CDN1B	22	97	NMR spectroscopy
+CDN1B	22	97	CD/IR spectroscopy
+CDN1B	22	97	Cell-based/phenotypic assays
+CDN1B	25	93	X-ray crystallography
+CDN1B	181	185	X-ray crystallography
+CDN1B	181	190	X-ray crystallography
+CDN1B	185	189	X-ray crystallography
+CDN1B	185	190	X-ray crystallography
+CDN1B	1	198	Other
+CDN1B	22	105	NMR spectroscopy
+CDN1B	1	198	NMR spectroscopy
+CDN1B	28	37	Thermodynamics
+CDN1B	66	88	Thermodynamics
+CDN1B	32	45	Fluorescence methods
+CDN1B	8	12	Cell-based/phenotypic assays
+CDN1B	32	45	Other
+CDN1B	22	105	NMR spectroscopy
+CDN1B	38	90	NMR spectroscopy
+CDN1B	22	97	CD/IR spectroscopy
+CDN1B	22	97	Fluorescence methods
+CDN1B	86	90	Other
+CDN1B	86	90	Other
+CDN1B	91	96	Other
+CDN1B	58	105	NMR spectroscopy
+CDN1B	58	105	Small-angle scattering
+CDN1B	1	60	Interaction assays
+CDN1B	1	198	Interaction assays
+DHB1	286	328	X-ray crystallography
+DHB1	191	199	X-ray crystallography
+DHB1	286	328	X-ray crystallography
+4EBP1	4	118	NMR spectroscopy
+4EBP1	47	66	X-ray crystallography
+4EBP1	51	63	X-ray crystallography
+4EBP1	49	68	NMR spectroscopy
+4EBP1	5	118	CD/IR spectroscopy
+4EBP1	1	118	CD/IR spectroscopy
+4EBP1	49	83	X-ray crystallography
+4EBP1	50	63	X-ray crystallography
+4EBP1	5	118	NMR spectroscopy
+4EBP1	4	118	NMR spectroscopy
+4EBP1	49	83	X-ray crystallography
+4EBP1	51	64	X-ray crystallography
+4EBP1	51	67	X-ray crystallography
+4EBP1	50	84	X-ray crystallography
+4EBP1	50	63	X-ray crystallography
+4EBP1	51	66	X-ray crystallography
+4EBP1	51	64	X-ray crystallography
+4EBP1	109	118	X-ray crystallography
+4EBP1	4	118	Other
+4EBP1	49	68	Other
+4EBP1	51	64	X-ray crystallography
+4EBP1	51	67	Thermodynamics
+4EBP1	51	67	X-ray crystallography
+4EBP1	50	83	Interaction assays
+GCR	77	262	Biochemical activity assays
+GCR	77	262	CD/IR spectroscopy
+GCR	181	244	NMR spectroscopy
+GCR	209	213	Biochemical activity assays
+GCR	77	262	Interaction assays
+GCR	1	518	Cryo-EM
+GCR	1	500	Fluorescence methods
+GCR	275	279	Cell-based/phenotypic assays
+GCR	291	295	Cell-based/phenotypic assays
+GHR	270	370	CD/IR spectroscopy
+GHR	270	370	NMR spectroscopy
+GHR	361	620	NMR spectroscopy
+GHR	361	620	CD/IR spectroscopy
+GHR	270	357	Other
+HMGA1	1	107	NMR spectroscopy
+HMGA1	51	75	NMR spectroscopy
+HMGA1	80	89	NMR spectroscopy
+HMGA1	80	89	X-ray crystallography
+HMGA1	1	107	CD/IR spectroscopy
+HMGA1	51	55	Fluorescence methods
+HMGA1	76	80	Fluorescence methods
+HMGA1	100	105	Biochemical activity assays
+HMGA1	6	11	Mass spectrometry
+HMGA1	1	107	Other
+HMGA1	9	75	Other
+HMGA1	50	91	Other
+HMGA1	1	107	Other
+HMGA1	1	107	Other
+HMGA1	70	80	NMR spectroscopy
+HMGA1	1	107	Fluorescence methods
+HMGA1	1	107	Other
+HMGA1	1	107	Interaction assays
+HMGA1	1	107	Cell-based/phenotypic assays
+HMGA1	1	107	Interaction assays
+HMGA1	69	73	Other
+HMGA1	63	67	Other
+HMGA1	81	89	X-ray crystallography
+HMGA1	50	91	NMR spectroscopy
+HMGA1	1	107	Other
+HMGA1	1	107	Interaction assays
+HMGA1	1	107	Other
+PI42B	1	33	X-ray crystallography
+PI42B	304	342	X-ray crystallography
+PI42B	373	390	X-ray crystallography
+RFA1	109	168	NMR spectroscopy
+RFA1	105	180	NMR spectroscopy
+RXRA	1	130	Small-angle scattering
+RXRA	1	130	NMR spectroscopy
+RXRA	178	187	NMR spectroscopy
+RXRA	169	189	NMR spectroscopy
+VAMP2	40	67	CD/IR spectroscopy
+SYUA	1	140	Chromatography/electrophoresis
+SYUA	100	140	NMR spectroscopy
+SYUA	1	140	CD/IR spectroscopy
+SYUA	42	92	Other
+SYUA	1	140	CD/IR spectroscopy
+SYUA	1	102	NMR spectroscopy
+SYUA	1	102	NMR spectroscopy
+SYUA	1	140	NMR spectroscopy
+SYUA	1	140	CD/IR spectroscopy
+SYUA	1	140	Other
+SYUA	1	140	CD/IR spectroscopy
+SYUA	61	95	CD/IR spectroscopy
+SYUA	1	102	CD/IR spectroscopy
+SYUA	1	103	NMR spectroscopy
+SYUA	101	140	NMR spectroscopy
+TITIN	9880	12031	Microscopy
+TITIN	11045	11070	CD/IR spectroscopy
+TYSY	1	25	X-ray crystallography
+TYSY	107	128	X-ray crystallography
+TYSY	1	27	X-ray crystallography
+TYSY	117	128	X-ray crystallography
+ESR1	1	184	CD/IR spectroscopy
+ESR1	1	184	NMR spectroscopy
+ESR1	214	236	NMR spectroscopy
+ESR1	253	262	NMR spectroscopy
+ESR1	1	184	Interaction assays
+ESR1	287	305	NMR spectroscopy
+ESR1	300	304	Mass spectrometry
+ESR1	300	305	Other
+ESR1	1	180	Interaction assays
+ESR1	301	305	Biochemical activity assays
+ESR1	301	305	Cell-based/phenotypic assays
+TOP1	1	174	CD/IR spectroscopy
+TOP1	652	696	Biochemical activity assays
+TOP1	636	712	X-ray crystallography
+TOP1	175	214	X-ray crystallography
+TOP1	628	719	X-ray crystallography
+TOP1	1	174	Biochemical activity assays
+TOP1	1	174	Other
+TOP1	1	214	Fluorescence methods
+TOP1	1	214	Other
+TOP1	1	214	CD/IR spectroscopy
+TOP1	1	214	Fluorescence methods
+FOS	216	380	CD/IR spectroscopy
+FOS	216	380	NMR spectroscopy
+ESR2	1	103	CD/IR spectroscopy
+ESR2	1	103	NMR spectroscopy
+MAX	1	14	NMR spectroscopy
+MAX	1	21	NMR spectroscopy
+MAX	1	21	Other
+MAX	103	160	NMR spectroscopy
+MAX	1	21	NMR spectroscopy
+MAX	1	5	Biochemical activity assays
+MAX	9	13	Biochemical activity assays
+MAX	1	21	Interaction assays
+MAX	1	21	NMR spectroscopy
+MAX	103	160	NMR spectroscopy
+MAX	1	21	NMR spectroscopy
+TF65	428	551	NMR spectroscopy
+TF65	428	551	CD/IR spectroscopy
+P53	1	12	NMR spectroscopy
+P53	1	93	NMR spectroscopy
+P53	291	312	X-ray crystallography
+P53	1	93	Small-angle scattering
+P53	20	73	NMR spectroscopy
+P53	37	57	X-ray crystallography
+P53	17	29	X-ray crystallography
+P53	15	29	X-ray crystallography
+P53	367	386	X-ray crystallography
+P53	367	386	NMR spectroscopy
+P53	380	384	NMR spectroscopy
+P53	367	386	Other
+P53	367	386	X-ray crystallography
+P53	47	58	X-ray crystallography
+P53	41	62	X-ray crystallography
+P53	15	29	X-ray crystallography
+P53	17	27	X-ray crystallography
+P53	1	93	NMR spectroscopy
+P53	1	93	Thermodynamics
+P53	14	60	NMR spectroscopy
+P53	369	377	X-ray crystallography
+P53	359	367	X-ray crystallography
+P53	366	386	NMR spectroscopy
+P53	366	386	Fluorescence methods
+P53	385	393	X-ray crystallography
+P53	372	389	X-ray crystallography
+P53	375	385	X-ray crystallography
+P53	367	388	X-ray crystallography
+P53	376	386	X-ray crystallography
+P53	372	389	X-ray crystallography
+P53	365	375	X-ray crystallography
+P53	368	372	Other
+P53	379	385	X-ray crystallography
+P53	1	39	NMR spectroscopy
+P53	14	19	Thermodynamics
+P53	42	56	NMR spectroscopy
+P53	1	73	NMR spectroscopy
+P53	1	73	CD/IR spectroscopy
+P53	1	73	Interaction assays
+P53	20	46	NMR spectroscopy
+P53	56	70	NMR spectroscopy
+P53	1	61	NMR spectroscopy
+P53	14	28	NMR spectroscopy
+P53	38	61	NMR spectroscopy
+P53	1	61	Fluorescence methods
+P53	1	61	NMR spectroscopy
+P53	361	393	NMR spectroscopy
+P53	19	26	X-ray crystallography
+P53	367	388	CD/IR spectroscopy
+P53	1	93	CD/IR spectroscopy
+P53	1	93	CD/IR spectroscopy
+P53	1	93	Fluorescence methods
+P53	1	93	NMR spectroscopy
+KCAB1	1	62	NMR spectroscopy
+KCAB1	1	62	Other
+PP2BA	1	13	X-ray crystallography
+PP2BA	374	468	X-ray crystallography
+PP2BA	487	521	X-ray crystallography
+PP2BA	373	466	CD/IR spectroscopy
+PP2BA	373	468	CD/IR spectroscopy
+PP2BA	1	13	X-ray crystallography
+PP2BA	487	521	X-ray crystallography
+PP2BA	373	466	CD/IR spectroscopy
+PP2BA	388	466	Fluorescence methods
+PP2BA	389	413	Chromatography/electrophoresis
+PP2BA	389	413	Interaction assays
+PP2BA	393	411	X-ray crystallography
+GATM	38	63	X-ray crystallography
+PRB4	17	310	CD/IR spectroscopy
+PRB4	17	310	Fluorescence methods
+CD4	396	433	CD/IR spectroscopy
+CD4	403	415	CD/IR spectroscopy
+CD4	372	395	NMR spectroscopy
+SPR2E	2	20	CD/IR spectroscopy
+SPR2E	48	72	CD/IR spectroscopy
+FMR1	281	422	NMR spectroscopy
+FMR1	516	632	Other
+FMR1	444	632	Fluorescence methods
+FMR1	444	632	NMR spectroscopy
+FMR1	445	632	Thermodynamics
+FMR1	445	632	Fluorescence methods
+FMR1	445	632	NMR spectroscopy
+FMR1	527	541	NMR spectroscopy
+FMR1	529	542	X-ray crystallography
+FMR1	281	422	CD/IR spectroscopy
+FMR1	516	632	CD/IR spectroscopy
+FMR1	516	632	Other
+PTHR	37	50	X-ray crystallography
+PTHR	68	144	X-ray crystallography
+ZFYV9	766	823	NMR spectroscopy
+XRCC4	204	265	X-ray crystallography
+XRCC4	202	336	Cryo-EM
+XRCC4	262	288	Other
+XRCC4	202	336	Other
+RASH	170	189	X-ray crystallography
+RD23A	79	160	NMR spectroscopy
+RD23A	201	231	NMR spectroscopy
+RD23A	283	316	NMR spectroscopy
+SNN	34	60	NMR spectroscopy
+TNNI3	192	210	X-ray crystallography
+TNNI3	137	148	X-ray crystallography
+TNNI3	1	40	Cryo-EM
+TNNI3	167	210	Cryo-EM
+PNPO	1	48	X-ray crystallography
+RAF1	236	255	X-ray crystallography
+RAF1	238	254	X-ray crystallography
+DFFA	1	100	CD/IR spectroscopy
+DFFA	1	100	NMR spectroscopy
+DFFA	12	100	NMR spectroscopy
+TF7L2	1	56	CD/IR spectroscopy
+TF7L2	40	50	X-ray crystallography
+TF7L2	13	25	X-ray crystallography
+TF7L2	1	53	CD/IR spectroscopy
+TF7L2	1	130	CD/IR spectroscopy
+TF7L2	1	53	Interaction assays
+TF7L2	1	53	Fluorescence methods
+TF7L2	1	53	Thermodynamics
+TF7L2	26	39	Thermodynamics
+CTDP1	879	944	NMR spectroscopy
+CTDP1	879	961	NMR spectroscopy
+CTDP1	945	961	NMR spectroscopy
+CTDP1	944	961	CD/IR spectroscopy
+CTDP1	950	961	NMR spectroscopy
+VDR	165	215	Small-angle scattering
+ICAL	137	277	Biochemical activity assays
+ICAL	137	277	CD/IR spectroscopy
+ICAL	137	277	NMR spectroscopy
+ICAL	137	277	Biochemical activity assays
+ICAL	137	277	NMR spectroscopy
+CD3Z	49	164	NMR spectroscopy
+CD3Z	49	164	CD/IR spectroscopy
+CD3Z	49	164	Chromatography/electrophoresis
+CD3Z	49	164	Other
+CD3Z	49	164	Other
+OSTP	1	314	NMR spectroscopy
+OSTP	1	314	Other
+OSTP	1	314	Other
+OSTP	1	314	Other
+OSTP	1	314	Interaction assays
+OSTP	1	314	Fluorescence methods
+OSTP	1	314	Other
+OSTP	158	162	Other
+OSTP	1	314	Thermodynamics
+OSTP	17	314	NMR spectroscopy
+OSTP	17	314	Mass spectrometry
+OSTP	17	314	NMR spectroscopy
+OSTP	85	116	NMR spectroscopy
+OSTP	1	314	Other
+PP1RB	1	126	Chromatography/electrophoresis
+PP1RB	1	126	Other
+PP1RB	14	126	Interaction assays
+PP1RB	1	126	Chromatography/electrophoresis
+PP1RB	1	126	Chromatography/electrophoresis
+CCNB1	1	78	NMR spectroscopy
+CCNB1	1	78	CD/IR spectroscopy
+LA	326	408	NMR spectroscopy
+LA	326	408	Biochemical activity assays
+LA	335	408	Other
+GRB14	361	435	NMR spectroscopy
+PO2F1	1	200	NMR spectroscopy
+PO2F1	1	200	Small-angle scattering
+PO2F1	355	379	X-ray crystallography
+MBP	134	304	CD/IR spectroscopy
+MBP	219	229	NMR spectroscopy
+MBP	215	231	NMR spectroscopy
+MBP	215	231	CD/IR spectroscopy
+MBP	219	229	Other
+MBP	215	230	CD/IR spectroscopy
+BRCA1	100	1649	NMR spectroscopy
+BRCA1	100	1649	CD/IR spectroscopy
+BRCA1	100	1649	Biochemical activity assays
+BRCA1	498	663	Other
+BRCA1	936	1057	Other
+BRCA1	219	498	Fluorescence methods
+BRCA1	175	303	Other
+BRCA1	433	511	Other
+BRCA1	304	394	Interaction assays
+BRCA1	304	394	Other
+BRCA1	758	1064	Other
+BRCA1	758	1064	Fluorescence methods
+BRCA1	740	1083	Interaction assays
+BRCA1	740	1083	Interaction assays
+BRCA1	1343	1440	Other
+BRCA1	1407	1414	Cell-based/phenotypic assays
+BRCA1	758	1064	Fluorescence methods
+ADDA	430	737	CD/IR spectroscopy
+ADDA	430	737	Biochemical activity assays
+ADDA	430	737	Chromatography/electrophoresis
+ADDA	430	737	Other
+ADDB	409	726	CD/IR spectroscopy
+ADDB	409	726	Chromatography/electrophoresis
+ADDB	409	726	Biochemical activity assays
+ADDB	409	726	Other
+XPA	166	179	NMR spectroscopy
+XPA	210	219	NMR spectroscopy
+XPA	1	101	Cryo-EM
+P01106-1	1	88	CD/IR spectroscopy
+P01106-1	1	167	Fluorescence methods
+P01106-1	1	143	CD/IR spectroscopy
+P01106-1	1	88	NMR spectroscopy
+P01106-1	1	88	Other
+P01106-1	1	88	Interaction assays
+P01106-1	1	88	Fluorescence methods
+P01106-1	1	167	CD/IR spectroscopy
+P01106-1	89	167	Interaction assays
+P01106-1	89	167	CD/IR spectroscopy
+P01106-1	1	143	Other
+P01106-1	1	143	Other
+P01106-1	402	412	NMR spectroscopy
+P01106-1	363	381	NMR spectroscopy
+P01106-1	353	439	CD/IR spectroscopy
+P01106-1	367	439	Interaction assays
+P01106-1	129	142	Interaction assays
+P01106-1	51	69	Interaction assays
+P01106-1	55	68	NMR spectroscopy
+P01106-1	55	68	Fluorescence methods
+P01106-1	56	60	Other
+P01106-1	60	64	Other
+P01106-1	51	66	Interaction assays
+HIF1A	530	698	CD/IR spectroscopy
+HIF1A	530	698	Chromatography/electrophoresis
+HIF1A	530	698	Other
+HIF1A	403	603	CD/IR spectroscopy
+HIF1A	403	603	Chromatography/electrophoresis
+HIF1A	776	826	NMR spectroscopy
+HIF1A	403	603	Other
+HIF1A	791	804	NMR spectroscopy
+HIF1A	815	824	NMR spectroscopy
+HIF1A	776	826	NMR spectroscopy
+HIF1A	776	826	Interaction assays
+HIF1A	776	826	Thermodynamics
+HIF1A	530	698	Chromatography/electrophoresis
+HIF1A	403	603	Chromatography/electrophoresis
+HIF1A	403	603	Fluorescence methods
+HIF1A	403	603	Other
+HIF1A	530	698	Other
+HIF1A	530	698	Fluorescence methods
+HIF1A	776	813	Fluorescence methods
+HIF1A	795	822	Other
+HIF1A	560	567	X-ray crystallography
+HIF1A	556	574	Interaction assays
+HIF1A	561	566	X-ray crystallography
+HIF1A	571	574	X-ray crystallography
+HIF1A	571	577	X-ray crystallography
+ATP7A	1125	1176	NMR spectroscopy
+VHL	1	59	X-ray crystallography
+VHL	54	213	CD/IR spectroscopy
+VHL	54	213	Thermodynamics
+VHL	54	213	Chromatography/electrophoresis
+VHL	54	213	Other
+VHL	54	213	Fluorescence methods
+VHL	54	213	Other
+VHL	54	213	CD/IR spectroscopy
+VHL	67	117	X-ray crystallography
+VHL	156	161	X-ray crystallography
+VHL	80	84	X-ray crystallography
+VHL	153	184	X-ray crystallography
+VHL	67	117	X-ray crystallography
+VHL	72	78	Electron microscopy
+VHL	147	153	Electron microscopy
+VHL	147	153	Microscopy
+VHL	72	78	Microscopy
+VHL	72	78	Fluorescence methods
+VHL	147	153	Fluorescence methods
+VHL	147	153	CD/IR spectroscopy
+VHL	72	78	CD/IR spectroscopy
+VHL	72	78	Other
+VHL	147	153	Other
+VHL	147	153	Cell-based/phenotypic assays
+VHL	72	78	Cell-based/phenotypic assays
+VHL	1	213	Interaction assays
+VHL	1	213	Mass spectrometry
+VHL	59	213	Chromatography/electrophoresis
+VHL	1	213	Other
+VHL	1	213	Interaction assays
+VHL	1	155	Interaction assays
+VHL	1	213	Other
+VHL	1	213	Other
+VHL	1	213	Other
+VHL	1	213	Interaction assays
+VHL	1	213	Interaction assays
+VHL	1	213	Other
+VHL	1	213	Other
+VHL	1	213	Other
+VHL	1	213	Cell-based/phenotypic assays
+VHL	1	213	Mass spectrometry
+VHL	1	213	Cell-based/phenotypic assays
+VHL	1	213	Cell-based/phenotypic assays
+VHL	1	213	Other
+VHL	97	102	Cell-based/phenotypic assays
+VHL	97	102	Fluorescence methods
+VHL	97	102	Other
+VHL	97	102	Fluorescence methods
+VHL	54	157	Interaction assays
+VHL	1	213	Interaction assays
+VHL	1	213	Interaction assays
+VHL	1	213	Interaction assays
+VHL	70	74	Cell-based/phenotypic assays
+BCL2	26	48	X-ray crystallography
+B2CL1	28	80	NMR spectroscopy
+B2CL1	28	80	X-ray crystallography
+B2CL1	28	80	NMR spectroscopy
+B2CL1	25	80	X-ray crystallography
+AKT2	298	310	X-ray crystallography
+AKT2	297	312	X-ray crystallography
+AKT2	442	460	X-ray crystallography
+AKT2	442	480	X-ray crystallography
+AKT2	441	481	X-ray crystallography
+AKT2	190	201	X-ray crystallography
+AKT2	298	310	X-ray crystallography
+AKT2	472	476	Mass spectrometry
+CD69	64	84	X-ray crystallography
+CCNH	288	323	X-ray crystallography
+CCNH	1	10	X-ray crystallography
+CCNH	288	323	X-ray crystallography
+CCNH	1	10	X-ray crystallography
+DCUP	1	10	X-ray crystallography
+EGFR	985	1012	X-ray crystallography
+EGFR	989	1000	X-ray crystallography
+EGFR	668	1210	Mass spectrometry
+EGFR	668	1210	CD/IR spectroscopy
+EGFR	668	1210	Chromatography/electrophoresis
+EGFR	668	1210	Other
+EGFR	668	1210	Other
+EGFR	668	1210	Small-angle scattering
+EGFR	1067	1071	Other
+EGFR	1170	1174	Other
+EGFR	668	1210	Interaction assays
+ERF1	333	342	X-ray crystallography
+ERF1	358	370	X-ray crystallography
+ERF1	423	437	X-ray crystallography
+ERF1	414	437	Other
+ERF1	329	372	Other
+FCAR	217	229	X-ray crystallography
+GGA1	166	189	X-ray crystallography
+GGA1	144	170	X-ray crystallography
+GGA1	303	326	X-ray crystallography
+HTRA2	344	358	X-ray crystallography
+HTRA2	280	292	X-ray crystallography
+HTRA2	344	358	X-ray crystallography
+HTRA2	344	357	X-ray crystallography
+HTRA2	345	358	X-ray crystallography
+P73	549	564	X-ray crystallography
+PAI1	355	370	X-ray crystallography
+PAI1	361	370	X-ray crystallography
+PAI1	355	370	Other
+PADI4	55	65	X-ray crystallography
+PADI4	158	171	X-ray crystallography
+PADI4	338	348	X-ray crystallography
+PADI4	371	387	X-ray crystallography
+PADI4	633	644	X-ray crystallography
+PIM1	14	31	X-ray crystallography
+NR1I2	130	141	X-ray crystallography
+NR1I2	178	197	X-ray crystallography
+ROA1	92	102	X-ray crystallography
+ROA1	182	196	X-ray crystallography
+ROA1	92	102	X-ray crystallography
+ROA1	183	190	X-ray crystallography
+ROA1	342	357	X-ray crystallography
+ROA1	182	186	Other
+ROA1	93	97	Other
+PAHX	31	42	X-ray crystallography
+PAHX	223	233	X-ray crystallography
+PAHX	303	318	X-ray crystallography
+SIAL	1	317	NMR spectroscopy
+SIAL	1	317	Other
+SIAL	285	289	Other
+SIAL	285	289	Other
+SIAL	285	289	Cell-based/phenotypic assays
+SIAL	1	317	Fluorescence methods
+SIAL	1	317	Interaction assays
+SIAL	258	317	NMR spectroscopy
+SIAL	258	317	Other
+SIAL	1	317	Other
+CALR	367	417	Chromatography/electrophoresis
+CALR	367	417	Biochemical activity assays
+CALR	18	417	Other
+CALR	18	307	Thermodynamics
+CALR	308	417	Thermodynamics
+CALR	18	417	Chromatography/electrophoresis
+CALR	18	417	CD/IR spectroscopy
+CALR	199	204	Other
+CALR	199	204	Other
+CALR	199	204	Interaction assays
+CALR	199	204	Interaction assays
+CALR	199	204	Other
+CALR	18	417	Cell-based/phenotypic assays
+CALR	261	278	Interaction assays
+CALR	120	146	Interaction assays
+CALR	168	182	Interaction assays
+CALR	219	226	Interaction assays
+MDM2	1	24	NMR spectroscopy
+MDM2	210	304	NMR spectroscopy
+MDM2	215	300	NMR spectroscopy
+MDM2	335	437	Other
+MDM2	1	24	NMR spectroscopy
+BGAT	179	194	X-ray crystallography
+NCOA3	1018	1088	Other
+NCOA3	1045	1085	NMR spectroscopy
+NCOA3	1018	1088	Thermodynamics
+NCOA3	1018	1045	NMR spectroscopy
+NCOA3	1045	1085	NMR spectroscopy
+CITE2	220	270	CD/IR spectroscopy
+CITE2	258	270	NMR spectroscopy
+CITE2	222	257	NMR spectroscopy
+CITE2	220	270	Other
+CITE2	220	257	NMR spectroscopy
+CITE2	220	257	Thermodynamics
+TYB4	1	44	NMR spectroscopy
+TYB4	17	44	NMR spectroscopy
+TYB4	1	44	CD/IR spectroscopy
+TYB4	1	44	NMR spectroscopy
+TEBP	123	160	CD/IR spectroscopy
+UAP1	454	470	X-ray crystallography
+RHEB	171	181	X-ray crystallography
+TCIM	1	106	NMR spectroscopy
+TCIM	1	106	CD/IR spectroscopy
+SP1	342	488	CD/IR spectroscopy
+SP1	342	488	Other
+SP1	342	488	NMR spectroscopy
+SP1	153	215	CD/IR spectroscopy
+SP1	153	215	Small-angle scattering
+SP1	153	215	NMR spectroscopy
+SP1	349	495	NMR spectroscopy
+SP1	349	495	CD/IR spectroscopy
+SP1	349	495	Small-angle scattering
+AHR	545	713	CD/IR spectroscopy
+AHR	545	713	Biochemical activity assays
+AHR	545	713	Fluorescence methods
+AHR	545	713	Other
+GSK3B	388	392	Biochemical activity assays
+GSK3B	1	34	X-ray crystallography
+GSK3B	386	420	X-ray crystallography
+GSK3B	285	300	X-ray crystallography
+GSK3B	12	16	Mass spectrometry
+GSK3B	285	300	X-ray crystallography
+GSK3B	19	23	Biochemical activity assays
+GSK3B	3	12	X-ray crystallography
+GSK3B	285	299	Other
+GSK3B	7	11	Biochemical activity assays
+NCBP1	1	26	X-ray crystallography
+NCBP1	671	684	Biochemical activity assays
+NCBP1	527	537	X-ray crystallography
+NCBP2	1	21	Biochemical activity assays
+NCBP2	121	156	Biochemical activity assays
+NCBP2	22	37	X-ray crystallography
+ST2B1	13	26	X-ray crystallography
+JAG1	1094	1218	CD/IR spectroscopy
+JAG1	1094	1218	NMR spectroscopy
+JAG1	1094	1218	Other
+JAG1	1094	1218	Biochemical activity assays
+SEBP2	1	600	NMR spectroscopy
+SEBP2	776	854	NMR spectroscopy
+PLK1	495	506	X-ray crystallography
+PLK1	489	506	X-ray crystallography
+PLK1	489	506	X-ray crystallography
+PLK1	495	506	X-ray crystallography
+PLK1	489	506	X-ray crystallography
+RAD52	1	23	X-ray crystallography
+WRN	1064	1092	NMR spectroscopy
+CRYAB	166	175	NMR spectroscopy
+CRYAB	153	175	NMR spectroscopy
+CRYAB	166	175	Small-angle scattering
+CRYAB	151	175	NMR spectroscopy
+FHOD1	1104	1164	Chromatography/electrophoresis
+FHOD1	1104	1164	NMR spectroscopy
+FIS1	121	145	NMR spectroscopy
+SMAD4	273	284	X-ray crystallography
+SMAD4	297	306	X-ray crystallography
+PRIO	23	124	NMR spectroscopy
+PRIO	23	124	NMR spectroscopy
+PRIO	23	124	Fluorescence methods
+PRIO	23	124	Microscopy
+PRIO	23	124	Fluorescence methods
+PRIO	23	124	Microscopy
+PRIO	23	124	Fluorescence methods
+PRIO	23	124	Chromatography/electrophoresis
+IKBA	1	66	NMR spectroscopy
+IKBA	276	317	NMR spectroscopy
+PEX5	1	324	Thermodynamics
+PEX5	1	324	CD/IR spectroscopy
+PEX5	1	324	Chromatography/electrophoresis
+PEX5	1	324	CD/IR spectroscopy
+PEX5	1	110	NMR spectroscopy
+PEX5	57	71	NMR spectroscopy
+PEX5	59	70	NMR spectroscopy
+PEX5	61	67	Other
+PEX5	1	110	Thermodynamics
+PEX5	62	66	Other
+PEX5	62	66	Cell-based/phenotypic assays
+PEX5	62	66	Fluorescence methods
+PEX5	1	100	Fluorescence methods
+PEX5	1	197	Fluorescence methods
+PEX5	1	268	Fluorescence methods
+CRY2	490	593	NMR spectroscopy
+CRY2	490	593	CD/IR spectroscopy
+CRY2	490	593	Biochemical activity assays
+SAE1	178	203	X-ray crystallography
+SAE1	1	24	X-ray crystallography
+SAE1	9	24	X-ray crystallography
+SAE1	181	204	X-ray crystallography
+SAE1	184	203	X-ray crystallography
+SAE1	270	294	X-ray crystallography
+SAE1	222	235	X-ray crystallography
+SAE1	176	208	X-ray crystallography
+SAE2	291	304	X-ray crystallography
+SAE2	551	640	X-ray crystallography
+SAE2	219	237	X-ray crystallography
+SAE2	198	239	X-ray crystallography
+SAE2	218	234	X-ray crystallography
+SAE2	549	607	X-ray crystallography
+SAE2	198	217	X-ray crystallography
+SAE2	607	640	X-ray crystallography
+SAE2	608	640	X-ray crystallography
+ANDR	142	485	CD/IR spectroscopy
+ANDR	142	485	Fluorescence methods
+ANDR	142	485	Biochemical activity assays
+ANDR	142	485	CD/IR spectroscopy
+ANDR	142	485	Other
+ANDR	142	485	CD/IR spectroscopy
+ANDR	142	485	Biochemical activity assays
+ANDR	142	485	Fluorescence methods
+ANDR	142	485	Chromatography/electrophoresis
+ANDR	142	448	NMR spectroscopy
+ANDR	330	448	NMR spectroscopy
+ANDR	330	448	Microscopy
+ANDR	142	485	Fluorescence methods
+ANDR	144	450	Fluorescence methods
+ANDR	144	450	Microscopy
+ANDR	1	537	Fluorescence methods
+ANDR	1	537	Thermodynamics
+ANDR	1	537	Fluorescence methods
+ANDR	1	537	Biochemical activity assays
+CD3D	127	171	CD/IR spectroscopy
+CD3D	127	171	Chromatography/electrophoresis
+CD3D	130	171	Cryo-EM
+CD3D	1	21	Cryo-EM
+CD3E	1	11	X-ray crystallography
+CD3E	153	207	CD/IR spectroscopy
+CD3E	153	207	Chromatography/electrophoresis
+CD3E	1	32	Cryo-EM
+CD3E	157	207	Cryo-EM
+CD3G	139	182	Chromatography/electrophoresis
+CD3G	139	182	CD/IR spectroscopy
+CD3G	1	23	Cryo-EM
+CD3G	139	182	Cryo-EM
+FCERG	40	60	CD/IR spectroscopy
+NUPR1	1	82	CD/IR spectroscopy
+NUPR1	1	82	Other
+NUPR1	1	82	CD/IR spectroscopy
+NUPR1	1	82	CD/IR spectroscopy
+NUPR1	1	82	Fluorescence methods
+NUPR1	1	82	Other
+NUPR1	1	82	NMR spectroscopy
+NUPR1	1	82	CD/IR spectroscopy
+NUPR1	1	82	Other
+NUPR1	1	82	Chromatography/electrophoresis
+MYOM1	836	931	CD/IR spectroscopy
+MYOM1	836	931	Microscopy
+APC	1362	1745	CD/IR spectroscopy
+APC	1362	1745	NMR spectroscopy
+APC	2781	2819	Thermodynamics
+APC	2803	2809	NMR spectroscopy
+APC	2789	2799	NMR spectroscopy
+APC	2781	2819	NMR spectroscopy
+APC	2784	2813	NMR spectroscopy
+APC	1459	1532	Thermodynamics
+APC	1614	1679	Thermodynamics
+APC	1202	1551	Biochemical activity assays
+APC	1202	1551	CD/IR spectroscopy
+APC	1202	1551	Fluorescence methods
+APC	1202	1551	Chromatography/electrophoresis
+APC	1202	1551	Biochemical activity assays
+APC	1484	1528	Interaction assays
+APC	1485	1498	X-ray crystallography
+APC	1484	1528	Thermodynamics
+APC	1485	1499	X-ray crystallography
+APC	1504	1528	X-ray crystallography
+APC	1504	1510	X-ray crystallography
+APC	1501	1510	Mass spectrometry
+NKD2	1	217	NMR spectroscopy
+NKD2	1	217	CD/IR spectroscopy
+PTTG1	1	202	NMR spectroscopy
+PTTG1	1	202	CD/IR spectroscopy
+PTTG1	1	202	Chromatography/electrophoresis
+SEPT4	1	119	CD/IR spectroscopy
+SEPT4	1	119	Other
+SEPT4	1	119	Small-angle scattering
+MECP2	1	75	CD/IR spectroscopy
+MECP2	207	310	CD/IR spectroscopy
+MECP2	165	210	CD/IR spectroscopy
+MECP2	335	486	CD/IR spectroscopy
+MECP2	261	330	CD/IR spectroscopy
+MECP2	165	210	CD/IR spectroscopy
+MECP2	207	310	CD/IR spectroscopy
+MECP2	335	355	Biochemical activity assays
+MECP2	165	210	Biochemical activity assays
+MECP2	293	310	Biochemical activity assays
+MECP2	168	486	Other
+MECP2	285	313	Interaction assays
+MECP2	285	313	Cell-based/phenotypic assays
+MECP2	285	309	Other
+MECP2	285	309	Interaction assays
+MECP2	207	310	Other
+COX17	1	29	NMR spectroscopy
+COX17	1	17	NMR spectroscopy
+COX17	1	63	CD/IR spectroscopy
+COX17	25	60	CD/IR spectroscopy
+COX17	1	63	NMR spectroscopy
+COX17	25	60	NMR spectroscopy
+COX17	1	63	CD/IR spectroscopy
+COX17	25	63	CD/IR spectroscopy
+COX17	1	63	CD/IR spectroscopy
+HYPK	1	121	CD/IR spectroscopy
+HYPK	1	121	Biochemical activity assays
+HYPK	1	121	Chromatography/electrophoresis
+ZN593	1	35	NMR spectroscopy
+ZN593	36	77	NMR spectroscopy
+ZN593	78	116	NMR spectroscopy
+ANFB	1	77	NMR spectroscopy
+ANFB	1	77	Chromatography/electrophoresis
+ANFB	1	77	CD/IR spectroscopy
+NLGN3	731	848	CD/IR spectroscopy
+NLGN3	731	848	Small-angle scattering
+NLGN3	731	848	Other
+NLGN3	731	848	Chromatography/electrophoresis
+NLGN3	731	848	Biochemical activity assays
+NLGN3	731	848	Other
+NLGN3	731	848	NMR spectroscopy
+NLGN3	731	848	Chromatography/electrophoresis
+NLGN3	731	848	Fluorescence methods
+NLGN3	731	848	Other
+NLRP1	31	50	NMR spectroscopy
+SYUB	1	134	NMR spectroscopy
+FNTA	368	379	X-ray crystallography
+FNTA	1	54	X-ray crystallography
+TPPC4	11	25	NMR spectroscopy
+CANB1	1	14	NMR spectroscopy
+CANB1	158	169	NMR spectroscopy
+SRP19	1	144	Fluorescence methods
+ATX3	174	361	CD/IR spectroscopy
+ATX3	174	361	NMR spectroscopy
+ATX3	182	291	CD/IR spectroscopy
+ATX3	182	291	Chromatography/electrophoresis
+ATX3	194	361	NMR spectroscopy
+ATX3	224	348	NMR spectroscopy
+ATX3	262	361	Biochemical activity assays
+RALA	187	203	NMR spectroscopy
+RALA	194	203	NMR spectroscopy
+RALA	194	203	Other
+RALA	194	203	Thermodynamics
+RALA	194	203	Interaction assays
+RALA	1	10	X-ray crystallography
+PCP4	1	62	NMR spectroscopy
+PCP4	1	62	CD/IR spectroscopy
+FRDA	81	92	NMR spectroscopy
+FRDA	61	74	Biochemical activity assays
+SNW1	59	129	NMR spectroscopy
+SNW1	59	129	CD/IR spectroscopy
+SNW1	59	129	CD/IR spectroscopy
+SNW1	59	129	Thermodynamics
+WEE1	436	455	X-ray crystallography
+TRFL	38	59	NMR spectroscopy
+TRFL	38	59	Other
+TRFL	38	59	CD/IR spectroscopy
+P60896	26	36	X-ray crystallography
+P60896	1	51	NMR spectroscopy
+P60896	38	46	NMR spectroscopy
+C1R	193	305	NMR spectroscopy
+C1R	193	305	CD/IR spectroscopy
+DDIT3	1	168	NMR spectroscopy
+DDIT3	1	168	Genetic/transcriptional assays
+DDIT3	1	168	CD/IR spectroscopy
+DDIT3	1	120	Fluorescence methods
+DDIT3	1	168	Chromatography/electrophoresis
+DDIT3	1	168	Other
+PPAP	248	286	NMR spectroscopy
+SYUG	1	127	NMR spectroscopy
+SYUG	1	127	CD/IR spectroscopy
+EP300	401	566	NMR spectroscopy
+EP300	1	1045	Cryo-EM
+EP300	1665	2414	Cryo-EM
+EP300	1520	1581	Cryo-EM
+EP300	1520	1581	Cryo-EM
+CCL11	1	31	NMR spectroscopy
+SODC	69	78	X-ray crystallography
+SODC	127	142	X-ray crystallography
+SODC	127	142	X-ray crystallography
+SODC	69	78	X-ray crystallography
+SODC	127	142	X-ray crystallography
+L1CAM	1144	1257	NMR spectroscopy
+L1CAM	1144	1257	Other
+L1CAM	1144	1257	Chromatography/electrophoresis
+L1CAM	1144	1257	Other
+MICA	175	184	X-ray crystallography
+MICA	175	184	Biochemical activity assays
+NGN1	90	150	NMR spectroscopy
+NGN1	90	150	CD/IR spectroscopy
+NGN1	90	150	Fluorescence methods
+EPB41	800	864	NMR spectroscopy
+EPB41	800	864	CD/IR spectroscopy
+NKX31	1	113	CD/IR spectroscopy
+RYBP	1	228	NMR spectroscopy
+RYBP	1	228	CD/IR spectroscopy
+RYBP	145	179	NMR spectroscopy
+CCL26	84	94	NMR spectroscopy
+YAP1	101	171	X-ray crystallography
+YAP1	50	171	NMR spectroscopy
+GA45A	1	16	NMR spectroscopy
+GA45A	1	16	Chromatography/electrophoresis
+GA45A	105	118	NMR spectroscopy
+GA45A	105	118	Chromatography/electrophoresis
+CDSN	60	171	CD/IR spectroscopy
+CDSN	60	171	Fluorescence methods
+CDSN	60	171	CD/IR spectroscopy
+DAXX	347	420	NMR spectroscopy
+DAXX	495	740	NMR spectroscopy
+DAXX	566	739	NMR spectroscopy
+DAXX	161	243	NMR spectroscopy
+DAXX	435	486	Other
+DAXX	1	50	NMR spectroscopy
+CBY1	1	63	NMR spectroscopy
+CBY1	1	63	CD/IR spectroscopy
+CBY1	1	63	Thermodynamics
+CBY1	102	126	Mass spectrometry
+CBY1	102	126	CD/IR spectroscopy
+CBY1	102	126	NMR spectroscopy
+CBY1	1	63	Mass spectrometry
+CBY1	1	66	CD/IR spectroscopy
+KDM5B	115	129	NMR spectroscopy
+KDM5B	188	199	NMR spectroscopy
+KDM5B	119	128	Cell-based/phenotypic assays
+KDM5B	1	27	Mass spectrometry
+KDM5B	198	311	Mass spectrometry
+KDM5B	339	375	Mass spectrometry
+KDM5B	430	453	Mass spectrometry
+KDM5B	441	453	X-ray crystallography
+KDM5B	469	481	Mass spectrometry
+KDM5B	543	554	Mass spectrometry
+KDM5B	1078	1125	Mass spectrometry
+KDM5B	1271	1344	Mass spectrometry
+KDM5B	1376	1450	Mass spectrometry
+LMNA	567	664	NMR spectroscopy
+PPARG	9	111	X-ray crystallography
+PPARG	9	111	NMR spectroscopy
+PPARG	112	174	X-ray crystallography
+PPARG	112	174	NMR spectroscopy
+PPARG	175	211	X-ray crystallography
+PPARG	175	211	NMR spectroscopy
+PPARG	238	278	X-ray crystallography
+PPARG	238	278	NMR spectroscopy
+PPARG	279	298	X-ray crystallography
+PPARG	279	298	NMR spectroscopy
+PPARG	443	452	X-ray crystallography
+PPARG	443	452	NMR spectroscopy
+PPARG	453	477	X-ray crystallography
+PPARG	453	477	NMR spectroscopy
+TDG	1	50	NMR spectroscopy
+TDG	51	111	NMR spectroscopy
+TDG	340	410	NMR spectroscopy
+AGO2	1	22	X-ray crystallography
+AGO2	818	838	X-ray crystallography
+AGO2	820	837	X-ray crystallography
+AGO2	1	22	X-ray crystallography
+AGO2	1	21	X-ray crystallography
+AGO2	822	835	X-ray crystallography
+ANF	56	123	NMR spectroscopy
+ANF	56	123	NMR spectroscopy
+ANF	56	123	Chromatography/electrophoresis
+ANF	56	123	CD/IR spectroscopy
+CRK	192	223	NMR spectroscopy
+CRK	238	293	NMR spectroscopy
+CRK	219	223	NMR spectroscopy
+CHCH5	94	109	NMR spectroscopy
+CCL21	94	134	NMR spectroscopy
+EZRI	130	150	X-ray crystallography
+EZRI	506	586	Small-angle scattering
+EZRI	298	515	X-ray crystallography
+EZRI	298	515	CD/IR spectroscopy
+EZRI	298	515	Small-angle scattering
+RLA2	63	115	NMR spectroscopy
+RLA2	102	115	NMR spectroscopy
+TOB1	116	138	X-ray crystallography
+TOB1	147	285	NMR spectroscopy
+TOB1	147	345	Biochemical activity assays
+TOB1	117	345	X-ray crystallography
+KCNE1	107	129	NMR spectroscopy
+KCNE1	24	45	NMR spectroscopy
+KCNE1	72	91	NMR spectroscopy
+TELT	91	167	X-ray crystallography
+TELT	91	167	CD/IR spectroscopy
+TELT	91	167	Small-angle scattering
+TELT	91	167	X-ray crystallography
+IPP2	9	164	NMR spectroscopy
+ADRM1	1	21	NMR spectroscopy
+ADRM1	132	252	NMR spectroscopy
+ADRM1	386	407	NMR spectroscopy
+ADRM1	253	285	NMR spectroscopy
+MP2K7	30	100	NMR spectroscopy
+MP2K7	70	82	Other
+MP2K7	25	34	Other
+MP2K7	36	47	Thermodynamics
+MP2K7	69	78	Thermodynamics
+MP2K7	38	47	Other
+MP2K7	37	48	X-ray crystallography
+CUTA	45	60	X-ray crystallography
+CUTA	170	179	X-ray crystallography
+SOSB1	28	37	X-ray crystallography
+SOSB1	71	81	X-ray crystallography
+SOSB1	110	211	X-ray crystallography
+SOSB1	122	211	CD/IR spectroscopy
+DJC24	1	10	NMR spectroscopy
+DJC24	77	92	NMR spectroscopy
+ARP8	401	507	X-ray crystallography
+PTN	32	46	NMR spectroscopy
+PTN	140	168	NMR spectroscopy
+PTN	84	95	NMR spectroscopy
+PTN	147	168	Other
+PTN	147	168	NMR spectroscopy
+PTN	144	168	Interaction assays
+PTN	144	168	Interaction assays
+PTN	144	168	Other
+PTN	144	168	Other
+PTN	144	168	NMR spectroscopy
+SRPRA	130	176	X-ray crystallography
+SRPRA	131	176	Cryo-EM
+SRPRA	130	238	Cryo-EM
+GEMI	70	91	X-ray crystallography
+IF1AX	1	25	NMR spectroscopy
+IF1AX	119	144	NMR spectroscopy
+IF1AX	1	27	X-ray crystallography
+IF1AX	129	144	NMR spectroscopy
+IF1AX	138	144	Other
+Q9HB71-2	48	80	NMR spectroscopy
+EIF1	1	28	NMR spectroscopy
+MIA40	107	142	NMR spectroscopy
+SCF	92	103	X-ray crystallography
+SCF	127	141	X-ray crystallography
+SOST	25	79	NMR spectroscopy
+SOST	169	213	NMR spectroscopy
+SOST	110	133	NMR spectroscopy
+SOST	115	121	X-ray crystallography
+SOST	115	121	Interaction assays
+SOST	110	133	Other
+BASP1	1	227	NMR spectroscopy
+BASP1	1	227	Chromatography/electrophoresis
+BASP1	1	67	Chromatography/electrophoresis
+BASP1	1	227	Electron microscopy
+BASP1	1	60	NMR spectroscopy
+BASP1	1	227	NMR spectroscopy
+IPKA	14	33	NMR spectroscopy
+IPKA	44	76	NMR spectroscopy
+PP1R8	144	225	NMR spectroscopy
+PP1R8	185	198	X-ray crystallography
+UBP7	54	64	X-ray crystallography
+UBP7	174	187	X-ray crystallography
+UBP7	105	114	X-ray crystallography
+UBP7	174	187	X-ray crystallography
+UBP7	500	509	X-ray crystallography
+UBP7	1084	1102	X-ray crystallography
+RENT2	1105	1129	NMR spectroscopy
+RENT2	1167	1207	NMR spectroscopy
+RENT2	1167	1207	X-ray crystallography
+RENT2	1130	1166	X-ray crystallography
+RENT2	430	486	X-ray crystallography
+RENT2	481	536	X-ray crystallography
+RENT2	1025	1078	Other
+RENT2	757	767	X-ray crystallography
+RENT2	1042	1050	Mass spectrometry
+RENT2	1207	1227	NMR spectroscopy
+RENT2	1167	1207	Thermodynamics
+RENT2	1171	1176	Cell-based/phenotypic assays
+RENT2	1015	1054	X-ray crystallography
+RENT2	1105	1207	NMR spectroscopy
+RENT2	1167	1207	NMR spectroscopy
+RENT2	1108	1128	X-ray crystallography
+RENT2	1105	1129	Thermodynamics
+NEUM	1	238	Chromatography/electrophoresis
+NEUM	1	238	CD/IR spectroscopy
+NEUM	1	238	Biochemical activity assays
+NEUM	1	238	NMR spectroscopy
+UBE2Z	1	99	X-ray crystallography
+UBE2Z	327	354	X-ray crystallography
+AXIN1	295	500	Chromatography/electrophoresis
+AXIN1	295	500	Fluorescence methods
+AXIN1	295	500	CD/IR spectroscopy
+AXIN1	295	500	NMR spectroscopy
+AXIN1	295	500	Other
+AXIN1	295	500	Interaction assays
+STAT2	786	816	NMR spectroscopy
+STAT2	817	838	NMR spectroscopy
+STAT1	710	719	NMR spectroscopy
+STAT1	720	750	NMR spectroscopy
+PAX5	1	30	NMR spectroscopy
+PAX5	19	30	NMR spectroscopy
+PAX5	76	92	NMR spectroscopy
+PAX5	1	18	X-ray crystallography
+P46108-2	121	133	NMR spectroscopy
+INSM1	1	20	X-ray crystallography
+PYR1	1822	1846	X-ray crystallography
+Q76LA1	1	67	CD/IR spectroscopy
+Q76LA1	1	67	Microscopy
+Q76LA1	1	67	Fluorescence methods
+EMIL1	948	966	NMR spectroscopy
+EMIL1	953	966	Other
+EMIL1	951	956	Cell-based/phenotypic assays
+EMIL1	948	966	NMR spectroscopy
+DDX4	1	236	NMR spectroscopy
+DDX4	1	236	Other
+Q9NQI0-2	1	204	NMR spectroscopy
+MBD2	238	356	NMR spectroscopy
+AF9	490	568	NMR spectroscopy
+AF9	490	568	CD/IR spectroscopy
+AF9	490	568	Biochemical activity assays
+P61244-2	84	151	X-ray crystallography
+Q16222-2	54	68	X-ray crystallography
+O00204-2	1	10	X-ray crystallography
+O00204-2	339	350	X-ray crystallography
+P10636-8	1	441	Small-angle scattering
+P10636-8	1	441	CD/IR spectroscopy
+P10636-8	1	441	CD/IR spectroscopy
+P10636-8	1	441	CD/IR spectroscopy
+P10636-8	1	441	Microscopy
+P10636-8	1	441	Other
+P10636-8	1	441	Chromatography/electrophoresis
+P10636-8	1	441	Other
+P10636-8	1	441	Thermodynamics
+P10636-8	1	441	Other
+P10636-8	1	441	Microscopy
+P10636-8	1	441	Other
+P10636-8	1	441	CD/IR spectroscopy
+P10636-8	1	441	CD/IR spectroscopy
+P10636-8	1	441	Small-angle scattering
+FUS	1	507	X-ray crystallography
+FUS	508	526	X-ray crystallography
+FUS	37	41	NMR spectroscopy
+FUS	149	154	NMR spectroscopy
+FUS	1	163	Fluorescence methods
+FUS	1	526	Other
+FUS	285	370	NMR spectroscopy
+FUS	421	455	NMR spectroscopy
+FUS	1	526	Other
+FUS	1	163	NMR spectroscopy
+FUS	1	163	Other
+FUS	1	526	Other
+FUS	1	163	Microscopy
+FUS	1	526	Fluorescence methods
+FUS	1	214	Fluorescence methods
+FUS	1	214	Microscopy
+FUS	1	214	Other
+FUS	1	526	Fluorescence methods
+FUS	1	422	Fluorescence methods
+FUS	1	526	Fluorescence methods
+FUS	1	526	Fluorescence methods
+FUS	1	526	Fluorescence methods
+FUS	2	36	NMR spectroscopy
+FUS	98	214	NMR spectroscopy
+FUS	39	95	NMR spectroscopy
+FUS	1	211	Other
+FUS	305	368	Cell-based/phenotypic assays
+FUS	1	526	Microscopy
+FUS	1	526	Microscopy
+FUS	221	526	Fluorescence methods
+FUS	221	526	Other
+FUS	221	526	Fluorescence methods
+FUS	221	526	Other
+FUS	1	526	Fluorescence methods
+FUS	221	526	Fluorescence methods
+FUS	1	211	Fluorescence methods
+FUS	221	526	Fluorescence methods
+CAC1S	665	785	CD/IR spectroscopy
+CAC1S	665	785	NMR spectroscopy
+CAC1S	666	791	CD/IR spectroscopy
+NOTC1	1758	1888	NMR spectroscopy
+PRLR	236	598	Small-angle scattering
+PRLR	236	598	CD/IR spectroscopy
+PRLR	236	598	Other
+PRLR	236	396	NMR spectroscopy
+PRLR	236	396	Other
+PRLR	236	300	Other
+PRLR	350	383	Other
+PRLR	547	598	NMR spectroscopy
+PRLR	281	285	NMR spectroscopy
+TADBP	266	414	NMR spectroscopy
+TADBP	266	414	Microscopy
+TADBP	266	414	Other
+TADBP	267	414	NMR spectroscopy
+TADBP	267	414	Microscopy
+TADBP	267	414	Fluorescence methods
+TADBP	267	414	Other
+TADBP	321	343	Other
+TADBP	266	414	Microscopy
+TADBP	266	414	Other
+TADBP	263	414	CD/IR spectroscopy
+TADBP	263	414	NMR spectroscopy
+TADBP	263	414	CD/IR spectroscopy
+TADBP	263	414	NMR spectroscopy
+TADBP	263	414	Fluorescence methods
+TADBP	263	414	Microscopy
+TADBP	263	414	CD/IR spectroscopy
+TADBP	263	414	NMR spectroscopy
+TADBP	263	414	CD/IR spectroscopy
+TADBP	263	414	NMR spectroscopy
+ROA2	190	341	NMR spectroscopy
+ROA2	190	341	Other
+ROA2	190	341	Fluorescence methods
+ROA2	190	341	Microscopy
+UBQL2	450	576	NMR spectroscopy
+UBQL2	450	576	Fluorescence methods
+SQSTM	341	386	NMR spectroscopy
+SQSTM	341	386	CD/IR spectroscopy
+P85A	91	104	NMR spectroscopy
+P85A	91	104	CD/IR spectroscopy
+P85A	91	104	Thermodynamics
+NCK1	59	108	NMR spectroscopy
+NCK1	59	108	Microscopy
+NF2L2	69	84	X-ray crystallography
+NF2L2	1	605	Chromatography/electrophoresis
+NF2L2	1	605	CD/IR spectroscopy
+NF2L2	1	605	NMR spectroscopy
+NF2L2	1	605	Mass spectrometry
+NF2L2	17	46	Mass spectrometry
+NF2L2	76	84	Mass spectrometry
+NF2L2	17	46	Mass spectrometry
+NF2L2	74	87	Other
+NF2L2	1	56	Interaction assays
+NF2L2	1	605	Fluorescence methods
+NF2L2	1	208	Fluorescence methods
+NF2L2	209	605	Fluorescence methods
+NF2L2	209	605	Fluorescence methods
+NF2L2	1	208	Fluorescence methods
+NF2L2	1	208	Cell-based/phenotypic assays
+NF2L2	1	605	Fluorescence methods
+KMT2A	140	160	NMR spectroscopy
+KMT2A	140	160	Thermodynamics
+BUB1B	20	42	X-ray crystallography
+BUB1B	20	42	Other
+CDC20	81	164	X-ray crystallography
+CDC20	477	499	X-ray crystallography
+CTNB1	19	44	X-ray crystallography
+CTNB1	692	781	X-ray crystallography
+CTNB1	687	781	NMR spectroscopy
+CTNB1	1	137	Biochemical activity assays
+CTNB1	772	781	X-ray crystallography
+CTNB1	19	44	X-ray crystallography
+CTNB1	43	47	Other
+CTNB1	17	21	Biochemical activity assays
+CTNB1	21	25	Other
+CTNB1	39	43	Other
+CTNB1	35	39	Other
+CTNB1	31	35	Other
+CTNB1	21	25	Other
+CTNB1	27	31	Other
+CTNB1	47	51	Other
+CTNB1	62	66	Other
+CTNB1	772	781	Thermodynamics
+CTNB1	683	781	Interaction assays
+CTNB1	31	35	Cell-based/phenotypic assays
+CTNB1	33	37	Cell-based/phenotypic assays
+CTNB1	32	37	X-ray crystallography
+CTNB1	30	40	X-ray crystallography
+CTNB1	17	21	Cell-based/phenotypic assays
+CCNE1	360	373	X-ray crystallography
+ZAP70	258	302	X-ray crystallography
+ZAP70	484	500	X-ray crystallography
+FOXA2	240	258	X-ray crystallography
+O43806	25	93	NMR spectroscopy
+O43806	22	97	CD/IR spectroscopy
+O43806	22	97	Fluorescence methods
+O43806	1	158	CD/IR spectroscopy
+O43806	22	97	CD/IR spectroscopy
+O43806	22	97	NMR spectroscopy
+O43806	22	97	Other
+NUMB	68	78	NMR spectroscopy
+HSPB6	1	56	Biochemical activity assays
+HSPB6	24	39	Cell-based/phenotypic assays
+HSPB6	1	56	Small-angle scattering
+HSPB6	39	69	X-ray crystallography
+HSPB6	27	38	X-ray crystallography
+HSPB6	2	10	X-ray crystallography
+HSPB6	13	20	X-ray crystallography
+HSPB6	27	34	X-ray crystallography
+FOXO1	242	266	X-ray crystallography
+FOXO1	246	262	X-ray crystallography
+Q00987-11	216	302	NMR spectroscopy
+GLI3	106	236	NMR spectroscopy
+CPIN1	173	266	NMR spectroscopy
+BECN1	1	150	CD/IR spectroscopy
+BECN1	1	150	NMR spectroscopy
+BECN1	1	150	NMR spectroscopy
+BECN1	1	150	Chromatography/electrophoresis
+BECN1	1	150	Other
+BECN1	1	150	Chromatography/electrophoresis
+BECN1	105	130	Interaction assays
+BECN1	98	132	Other
+BECN1	105	130	Other
+BECN1	105	130	NMR spectroscopy
+BECN1	105	130	CD/IR spectroscopy
+BECN1	105	130	Thermodynamics
+BECN1	105	130	CD/IR spectroscopy
+BECN1	141	156	X-ray crystallography
+BECN1	104	131	Interaction assays
+BECN1	104	131	Other
+BECN1	104	131	Fluorescence methods
+BECN1	105	130	NMR spectroscopy
+BECN1	105	130	X-ray crystallography
+BECN1	1	135	Thermodynamics
+BECN1	105	130	Thermodynamics
+BECN1	105	130	Other
+BECN1	105	130	X-ray crystallography
+BECN1	105	130	Interaction assays
+BECN1	96	102	X-ray crystallography
+BECN1	76	105	CD/IR spectroscopy
+BECN1	50	78	CD/IR spectroscopy
+BECN1	105	130	CD/IR spectroscopy
+BECN1	96	101	Cell-based/phenotypic assays
+BECN1	97	100	Interaction assays
+BECN1	97	100	Cell-based/phenotypic assays
+H10	98	194	CD/IR spectroscopy
+H10	1	22	CD/IR spectroscopy
+H10	98	194	NMR spectroscopy
+H10	1	22	NMR spectroscopy
+H10	104	194	Fluorescence methods
+H10	101	194	Other
+H2A1B	1	27	NMR spectroscopy
+H2A1B	98	130	NMR spectroscopy
+H2B1J	1	38	NMR spectroscopy
+NUPR2	1	97	CD/IR spectroscopy
+NUPR2	1	97	Fluorescence methods
+NUPR2	1	97	NMR spectroscopy
+PRP19	169	194	X-ray crystallography
+MYPT1	1	40	NMR spectroscopy
+ASPP2	331	692	Chromatography/electrophoresis
+ASPP2	331	692	CD/IR spectroscopy
+ASPP2	331	692	NMR spectroscopy
+ASPP2	693	918	Chromatography/electrophoresis
+ASPP2	693	918	CD/IR spectroscopy
+ASPP2	484	692	Interaction assays
+ASPP2	331	692	Other
+ASPP2	484	692	Thermodynamics
+ASPP2	693	918	Thermodynamics
+ASPP2	710	904	Other
+ASPP2	693	918	Interaction assays
+ASPP2	693	752	Other
+ASPP2	893	912	Other
+ASPP2	693	918	Fluorescence methods
+ASPP2	693	918	Other
+NMNA1	109	146	X-ray crystallography
+B3AT	1	54	X-ray crystallography
+TAF4	408	838	CD/IR spectroscopy
+TAF4	408	838	Small-angle scattering
+TAF4	408	838	NMR spectroscopy
+TAF4	408	838	Interaction assays
+WASP	201	268	CD/IR spectroscopy
+WASP	201	268	NMR spectroscopy
+WIPF1	2	101	CD/IR spectroscopy
+WIPF1	2	65	NMR spectroscopy
+WIPF1	2	101	NMR spectroscopy
+WIPF1	407	503	NMR spectroscopy
+WIPF1	407	503	NMR spectroscopy
+KISS1	20	138	Chromatography/electrophoresis
+KISS1	20	138	NMR spectroscopy
+KISS1	20	138	Thermodynamics
+KISS1	20	138	CD/IR spectroscopy
+KISS1	20	138	Small-angle scattering
+KLF4	1	130	NMR spectroscopy
+NOLC1	1	699	Thermodynamics
+NOLC1	1	699	CD/IR spectroscopy
+NOLC1	1	699	Biochemical activity assays
+NOLC1	1	699	NMR spectroscopy
+NOLC1	1	699	Chromatography/electrophoresis
+PAK4	9	68	NMR spectroscopy
+PAK4	9	68	CD/IR spectroscopy
+PSMD4	246	256	NMR spectroscopy
+PSMD4	305	377	NMR spectroscopy
+PSMD4	332	341	NMR spectroscopy
+PSMD4	328	361	NMR spectroscopy
+PSMD4	350	361	NMR spectroscopy
+PSMD4	305	377	CD/IR spectroscopy
+PSMD4	305	377	Interaction assays
+PSMD4	305	377	Thermodynamics
+PSMD4	305	377	Interaction assays
+PSMD4	305	377	CD/IR spectroscopy
+CDT1	92	159	Other
+CDT1	356	410	Other
+PR15A	513	631	NMR spectroscopy
+PR15A	513	631	Thermodynamics
+PR15A	1	674	Biochemical activity assays
+PR15A	554	674	Interaction assays
+PR15A	325	554	Interaction assays
+PR15A	1	674	Interaction assays
+PR15A	355	674	Other
+SMAD1	217	267	X-ray crystallography
+MTSS1	739	753	X-ray crystallography
+Q9UMZ1	1	101	Mass spectrometry
+Q9UMZ1	1	101	Other
+Q9UMZ1	1	101	NMR spectroscopy
+Q9UMZ1	1	101	CD/IR spectroscopy
+Q9UMZ1	1	101	Small-angle scattering
+SEC13	305	316	X-ray crystallography
+SEC13	1	14	X-ray crystallography
+MX1	438	447	X-ray crystallography
+MX1	532	572	X-ray crystallography
+CDC23	1	25	Cryo-EM
+CDC23	558	597	Cryo-EM
+SL9A1	680	815	NMR spectroscopy
+SL9A1	686	815	Small-angle scattering
+SL9A1	686	815	CD/IR spectroscopy
+SL9A1	786	795	NMR spectroscopy
+SL9A1	686	815	NMR spectroscopy
+SL9A1	786	795	CD/IR spectroscopy
+SL9A1	680	815	NMR spectroscopy
+SL9A1	745	766	Other
+SL9A1	745	766	Other
+PDE5A	128	145	X-ray crystallography
+PDE5A	395	406	X-ray crystallography
+PDE5A	840	850	X-ray crystallography
+VAPB	1	125	CD/IR spectroscopy
+VAPB	125	150	CD/IR spectroscopy
+VAPB	125	150	NMR spectroscopy
+VAPB	1	125	Other
+VAPB	1	125	NMR spectroscopy
+VAPB	1	125	CD/IR spectroscopy
+VAPB	1	125	NMR spectroscopy
+CXCR4	1	26	X-ray crystallography
+CXCR4	1	24	X-ray crystallography
+CXCR4	304	319	X-ray crystallography
+CXCR4	1	27	X-ray crystallography
+CXCR4	1	34	X-ray crystallography
+CXCR4	313	325	X-ray crystallography
+TGFB1	240	261	X-ray crystallography
+TGFB1	257	260	Cell-based/phenotypic assays
+RLA1	63	114	NMR spectroscopy
+XRCC6	533	609	X-ray crystallography
+XRCC5	546	565	X-ray crystallography
+CETN2	1	22	X-ray crystallography
+TAF6	1	216	Cryo-EM
+TAF6	437	677	Cryo-EM
+DCR1B	314	335	X-ray crystallography
+KNL1	176	200	X-ray crystallography
+KNL1	217	226	X-ray crystallography
+KNL1	234	252	CD/IR spectroscopy
+KNL1	237	251	X-ray crystallography
+KNL1	234	252	Mass spectrometry
+KNL1	234	252	NMR spectroscopy
+KNL1	234	252	X-ray crystallography
+MARE1	256	268	X-ray crystallography
+MARE1	252	268	NMR spectroscopy
+MARE1	250	257	NMR spectroscopy
+MCAF1	938	964	NMR spectroscopy
+MSL1	558	568	X-ray crystallography
+MS3L1	226	246	X-ray crystallography
+MS3L1	508	518	X-ray crystallography
+A4	672	711	CD/IR spectroscopy
+A4	672	686	NMR spectroscopy
+A4	672	711	CD/IR spectroscopy
+A4	672	711	NMR spectroscopy
+A4	672	711	Fluorescence methods
+A4	672	711	NMR spectroscopy
+RBBP7	90	110	X-ray crystallography
+RBBP7	409	425	X-ray crystallography
+CHMP3	184	199	X-ray crystallography
+RPB1	1773	1970	NMR spectroscopy
+RPB1	1773	1960	Fluorescence methods
+ATMIN	362	823	Chromatography/electrophoresis
+PSN1	1	77	Cryo-EM
+PSN1	262	378	Cryo-EM
+4EBP2	1	120	NMR spectroscopy
+4EBP2	18	62	NMR spectroscopy
+4EBP2	1	120	Thermodynamics
+CDKA1	1	60	Mass spectrometry
+TAP1	1	112	Cryo-EM
+PQBP1	82	265	Microscopy
+PQBP1	1	265	Fluorescence methods
+PQBP1	1	265	Chromatography/electrophoresis
+PQBP1	1	265	Other
+PQBP1	1	265	CD/IR spectroscopy
+PQBP1	1	265	Small-angle scattering
+PQBP1	223	265	Interaction assays
+PQBP1	223	265	NMR spectroscopy
+PQBP1	223	265	Cell-based/phenotypic assays
+PQBP1	220	265	NMR spectroscopy
+PQBP1	238	260	X-ray crystallography
+PQBP1	223	243	X-ray crystallography
+PQBP1	238	260	X-ray crystallography
+PQBP1	1	265	CD/IR spectroscopy
+PQBP1	1	265	NMR spectroscopy
+PQBP1	94	265	NMR spectroscopy
+PQBP1	94	265	CD/IR spectroscopy
+PQBP1	1	265	Interaction assays
+PQBP1	193	265	Interaction assays
+PQBP1	1	265	Chromatography/electrophoresis
+CDK9	87	98	X-ray crystallography
+CDK9	328	372	X-ray crystallography
+CDK9	328	338	X-ray crystallography
+CDK9	345	357	Fluorescence methods
+CDK9	259	273	X-ray crystallography
+CDK9	88	97	X-ray crystallography
+CDK9	330	372	Biochemical activity assays
+FBLI1	5	19	X-ray crystallography
+FBLI1	1	85	NMR spectroscopy
+SCMC1	50	78	NMR spectroscopy
+SCMC1	99	109	NMR spectroscopy
+SCMC1	99	109	X-ray crystallography
+SCMC1	159	170	NMR spectroscopy
+SCMC1	1	21	X-ray crystallography
+SCMC1	177	193	X-ray crystallography
+SCMC1	99	109	NMR spectroscopy
+SCMC1	159	170	NMR spectroscopy
+SCMC1	68	79	X-ray crystallography
+SUFU	279	360	X-ray crystallography
+HCN1	1	93	Cryo-EM
+SMAD2	241	264	X-ray crystallography
+SMAD2	457	467	X-ray crystallography
+SMAD2	457	467	X-ray crystallography
+SMAD2	463	467	X-ray crystallography
+SMAD2	18	33	NMR spectroscopy
+SMAD2	18	33	X-ray crystallography
+SMAD2	18	33	Small-angle scattering
+TNR6C	1592	1606	X-ray crystallography
+TNR6C	1587	1608	NMR spectroscopy
+TNR6C	1591	1606	X-ray crystallography
+TNR6C	1591	1606	NMR spectroscopy
+TNR6C	1591	1606	X-ray crystallography
+TNR6C	1591	1606	Thermodynamics
+O43236-6	248	274	NMR spectroscopy
+O43236-6	248	274	CD/IR spectroscopy
+ATG4B	190	216	X-ray crystallography
+ATG4B	387	392	Cell-based/phenotypic assays
+ATG4B	191	215	X-ray crystallography
+ATG4B	187	217	X-ray crystallography
+ATG4B	378	393	X-ray crystallography
+ATG4B	388	391	Other
+ATG4B	388	391	Other
+ATG4B	388	391	X-ray crystallography
+ATG4B	191	215	X-ray crystallography
+HDBP1	21	54	Chromatography/electrophoresis
+HDBP1	21	54	Small-angle scattering
+HDBP1	21	54	Biochemical activity assays
+HDBP1	21	54	NMR spectroscopy
+AMRA1	527	541	CD/IR spectroscopy
+ELK4	94	136	X-ray crystallography
+LEG3	20	100	Small-angle scattering
+LEG3	1	115	NMR spectroscopy
+LEG3	20	100	Microscopy
+LEG3	20	100	NMR spectroscopy
+LEG3	1	40	NMR spectroscopy
+LEG3	1	112	Microscopy
+LEG3	1	112	NMR spectroscopy
+KRIT1	118	128	X-ray crystallography
+DKK1	250	260	X-ray crystallography
+UBE2W	136	145	NMR spectroscopy
+MP2K6	1	43	X-ray crystallography
+NFAC2	131	294	NMR spectroscopy
+ING4	119	188	CD/IR spectroscopy
+RFA2	1	42	X-ray crystallography
+RFA2	175	270	X-ray crystallography
+RAN	33	44	X-ray crystallography
+RAN	123	144	X-ray crystallography
+RAN	170	198	X-ray crystallography
+STON2	301	340	NMR spectroscopy
+STON2	301	331	NMR spectroscopy
+LDLR	163	175	NMR spectroscopy
+LDLR	354	393	X-ray crystallography
+MP2K4	49	62	NMR spectroscopy
+MP2K4	1	86	NMR spectroscopy
+MP2K4	12	86	Other
+MP2K4	12	86	Thermodynamics
+MP2K4	38	49	NMR spectroscopy
+MP2K4	41	48	Other
+MP2K4	40	48	Other
+FGF13	213	237	X-ray crystallography
+CDC37	1	25	NMR spectroscopy
+CDC37	112	126	NMR spectroscopy
+CDC37	344	378	NMR spectroscopy
+PAF15	1	111	NMR spectroscopy
+PAF15	1	111	CD/IR spectroscopy
+PAF15	1	111	Small-angle scattering
+PAF15	1	111	Other
+PAF15	62	69	NMR spectroscopy
+PAF15	50	77	Thermodynamics
+PAF15	1	31	Thermodynamics
+PAF15	51	71	X-ray crystallography
+PAF15	1	31	Fluorescence methods
+PAF15	50	77	Fluorescence methods
+PAF15	1	31	Fluorescence methods
+PAF15	50	77	NMR spectroscopy
+PAF15	1	111	Electron microscopy
+RB	84	93	X-ray crystallography
+RB	590	635	Biochemical activity assays
+RB	500	513	X-ray crystallography
+RB	346	370	Small-angle scattering
+RB	346	370	X-ray crystallography
+RB	355	370	Biochemical activity assays
+RB	245	269	X-ray crystallography
+RB	500	511	X-ray crystallography
+RB	577	615	X-ray crystallography
+RB	578	589	X-ray crystallography
+RB	786	928	Biochemical activity assays
+RB	786	928	NMR spectroscopy
+RB	829	873	X-ray crystallography
+E2F1	200	301	NMR spectroscopy
+E2F1	200	301	X-ray crystallography
+SDC4	171	198	NMR spectroscopy
+PAGE4	1	102	NMR spectroscopy
+PAGE4	1	102	CD/IR spectroscopy
+PAGE4	1	102	NMR spectroscopy
+PAGE4	40	70	NMR spectroscopy
+PAGE4	49	53	NMR spectroscopy
+PAGE4	7	11	NMR spectroscopy
+PAGE4	7	11	Mass spectrometry
+PAGE4	49	53	Mass spectrometry
+PAGE4	69	73	NMR spectroscopy
+CSKP	335	401	CD/IR spectroscopy
+CSKP	394	460	CD/IR spectroscopy
+CSKP	304	337	X-ray crystallography
+CSKP	307	337	Other
+CSKP	317	345	X-ray crystallography
+CSKP	305	337	X-ray crystallography
+ETS1	276	318	X-ray crystallography
+APC5	1	26	Cryo-EM
+APC5	1	24	Cryo-EM
+APC5	168	205	Cryo-EM
+APC5	170	205	Cryo-EM
+APC5	353	413	Cryo-EM
+CDC27	171	450	Cryo-EM
+CDC27	767	824	Cryo-EM
+CDC27	180	447	X-ray crystallography
+CDC27	769	824	X-ray crystallography
+NOD1	111	138	NMR spectroscopy
+CCND3	255	292	X-ray crystallography
+CCND3	1	22	X-ray crystallography
+CCND3	281	285	Biochemical activity assays
+SF01	1	25	NMR spectroscopy
+SF01	69	95	NMR spectroscopy
+FBX5	1	318	Cryo-EM
+FBX5	332	355	Cryo-EM
+FBX5	437	447	Cryo-EM
+FBX5	305	374	NMR spectroscopy
+FBX5	421	447	NMR spectroscopy
+FBX5	421	447	Other
+FBX5	305	374	Other
+FBX5	321	330	Microscopy
+FBX5	321	330	Cell-based/phenotypic assays
+FBX5	421	447	Fluorescence methods
+FBX5	338	359	Cell-based/phenotypic assays
+FBX5	338	359	Other
+FBX5	338	359	NMR spectroscopy
+NXF1	102	118	X-ray crystallography
+NXF1	96	117	X-ray crystallography
+CDC16	96	126	Cryo-EM
+CDC16	96	123	Cryo-EM
+CDC16	528	620	Cryo-EM
+CDC16	94	126	Cryo-EM
+CDC16	528	620	Cryo-EM
+CDC16	534	620	Cryo-EM
+CDC26	26	85	Cryo-EM
+APC15	57	121	Cryo-EM
+APC16	1	51	Cryo-EM
+U2AF1	38	152	NMR spectroscopy
+TNPO1	319	371	X-ray crystallography
+SF3B6	100	125	NMR spectroscopy
+SF3B6	1	20	NMR spectroscopy
+STK3	314	427	NMR spectroscopy
+STK3	365	367	Cell-based/phenotypic assays
+STK3	365	367	Other
+STK3	365	367	Other
+STK3	365	367	Interaction assays
+AFF4	22	32	X-ray crystallography
+AFF4	2	73	X-ray crystallography
+AFF4	1	300	Biochemical activity assays
+AFF4	300	600	Biochemical activity assays
+AFF4	600	900	Biochemical activity assays
+AFF4	5	23	X-ray crystallography
+AFF4	36	69	X-ray crystallography
+APLF	399	420	NMR spectroscopy
+APLF	450	511	NMR spectroscopy
+PAGE5	20	130	NMR spectroscopy
+NPM	189	259	CD/IR spectroscopy
+NPM	120	130	NMR spectroscopy
+NPM	119	243	CD/IR spectroscopy
+NPM	120	243	Interaction assays
+NPM	120	188	Other
+NPM	120	188	Other
+NPM	189	243	Other
+NPM	197	201	Biochemical activity assays
+NPM	217	221	Biochemical activity assays
+NPM	233	237	Biochemical activity assays
+DSG1	774	1049	CD/IR spectroscopy
+DSG1	774	1049	Chromatography/electrophoresis
+DSG1	774	1049	NMR spectroscopy
+DSG1	774	1049	Interaction assays
+APC4	304	317	X-ray crystallography
+APC4	431	444	X-ray crystallography
+APC4	458	472	X-ray crystallography
+APC4	458	469	Cryo-EM
+APC4	758	808	Cryo-EM
+APC4	480	521	X-ray crystallography
+APC4	758	808	X-ray crystallography
+APC7	77	97	Cryo-EM
+APC7	77	96	X-ray crystallography
+APC7	507	565	Cryo-EM
+NEIL1	312	389	Small-angle scattering
+NEIL1	312	389	CD/IR spectroscopy
+ERBB2	988	1255	NMR spectroscopy
+ERBB2	988	1255	CD/IR spectroscopy
+ERBB2	988	1255	Small-angle scattering
+ERBB2	988	1255	NMR spectroscopy
+CD79A	166	226	CD/IR spectroscopy
+CD79B	181	229	CD/IR spectroscopy
+PRGC1	2	220	NMR spectroscopy
+PRGC1	2	220	Other
+PRGC1	2	220	Chromatography/electrophoresis
+PRGC1	2	220	Small-angle scattering
+PRGC1	2	220	CD/IR spectroscopy
+DLL4	553	685	CD/IR spectroscopy
+DLL4	553	685	NMR spectroscopy
+DLL4	553	685	Chromatography/electrophoresis
+OSBP1	346	379	NMR spectroscopy
+HMGB1	188	214	CD/IR spectroscopy
+HMGB1	188	214	Thermodynamics
+HMGB1	188	214	Other
+HMGB1	166	214	NMR spectroscopy
+HMGB1	188	214	NMR spectroscopy
+GSTA1	208	222	X-ray crystallography
+GAB2	504	524	NMR spectroscopy
+KS6A1	683	735	NMR spectroscopy
+KS6A1	683	735	CD/IR spectroscopy
+KS6A1	712	727	X-ray crystallography
+KS6A1	730	735	NMR spectroscopy
+KS6A1	730	735	Other
+KS6A1	696	735	Other
+KS6A1	709	735	X-ray crystallography
+KS6A1	731	735	Biochemical activity assays
+KS6A1	577	588	X-ray crystallography
+KS6A1	729	735	Thermodynamics
+KS6A1	730	735	Thermodynamics
+KS6A1	725	729	Other
+KS6A1	725	732	Other
+KS6A1	712	726	X-ray crystallography
+PAX8	64	86	NMR spectroscopy
+PAX8	135	146	NMR spectroscopy
+PAX8	1	28	NMR spectroscopy
+Q02297-10	1	75	Chromatography/electrophoresis
+Q02297-10	1	75	Small-angle scattering
+Q02297-10	1	75	CD/IR spectroscopy
+Q02297-10	1	75	Thermodynamics
+FZR1	1	41	Cryo-EM
+FZR1	68	87	Cryo-EM
+FZR1	109	124	Cryo-EM
+FZR1	133	145	Cryo-EM
+ANC2	1	14	Cryo-EM
+ANC2	30	52	Cryo-EM
+ANC2	221	231	Cryo-EM
+ANC2	459	475	Cryo-EM
+ANC2	305	319	Cryo-EM
+ANC2	731	822	Cryo-EM
+WBP4	276	376	NMR spectroscopy
+Q9NS23-4	1	50	NMR spectroscopy
+Q9NS23-4	61	72	NMR spectroscopy
+SOS1	1141	1300	CD/IR spectroscopy
+SOS1	1141	1300	Other
+SOS1	1141	1300	Small-angle scattering
+SOS1	1117	1319	Fluorescence methods
+SOS1	1117	1319	Chromatography/electrophoresis
+O00429-3	505	515	X-ray crystallography
+O00429-3	503	610	Cell-based/phenotypic assays
+O00429-3	74	83	X-ray crystallography
+O00429-3	503	610	Cryo-EM
+PRGR	1	545	Biochemical activity assays
+PRGR	1	566	Mass spectrometry
+PRGR	632	641	Cell-based/phenotypic assays
+PRGR	165	545	CD/IR spectroscopy
+PRGR	165	545	Mass spectrometry
+PRGR	165	545	Biochemical activity assays
+PRGR	350	428	Biochemical activity assays
+PRGR	165	535	CD/IR spectroscopy
+PRGR	165	545	Fluorescence methods
+PRGR	1	545	Fluorescence methods
+PRGR	1	545	CD/IR spectroscopy
+PRGR	165	559	NMR spectroscopy
+PRGR	632	682	NMR spectroscopy
+PRGR	1	545	Interaction assays
+PRGR	165	545	Interaction assays
+PRGR	165	545	Interaction assays
+PRGR	350	428	CD/IR spectroscopy
+PRGR	636	654	Interaction assays
+PRGR	637	641	Other
+PRGR	188	192	Other
+PRGR	398	402	Other
+PRGR	292	296	Other
+PRGR	342	347	Other
+PRGR	637	641	Other
+PRGR	637	641	Cell-based/phenotypic assays
+PRGR	637	641	Genetic/transcriptional assays
+BLNK	5	50	NMR spectroscopy
+BLNK	5	50	Cell-based/phenotypic assays
+BLNK	1	330	Other
+BLNK	1	40	Cell-based/phenotypic assays
+BLNK	1	40	Other
+AA2AR	293	412	CD/IR spectroscopy
+AA2AR	293	412	Fluorescence methods
+AA2AR	293	412	NMR spectroscopy
+AA2AR	293	412	Small-angle scattering
+AA2AR	293	412	Chromatography/electrophoresis
+AA2AR	293	412	NMR spectroscopy
+AA2AR	291	311	Cell-based/phenotypic assays
+AA2AR	293	320	Thermodynamics
+AA2AR	293	320	NMR spectroscopy
+AA2AR	293	412	Interaction assays
+AA2AR	293	320	Chromatography/electrophoresis
+AA2AR	317	412	Chromatography/electrophoresis
+AA2AR	354	359	Chromatography/electrophoresis
+AA2AR	293	412	Small-angle scattering
+ELYS	1018	2266	X-ray crystallography
+SORT	97	108	X-ray crystallography
+S10A5	38	52	NMR spectroscopy
+KS6B1	422	525	NMR spectroscopy
+KS6B1	422	525	Chromatography/electrophoresis
+KS6B1	422	525	Chromatography/electrophoresis
+KS6B1	75	84	X-ray crystallography
+KS6B1	130	140	X-ray crystallography
+KS6B1	243	254	X-ray crystallography
+KS6B1	379	399	X-ray crystallography
+KS6B1	250	255	X-ray crystallography
+KS6B1	373	399	X-ray crystallography
+KS6B1	250	255	Biochemical activity assays
+ZN274	4	77	NMR spectroscopy
+ZN274	4	77	Biochemical activity assays
+ZN274	4	246	CD/IR spectroscopy
+DD19B	55	91	X-ray crystallography
+MCR	1	169	Fluorescence methods
+MCR	1	169	CD/IR spectroscopy
+MCR	247	385	CD/IR spectroscopy
+MCR	247	385	Biochemical activity assays
+MCR	1	602	Fluorescence methods
+MCR	1	602	CD/IR spectroscopy
+MCR	1	602	Interaction assays
+MCR	1	169	Interaction assays
+MCR	450	602	Interaction assays
+MCR	247	385	Other
+MCR	1	169	Other
+MCR	450	602	Other
+MCR	465	471	Cell-based/phenotypic assays
+ILF2	362	390	X-ray crystallography
+SRC	1	84	NMR spectroscopy
+LCK	69	86	NMR spectroscopy
+LCK	97	114	NMR spectroscopy
+EFNB2	253	300	NMR spectroscopy
+EFNB2	323	333	NMR spectroscopy
+EFNB2	301	322	NMR spectroscopy
+EFNB2	301	322	CD/IR spectroscopy
+FUBP2	130	218	NMR spectroscopy
+FUBP2	130	218	CD/IR spectroscopy
+PDX1	204	283	NMR spectroscopy
+VPS25	133	145	X-ray crystallography
+PTBP1	409	425	NMR spectroscopy
+PTBP1	431	454	NMR spectroscopy
+PTBP1	143	184	NMR spectroscopy
+STING	342	379	X-ray crystallography
+STING	359	379	X-ray crystallography
+STING	358	379	Mass spectrometry
+STING	344	379	X-ray crystallography
+STING	342	379	Interaction assays
+STING	358	366	Cell-based/phenotypic assays
+PAWR	59	77	NMR spectroscopy
+PAWR	62	81	X-ray crystallography
+PAWR	62	77	NMR spectroscopy
+KCNE3	1	10	NMR spectroscopy
+KCNE3	31	56	NMR spectroscopy
+FERM2	328	367	NMR spectroscopy
+FERM2	350	357	NMR spectroscopy
+FERM2	1	15	NMR spectroscopy
+FERM2	95	105	NMR spectroscopy
+FERM2	350	357	Interaction assays
+IRF3	173	188	X-ray crystallography
+DBLOH	56	69	X-ray crystallography
+DBLOH	56	67	X-ray crystallography
+DBLOH	56	70	X-ray crystallography
+DBLOH	56	65	X-ray crystallography
+HNF1A	181	200	X-ray crystallography
+RAD51	1	15	NMR spectroscopy
+RAD51	86	114	NMR spectroscopy
+RAD51	1	21	Cryo-EM
+XPC	815	940	Thermodynamics
+XPC	815	940	Small-angle scattering
+XPC	815	940	NMR spectroscopy
+XPC	815	940	CD/IR spectroscopy
+XPC	847	863	CD/IR spectroscopy
+T2EA	378	393	NMR spectroscopy
+MCFD2	27	66	NMR spectroscopy
+MCFD2	27	146	NMR spectroscopy
+MCFD2	27	146	CD/IR spectroscopy
+MCFD2	27	52	CD/IR spectroscopy
+MCFD2	53	146	CD/IR spectroscopy
+MCFD2	66	101	NMR spectroscopy
+MCFD2	113	146	NMR spectroscopy
+MCFD2	66	101	NMR spectroscopy
+MCFD2	102	112	NMR spectroscopy
+KLF1	51	90	NMR spectroscopy
+KLF1	1	40	NMR spectroscopy
+KLF1	1	90	NMR spectroscopy
+KLF1	23	36	NMR spectroscopy
+KLF1	27	31	Cell-based/phenotypic assays
+KLF1	27	31	Other
+SRSF1	196	215	NMR spectroscopy
+SRSF1	107	120	NMR spectroscopy
+SRSF1	196	248	NMR spectroscopy
+SRSF1	204	219	NMR spectroscopy
+SRSF1	242	247	NMR spectroscopy
+HSBP1	1	10	NMR spectroscopy
+HSBP1	60	76	Biochemical activity assays
+HSBP1	60	76	NMR spectroscopy
+FGF2	143	160	X-ray crystallography
+PTN7	37	52	X-ray crystallography
+RORG	479	518	X-ray crystallography
+RORG	500	518	X-ray crystallography
+SMAD3	1	10	X-ray crystallography
+SMAD3	133	144	X-ray crystallography
+UHRF1	165	181	NMR spectroscopy
+UHRF1	286	301	NMR spectroscopy
+UHRF1	490	501	X-ray crystallography
+UHRF1	646	678	X-ray crystallography
+RL4	46	63	X-ray crystallography
+RL4	80	114	X-ray crystallography
+RL4	301	320	X-ray crystallography
+RL4	369	427	X-ray crystallography
+BID	1	12	NMR spectroscopy
+BID	43	77	NMR spectroscopy
+BID	76	106	NMR spectroscopy
+HARS1	344	355	X-ray crystallography
+HARS1	1	52	X-ray crystallography
+PIAS2	466	479	NMR spectroscopy
+PIAS2	466	474	NMR spectroscopy
+KMT2D	4210	4280	CD/IR spectroscopy
+PTMA	1	111	NMR spectroscopy
+PTMA	15	110	Other
+PTMA	15	110	Other
+PTMA	1	111	CD/IR spectroscopy
+PTMA	1	111	Fluorescence methods
+PTMA	1	111	Chromatography/electrophoresis
+PTMA	1	111	Small-angle scattering
+PTMA	1	111	Thermodynamics
+PTMA	1	111	CD/IR spectroscopy
+PTMA	1	111	Fluorescence methods
+SPTA1	1	20	NMR spectroscopy
+CARL1	1005	1020	X-ray crystallography
+SMD3	82	126	X-ray crystallography
+KHDR1	136	156	NMR spectroscopy
+KHDR1	365	378	X-ray crystallography
+KHDR1	390	419	X-ray crystallography
+KHDR1	1	96	NMR spectroscopy
+KHDR1	267	368	NMR spectroscopy
+KHDR1	30	35	Biochemical activity assays
+KHDR1	316	320	Biochemical activity assays
+KHDR1	17	21	Biochemical activity assays
+KHDR1	32	36	Biochemical activity assays
+KHDR1	56	60	Biochemical activity assays
+KHDR1	58	72	Biochemical activity assays
+KHDR1	316	320	Biochemical activity assays
+KHDR1	10	61	Other
+KHDR1	281	338	Other
+KHDR1	31	35	Other
+KHDR1	136	140	Other
+KHDR1	136	140	Cell-based/phenotypic assays
+KHDR1	31	35	Cell-based/phenotypic assays
+KHDR1	136	140	Cell-based/phenotypic assays
+KHDR1	31	35	Cell-based/phenotypic assays
+KHDR1	136	140	Cell-based/phenotypic assays
+ATG3	129	158	CD/IR spectroscopy
+NFAC1	391	400	X-ray crystallography
+NFAC1	416	425	NMR spectroscopy
+NFAC1	538	559	NMR spectroscopy
+NFAC1	384	398	Interaction assays
+NFAC1	1	414	CD/IR spectroscopy
+NFAC1	1	414	Biochemical activity assays
+NFAC1	118	131	Interaction assays
+NFAC1	384	398	NMR spectroscopy
+NFAC1	704	943	Other
+ATG9A	810	839	CD/IR spectroscopy
+ATG9A	1	35	Cryo-EM
+ATG9A	96	105	Cryo-EM
+ATG9A	523	839	Cryo-EM
+HNRPF	1	10	NMR spectroscopy
+HNRPF	100	110	NMR spectroscopy
+S100B	18	28	NMR spectroscopy
+S100B	80	91	NMR spectroscopy
+IYD1	32	70	X-ray crystallography
+IYD1	161	178	X-ray crystallography
+IYD1	199	211	X-ray crystallography
+TNNI2	97	182	NMR spectroscopy
+TNNI2	98	182	NMR spectroscopy
+ITB1	752	798	CD/IR spectroscopy
+ITB1	752	798	Interaction assays
+ITB1	784	798	X-ray crystallography
+ITB1	752	795	X-ray crystallography
+ITB1	792	796	Mass spectrometry
+ITB1	752	798	Interaction assays
+ITB1	786	791	Other
+ITB1	783	787	Cell-based/phenotypic assays
+ITB1	781	785	Other
+ITB1	793	797	Cell-based/phenotypic assays
+ITB1	752	798	Interaction assays
+RBX1	12	39	NMR spectroscopy
+RBX1	12	39	X-ray crystallography
+RBX1	1	18	X-ray crystallography
+PRP4	1	169	Other
+PRP4	1	169	CD/IR spectroscopy
+PRP4	106	169	Thermodynamics
+PRP4	106	169	Interaction assays
+PRP4	1	98	Interaction assays
+PRP4	1	169	NMR spectroscopy
+PRP4	106	169	Cell-based/phenotypic assays
+PRP4	107	137	CD/IR spectroscopy
+PRP4	107	137	X-ray crystallography
+PRDM2	197	341	NMR spectroscopy
+PRDM2	197	341	Chromatography/electrophoresis
+PRDM2	197	269	Other
+PRDM2	255	267	NMR spectroscopy
+PRDM2	297	341	Other
+PRDM2	306	322	NMR spectroscopy
+PRDM2	297	341	Thermodynamics
+PRDM2	254	267	Fluorescence methods
+PRDM2	254	267	Other
+PRDM2	309	319	Other
+PRDM2	309	319	Fluorescence methods
+TGFR2	38	48	X-ray crystallography
+TGFR2	38	48	NMR spectroscopy
+TGFR2	150	159	NMR spectroscopy
+TGFR2	38	48	X-ray crystallography
+ERR2	169	194	NMR spectroscopy
+TRPV5	587	725	Chromatography/electrophoresis
+TRPV5	587	725	CD/IR spectroscopy
+TRPV6	655	725	NMR spectroscopy
+TRPV6	655	725	Chromatography/electrophoresis
+TIRAP	15	35	NMR spectroscopy
+TIRAP	15	35	CD/IR spectroscopy
+S22AH	112	216	NMR spectroscopy
+S22AH	112	216	Chromatography/electrophoresis
+EMD	46	187	NMR spectroscopy
+EMD	67	170	NMR spectroscopy
+EMD	95	99	Cell-based/phenotypic assays
+EMD	131	135	Cell-based/phenotypic assays
+CRADD	95	136	NMR spectroscopy
+ACK1	448	489	NMR spectroscopy
+XIAP	241	254	NMR spectroscopy
+XIAP	345	356	NMR spectroscopy
+O75112-6	229	283	Biochemical activity assays
+O75112-6	85	283	NMR spectroscopy
+PDLI3	107	273	CD/IR spectroscopy
+PDLI3	107	273	Chromatography/electrophoresis
+PDLI3	107	273	NMR spectroscopy
+URP2	142	224	NMR spectroscopy
+URP2	142	224	CD/IR spectroscopy
+FOXO4	82	91	NMR spectroscopy
+FOXO4	86	96	X-ray crystallography
+FOXO4	182	204	NMR spectroscopy
+MUC1	1184	1198	NMR spectroscopy
+MUC1	1183	1187	Other
+PAXX	143	204	X-ray crystallography
+PAXX	143	166	X-ray crystallography
+CHK2	64	90	X-ray crystallography
+CHK2	1	70	Biochemical activity assays
+CHK2	70	91	X-ray crystallography
+CHK2	254	267	X-ray crystallography
+CHK2	377	387	X-ray crystallography
+CHK2	255	268	X-ray crystallography
+CHK2	505	531	X-ray crystallography
+CHK2	513	543	Biochemical activity assays
+CHK2	66	70	Other
+CHK2	1	63	Biochemical activity assays
+NU153	1313	1390	NMR spectroscopy
+NU153	1313	1390	Fluorescence methods
+NU153	875	1475	Fluorescence methods
+NU153	875	1475	Microscopy
+NU153	875	1475	Fluorescence methods
+NU153	875	1475	Fluorescence methods
+NU153	875	1475	Electron microscopy
+TCP4	1	60	NMR spectroscopy
+TCP4	1	60	Interaction assays
+TCP4	1	60	Other
+PEX19	1	165	Biochemical activity assays
+PEX19	1	165	CD/IR spectroscopy
+PEX19	4	182	NMR spectroscopy
+PEX19	278	297	NMR spectroscopy
+DPOD2	42	53	X-ray crystallography
+DPOD2	102	122	X-ray crystallography
+EZH2	346	421	X-ray crystallography
+EZH2	480	514	X-ray crystallography
+EZH2	730	746	X-ray crystallography
+EZH2	183	210	X-ray crystallography
+EZH2	732	746	X-ray crystallography
+EZH2	733	746	X-ray crystallography
+EZH2	386	420	X-ray crystallography
+EZH2	1	10	X-ray crystallography
+EZH2	480	514	Cryo-EM
+EZH2	487	513	Cryo-EM
+EZH2	507	511	Mass spectrometry
+EZH2	497	513	Cryo-EM
+EZH2	340	435	NMR spectroscopy
+EZH2	367	375	NMR spectroscopy
+TRIA1	54	76	NMR spectroscopy
+ITBP1	49	59	X-ray crystallography
+ITA2B	989	1039	NMR spectroscopy
+ITA2B	997	1008	NMR spectroscopy
+ITB3	741	788	NMR spectroscopy
+ITB3	763	788	NMR spectroscopy
+ITB3	765	775	X-ray crystallography
+ITB3	762	788	NMR spectroscopy
+ITB3	742	788	NMR spectroscopy
+ITB3	783	787	Other
+ITB3	777	781	Other
+ITB3	771	775	Other
+ITB3	780	783	Fluorescence methods
+SMG7	111	143	X-ray crystallography
+FKBP5	1	12	X-ray crystallography
+ITB2	735	769	X-ray crystallography
+ITB2	735	769	X-ray crystallography
+ITB2	756	760	Other
+PRKN	378	391	X-ray crystallography
+PRKN	378	391	X-ray crystallography
+PRKN	73	99	X-ray crystallography
+PRKN	109	142	X-ray crystallography
+Q9NQC3-1	567	748	CD/IR spectroscopy
+Q9NQC3-1	1155	1187	CD/IR spectroscopy
+Q9NQC3-1	1055	1094	NMR spectroscopy
+Q9NQC3-1	1155	1187	NMR spectroscopy
+Q9NQC3-1	1	31	Biochemical activity assays
+Q9NQC3-1	1	200	CD/IR spectroscopy
+Q9NQC3-1	32	200	CD/IR spectroscopy
+Q9NQC3-1	1	200	NMR spectroscopy
+Q9NQC3-1	32	200	NMR spectroscopy
+Q9NQC3-1	1	200	Chromatography/electrophoresis
+Q9NQC3-1	210	408	Chromatography/electrophoresis
+Q9NQC3-1	409	616	Chromatography/electrophoresis
+Q9NQC3-1	617	824	Chromatography/electrophoresis
+Q9NQC3-1	825	1016	Chromatography/electrophoresis
+Q9NQC3-1	210	358	Chromatography/electrophoresis
+Q9NQC3-1	359	566	Chromatography/electrophoresis
+Q9NQC3-1	567	774	Chromatography/electrophoresis
+Q9NQC3-1	775	1016	Chromatography/electrophoresis
+Q9NQC3-1	210	408	CD/IR spectroscopy
+Q9NQC3-1	409	616	CD/IR spectroscopy
+Q9NQC3-1	617	824	CD/IR spectroscopy
+Q9NQC3-1	825	1016	CD/IR spectroscopy
+Q9NQC3-1	210	358	CD/IR spectroscopy
+Q9NQC3-1	359	566	CD/IR spectroscopy
+Q9NQC3-1	567	774	CD/IR spectroscopy
+Q9NQC3-1	775	1016	CD/IR spectroscopy
+Q9NQC3-1	210	408	NMR spectroscopy
+Q9NQC3-1	409	616	NMR spectroscopy
+Q9NQC3-1	617	824	NMR spectroscopy
+Q9NQC3-1	825	1016	NMR spectroscopy
+Q9NQC3-1	210	358	NMR spectroscopy
+Q9NQC3-1	359	566	NMR spectroscopy
+Q9NQC3-1	567	774	NMR spectroscopy
+Q9NQC3-1	775	1016	NMR spectroscopy
+Q9NQC3-1	567	748	CD/IR spectroscopy
+Q9NQC3-1	567	748	NMR spectroscopy
+Q9NQC3-1	1055	1094	CD/IR spectroscopy
+SNRPA	102	117	NMR spectroscopy
+SNRPA	115	207	X-ray crystallography
+SNRPA	99	117	NMR spectroscopy
+KNG1	438	531	CD/IR spectroscopy
+KNG1	438	531	NMR spectroscopy
+KNG1	438	531	Other
+SF3B1	1	462	X-ray crystallography
+SF3B1	190	344	CD/IR spectroscopy
+SF3B1	190	344	Thermodynamics
+BRCA2	48	284	NMR spectroscopy
+STABP	228	241	NMR spectroscopy
+STABP	219	245	X-ray crystallography
+HBEGF	73	106	X-ray crystallography
+SPN1	288	348	X-ray crystallography
+SPN1	72	91	X-ray crystallography
+HMGA2	1	109	CD/IR spectroscopy
+HMGA2	1	109	NMR spectroscopy
+HMGA2	1	109	Small-angle scattering
+EME1	445	455	X-ray crystallography
+EME1	369	402	Biochemical activity assays
+EME1	369	402	X-ray crystallography
+SMG5	924	946	X-ray crystallography
+NCOA2	624	829	NMR spectroscopy
+APOC2	40	65	NMR spectroscopy
+FBX4	242	271	X-ray crystallography
+TCRG1	98	108	X-ray crystallography
+BRD4	333	349	X-ray crystallography
+IRF5	458	467	X-ray crystallography
+NR1H4	275	290	X-ray crystallography
+RENT1	348	359	X-ray crystallography
+RENT1	348	359	Other
+RENT1	348	359	Other
+RENT1	348	359	X-ray crystallography
+RENT1	348	359	Other
+MEF2A	75	86	NMR spectroscopy
+RL24	125	157	Cryo-EM
+RL24	123	157	Cryo-EM
+BIP	1	24	X-ray crystallography
+BIP	634	654	X-ray crystallography
+ASCL1	1	236	NMR spectroscopy
+SOSSC	1	62	X-ray crystallography
+FLNA	1	36	X-ray crystallography
+ANXA1	116	185	CD/IR spectroscopy
+ANXA1	116	185	NMR spectroscopy
+ANXA1	2	12	X-ray crystallography
+ANXA1	2	12	X-ray crystallography
+ANXA1	116	185	NMR spectroscopy
+ANXA1	116	185	CD/IR spectroscopy
+ANXA1	116	185	NMR spectroscopy
+ANXA1	2	26	CD/IR spectroscopy
+ANXA1	2	26	Other
+ANXA1	4	19	NMR spectroscopy
+ANXA1	2	26	NMR spectroscopy
+ANXA1	116	185	NMR spectroscopy
+TRGC1	102	112	X-ray crystallography
+TCTP	37	68	NMR spectroscopy
+TCTP	42	61	X-ray crystallography
+FEN1	45	61	NMR spectroscopy
+FEN1	90	130	NMR spectroscopy
+FEN1	330	342	NMR spectroscopy
+CBS	1	40	NMR spectroscopy
+CBS	1	40	Other
+MCM2	1	160	NMR spectroscopy
+MCM2	69	138	NMR spectroscopy
+MCM2	69	138	Thermodynamics
+MCM2	69	121	X-ray crystallography
+MCM2	69	106	X-ray crystallography
+MCM2	119	138	X-ray crystallography
+MCM2	107	118	X-ray crystallography
+DOT1L	333	416	X-ray crystallography
+SLBP	200	224	X-ray crystallography
+BMR1A	104	120	NMR spectroscopy
+NHRF1	242	358	CD/IR spectroscopy
+NHRF1	242	358	NMR spectroscopy
+CREB1	101	160	Biochemical activity assays
+CBP	674	1080	CD/IR spectroscopy
+CBP	999	1050	Other
+CBP	1852	2057	NMR spectroscopy
+CBP	674	1080	Chromatography/electrophoresis
+CBP	674	1080	Chromatography/electrophoresis
+CBP	674	1080	NMR spectroscopy
+CBP	674	1080	Small-angle scattering
+CBP	674	1080	CD/IR spectroscopy
+CBP	674	1080	Other
+CBP	674	1080	Other
+CBP	1852	2057	NMR spectroscopy
+CASA1	1	185	Biochemical activity assays
+KITH	64	73	X-ray crystallography
+KITH	1	17	X-ray crystallography
+KITH	193	234	X-ray crystallography
+ZN106	1265	1521	CD/IR spectroscopy
+ZN106	1265	1521	Other
+ZN106	1256	1521	Other
+ZN106	1300	1400	Other
+SURF6	1	182	NMR spectroscopy
+SURF6	1	195	Cryo-EM
+SURF6	1	182	Fluorescence methods
+CCL28	1	10	NMR spectroscopy
+CCL28	1	108	NMR spectroscopy
+CCL28	99	127	NMR spectroscopy
+CALM1	76	85	NMR spectroscopy
+HNRPM	41	70	X-ray crystallography
+ASM	49	85	X-ray crystallography
+ASM	614	631	X-ray crystallography
+H4	1	25	NMR spectroscopy
+IF4A3	1	21	X-ray crystallography
+IF4A3	1	20	X-ray crystallography
+IF4A3	1	21	Cryo-EM
+IF4A3	1	20	X-ray crystallography
+ORC1	662	673	Cryo-EM
+ORC1	471	489	Cryo-EM
+LYOX	22	168	CD/IR spectroscopy
+LYOX	22	168	Small-angle scattering
+LYOX	22	168	Interaction assays
+LYOX	22	168	Other
+LYOX	22	168	Interaction assays
+P02686-5	1	171	NMR spectroscopy
+P02686-5	1	171	Biochemical activity assays
+P02686-5	82	99	NMR spectroscopy
+P02686-5	86	96	NMR spectroscopy
+P02686-5	82	99	CD/IR spectroscopy
+P02686-5	86	96	Other
+P02686-5	82	99	CD/IR spectroscopy
+P02686-5	86	96	NMR spectroscopy
+UB2R1	183	236	NMR spectroscopy
+UB2R1	101	115	NMR spectroscopy
+MZF1	1	13	NMR spectroscopy
+UB2G2	95	109	NMR spectroscopy
+NUP98	2	150	Small-angle scattering
+NUP98	2	150	Fluorescence methods
+NUP98	1	730	Cryo-EM
+NUP98	881	1111	Cryo-EM
+NUP98	1161	1193	Cryo-EM
+NUP98	1	499	Fluorescence methods
+NUP98	1	499	Fluorescence methods
+NUP98	1	499	Interaction assays
+MPIP3	208	225	X-ray crystallography
+FIBA	232	581	X-ray crystallography
+ATG2A	1244	1273	CD/IR spectroscopy
+ATG2A	1	172	Cryo-EM
+ATG2A	304	424	Cryo-EM
+ATG2A	1237	1416	Cryo-EM
+ATG2A	1736	1938	Cryo-EM
+ATG2A	204	220	Cryo-EM
+ATG2A	464	483	Cryo-EM
+ATG2A	617	628	Cryo-EM
+ATG2A	747	793	Cryo-EM
+ATG2A	850	923	Cryo-EM
+ATG2A	940	957	Cryo-EM
+ATG2A	996	1015	Cryo-EM
+ATG2A	1025	1041	Cryo-EM
+ATG2A	441	450	Cryo-EM
+ATG2A	1430	1478	Cryo-EM
+ATG2A	1497	1513	Cryo-EM
+ATG2A	1543	1554	Cryo-EM
+ATG2A	1566	1575	Cryo-EM
+ATG2A	1615	1664	Cryo-EM
+ATG2A	1679	1690	Cryo-EM
+ATG2A	12	16	Cell-based/phenotypic assays
+ATG2A	1374	1404	Thermodynamics
+ATG2A	1378	1399	X-ray crystallography
+ATG2A	1374	1404	Cell-based/phenotypic assays
+ATG2A	1381	1396	Cell-based/phenotypic assays
+A16L1	59	84	CD/IR spectroscopy
+A16L1	12	31	NMR spectroscopy
+GOPC	248	277	CD/IR spectroscopy
+GOPC	255	279	CD/IR spectroscopy
+P61328-2	148	181	X-ray crystallography
+LOX15	22	162	CD/IR spectroscopy
+CO7A1	1940	1978	CD/IR spectroscopy
+CO7A1	1940	1978	NMR spectroscopy
+NU133	252	269	X-ray crystallography
+NU133	478	514	X-ray crystallography
+NU133	1	70	Cryo-EM
+Q8N726-1	1	132	CD/IR spectroscopy
+Q8N726-1	57	132	NMR spectroscopy
+Q8N726-1	1	14	CD/IR spectroscopy
+Q8N726-1	1	14	NMR spectroscopy
+Q8N726-1	1	14	Electron microscopy
+Q8N726-1	84	103	Chromatography/electrophoresis
+Q8N726-1	84	103	NMR spectroscopy
+Q8N726-1	1	22	Interaction assays
+Q8N726-1	1	22	Fluorescence methods
+Q8N726-1	1	34	Interaction assays
+Q8N726-1	85	101	Other
+Q8N726-1	1	132	Other
+Q8N726-1	1	132	Fluorescence methods
+CASC3	195	215	X-ray crystallography
+CASC3	198	213	X-ray crystallography
+CASC3	137	168	X-ray crystallography
+CASC3	249	286	X-ray crystallography
+CASC3	195	215	X-ray crystallography
+CASC3	1	169	Other
+CASC3	195	703	Other
+CASC3	216	246	X-ray crystallography
+CASC3	216	246	Other
+CASC3	170	194	Other
+CASC3	216	246	Other
+CASC3	1	703	X-ray crystallography
+CASC3	137	283	Interaction assays
+CASC3	137	283	Other
+CASC3	137	283	Biochemical activity assays
+RU17	1	33	X-ray crystallography
+RU17	1	33	Biochemical activity assays
+RU17	184	437	Biochemical activity assays
+RU17	184	437	X-ray crystallography
+RU17	277	281	Mass spectrometry
+RU17	265	269	Mass spectrometry
+RU17	255	259	Mass spectrometry
+RU17	243	247	Mass spectrometry
+RU17	291	295	Mass spectrometry
+RU17	230	306	Fluorescence methods
+RU17	230	306	Cell-based/phenotypic assays
+RU17	230	306	CD/IR spectroscopy
+ERP44	361	379	X-ray crystallography
+ERP44	361	406	X-ray crystallography
+ERP44	380	401	Other
+UB2E1	1	40	X-ray crystallography
+UB2E1	1	40	Biochemical activity assays
+UB2E1	1	40	CD/IR spectroscopy
+DDX3X	1	167	CD/IR spectroscopy
+HIS3	20	51	NMR spectroscopy
+HIS3	20	43	NMR spectroscopy
+HIS3	20	43	Small-angle scattering
+HIS3	20	51	CD/IR spectroscopy
+HIS3	20	43	NMR spectroscopy
+STAT	20	62	Small-angle scattering
+TAP2	1	129	Cryo-EM
+KDM5A	184	360	X-ray crystallography
+CCND1	1	24	X-ray crystallography
+CCND1	256	295	Other
+FOXC2	134	144	NMR spectroscopy
+HDAC1	377	482	X-ray crystallography
+INHBA	359	386	X-ray crystallography
+KIT	544	565	X-ray crystallography
+TBA1B	416	447	NMR spectroscopy
+EDC3	203	258	X-ray crystallography
+NCF1	213	228	X-ray crystallography
+NCF1	213	228	NMR spectroscopy
+NCF1	296	330	CD/IR spectroscopy
+NCF1	296	330	X-ray crystallography
+NCF1	296	330	Thermodynamics
+NCF1	296	304	Thermodynamics
+NCF1	343	390	Small-angle scattering
+NCF1	343	390	Fluorescence methods
+NCF1	343	390	Fluorescence methods
+NCF1	213	228	NMR spectroscopy
+NCF1	343	390	Small-angle scattering
+STAT6	783	814	NMR spectroscopy
+STAT6	790	799	NMR spectroscopy
+STAT6	783	793	X-ray crystallography
+STAT6	786	808	NMR spectroscopy
+STAT6	786	790	NMR spectroscopy
+STAT6	799	808	NMR spectroscopy
+STAT6	791	798	NMR spectroscopy
+HUNIN	1	24	NMR spectroscopy
+HUNIN	1	24	CD/IR spectroscopy
+NEMO	252	272	X-ray crystallography
+NEMO	150	192	X-ray crystallography
+NEMO	1	43	NMR spectroscopy
+CSN5	198	218	X-ray crystallography
+CSN5	284	295	X-ray crystallography
+NED4L	400	480	NMR spectroscopy
+SUMO1	1	18	X-ray crystallography
+SUMO1	2	18	NMR spectroscopy
+SUMO1	1	18	X-ray crystallography
+H2AV	39	48	X-ray crystallography
+NEDD8	69	81	X-ray crystallography
+FCHO2	259	274	X-ray crystallography
+SNX18	154	158	Other
+SNX18	154	158	Cell-based/phenotypic assays
+SNX18	154	158	Other
+SNX18	154	158	Cell-based/phenotypic assays
+SNX18	154	158	Chromatography/electrophoresis
+SNX18	154	158	Other
+SNX18	59	224	Other
+PRC1	467	620	X-ray crystallography
+PRC1	451	486	X-ray crystallography
+ADA10	697	748	CD/IR spectroscopy
+ADA10	697	748	Fluorescence methods
+ADA10	697	748	Other
+PIPNA	1	12	X-ray crystallography
+PIPNA	119	190	X-ray crystallography
+PIPNA	233	270	X-ray crystallography
+MK10	206	231	X-ray crystallography
+DDX23	1	257	NMR spectroscopy
+DDX23	1	138	Mass spectrometry
+DDX23	807	820	X-ray crystallography
+DDX23	791	820	Cryo-EM
+DDX23	1	157	Cryo-EM
+DDX23	204	240	Cryo-EM
+DDX23	338	351	X-ray crystallography
+DDX23	204	219	NMR spectroscopy
+DDX23	242	247	NMR spectroscopy
+KAP2	44	90	Cryo-EM
+KAP2	44	90	Cryo-EM
+UGDH	465	494	X-ray crystallography
+RBP56	323	354	NMR spectroscopy
+RAMAC	2	45	NMR spectroscopy
+NKAP	1	328	Cryo-EM
+NKAP	1	328	Cryo-EM
+NKAP	359	415	Cryo-EM
+NKAP	1	328	Cryo-EM
+NKAP	359	415	Cryo-EM
+AFF1	738	760	CD/IR spectroscopy
+HS71B	229	306	X-ray crystallography
+SRRM1	1	31	Cryo-EM
+SRRM1	127	904	Cryo-EM
+SRRM1	300	350	Other
+SRRM1	351	688	Other
+SRRM1	151	377	Other
+CPLX1	74	83	X-ray crystallography
+BAG4	357	376	NMR spectroscopy
+Q9H6Z4-3	31	45	X-ray crystallography
+ROCK1	895	913	X-ray crystallography
+LMOD1	299	313	X-ray crystallography
+FRAT1	1	198	X-ray crystallography
+FRAT1	224	279	X-ray crystallography
+FRAT1	188	226	Chromatography/electrophoresis
+MINT	3470	3494	X-ray crystallography
+O60706-2	618	669	NMR spectroscopy
+O60706-2	618	669	Chromatography/electrophoresis
+O60706-2	618	669	CD/IR spectroscopy
+O60706-2	618	669	NMR spectroscopy
+SYK	1	70	Chromatography/electrophoresis
+SYK	1	70	CD/IR spectroscopy
+HCK	2	79	NMR spectroscopy
+HCK	2	79	Other
+HCK	2	6	Other
+HCK	2	21	Other
+HCK	2	79	NMR spectroscopy
+ABI2	156	513	X-ray crystallography
+AURKB	221	236	X-ray crystallography
+AURKB	230	234	X-ray crystallography
+AURKB	230	234	Other
+AURKB	221	236	X-ray crystallography
+INCE	883	903	X-ray crystallography
+INCE	853	903	X-ray crystallography
+INCE	892	896	Mass spectrometry
+INCE	883	903	Interaction assays
+KMT2E	323	339	X-ray crystallography
+MICA3	1881	1990	X-ray crystallography
+MICA3	1735	1918	Other
+IF4G1	592	606	X-ray crystallography
+IF4G1	161	216	NMR spectroscopy
+IF4G1	178	202	NMR spectroscopy
+IF4G1	178	203	NMR spectroscopy
+IF4G1	179	198	X-ray crystallography
+IF4G1	161	216	Other
+IF4G1	179	198	X-ray crystallography
+IF4G1	161	216	Thermodynamics
+IF4G1	161	216	Interaction assays
+IF4G1	1427	1436	X-ray crystallography
+IF4G1	1079	1233	Biochemical activity assays
+IF4G1	290	754	Cryo-EM
+IF4G1	992	1599	Cryo-EM
+IF4E	1	29	X-ray crystallography
+IF4E	2	35	NMR spectroscopy
+IF4E	1	26	X-ray crystallography
+AP4AT	136	153	X-ray crystallography
+RN168	94	111	X-ray crystallography
+Q9P2K3-3	1	272	X-ray crystallography
+Q9P2K3-3	406	553	X-ray crystallography
+AN32E	186	213	X-ray crystallography
+AN32E	214	224	X-ray crystallography
+AN32E	186	232	X-ray crystallography
+FOXM1	222	231	X-ray crystallography
+FOXM1	327	360	X-ray crystallography
+FOXM1	1	114	CD/IR spectroscopy
+FOXM1	694	748	CD/IR spectroscopy
+FOXM1	694	748	Thermodynamics
+FOXM1	1	114	Chromatography/electrophoresis
+FOXM1	1	114	Thermodynamics
+MYCN	28	60	X-ray crystallography
+HXB1	187	206	X-ray crystallography
+TERF1	1	10	X-ray crystallography
+TERF1	23	55	X-ray crystallography
+VEGFB	37	46	X-ray crystallography
+VEGFB	37	46	X-ray crystallography
+VEGFB	130	188	X-ray crystallography
+IRS1	117	159	X-ray crystallography
+ATAT	26	36	X-ray crystallography
+ATAT	196	236	X-ray crystallography
+ATAT	231	235	Biochemical activity assays
+PRAG1	932	943	X-ray crystallography
+PRAG1	1030	1039	X-ray crystallography
+PRAG1	1065	1081	X-ray crystallography
+PRAG1	1218	1238	X-ray crystallography
+PRAG1	1336	1345	X-ray crystallography
+PHF20	70	85	X-ray crystallography
+ARTN	108	120	X-ray crystallography
+CD19	138	152	X-ray crystallography
+TGS1	618	633	X-ray crystallography
+INLR1	270	299	X-ray crystallography
+TGIF1	150	167	X-ray crystallography
+TGIF1	235	248	X-ray crystallography
+TGIF1	256	347	NMR spectroscopy
+TGIF1	284	288	NMR spectroscopy
+TGIF1	289	293	NMR spectroscopy
+TGIF1	292	296	NMR spectroscopy
+DTD1	152	209	X-ray crystallography
+DTD1	152	209	X-ray crystallography
+NUP50	48	109	X-ray crystallography
+CD2B2	256	280	X-ray crystallography
+INAR1	49	58	X-ray crystallography
+INAR1	330	436	X-ray crystallography
+RNC	390	411	X-ray crystallography
+RNC	459	521	X-ray crystallography
+RNC	712	849	X-ray crystallography
+RNC	930	957	X-ray crystallography
+RNC	1333	1365	X-ray crystallography
+CENPB	583	599	X-ray crystallography
+IRAK1	449	463	X-ray crystallography
+IRAK1	367	382	X-ray crystallography
+IRAK1	367	382	X-ray crystallography
+UBF1	547	560	NMR spectroscopy
+BSCL2	2	60	Cryo-EM
+BSCL2	220	398	Cryo-EM
+CIP4	289	303	X-ray crystallography
+TLK2	1	200	Other
+TLK2	1	190	Cell-based/phenotypic assays
+PLCB3	471	572	X-ray crystallography
+PLCB3	471	572	X-ray crystallography
+PLCB3	883	933	X-ray crystallography
+PLCB3	882	1234	X-ray crystallography
+PLCB3	934	1192	X-ray crystallography
+PLCB3	934	1192	Cryo-EM
+OGA	11	58	X-ray crystallography
+OGA	341	370	X-ray crystallography
+OGA	696	706	X-ray crystallography
+OGA	11	56	X-ray crystallography
+OGA	348	369	X-ray crystallography
+OGA	341	371	X-ray crystallography
+OGA	335	372	X-ray crystallography
+VILI	360	613	X-ray crystallography
+CD166	246	583	X-ray crystallography
+RCOR1	1	307	X-ray crystallography
+RCOR1	441	485	X-ray crystallography
+RCOR1	1	485	Other
+CNOT1	1565	1841	Biochemical activity assays
+CNOT1	1589	1607	X-ray crystallography
+WASF1	185	494	X-ray crystallography
+WASF1	545	559	X-ray crystallography
+WASF1	517	526	X-ray crystallography
+WASF1	1	14	X-ray crystallography
+WASF1	544	559	X-ray crystallography
+ITB6	492	788	X-ray crystallography
+ITB6	1	788	Other
+S6B291	240	465	X-ray crystallography
+KLC1	185	208	X-ray crystallography
+KCNQ4	550	593	X-ray crystallography
+CAH9	38	136	Chromatography/electrophoresis
+CAH9	38	136	Chromatography/electrophoresis
+CAH9	38	136	Other
+CAH9	38	136	CD/IR spectroscopy
+CAH9	38	136	Biochemical activity assays
+CAH9	38	136	NMR spectroscopy
+CAH9	38	136	Biochemical activity assays
+BAK	64	98	CD/IR spectroscopy
+BAK	75	84	NMR spectroscopy
+BAK	64	98	Fluorescence methods
+BAK	69	86	X-ray crystallography
+BAX	49	83	CD/IR spectroscopy
+BAX	49	83	Fluorescence methods
+BAX	55	79	X-ray crystallography
+T106B	1	95	Other
+T106B	1	119	Cryo-EM
+T106B	255	274	Cryo-EM
+LYN	1	62	NMR spectroscopy
+CD44	669	742	NMR spectroscopy
+CD44	153	178	NMR spectroscopy
+CD44	153	170	NMR spectroscopy
+CD44	669	742	NMR spectroscopy
+DC1L1	388	523	NMR spectroscopy
+DC1L1	388	523	CD/IR spectroscopy
+DC1L1	388	523	NMR spectroscopy
+DC1L1	388	523	Interaction assays
+DC1L1	388	523	Thermodynamics
+DC1L1	388	523	Interaction assays
+PCSK9	31	60	X-ray crystallography
+PCSK9	45	49	Other
+PCSK9	31	53	Other
+PCSK9	36	45	NMR spectroscopy
+PCSK9	36	45	X-ray crystallography
+PCSK9	31	53	Interaction assays
+PCSK9	36	40	Other
+PCSK9	37	45	Other
+KI3L1	361	444	NMR spectroscopy
+KI3L1	371	385	NMR spectroscopy
+KI3L1	375	379	Other
+KI3L1	361	444	NMR spectroscopy
+KI3L1	405	409	Other
+S39A4	424	498	NMR spectroscopy
+S39A4	431	448	NMR spectroscopy
+S39A4	424	498	CD/IR spectroscopy
+S39A4	436	448	Cell-based/phenotypic assays
+RAGE	364	404	NMR spectroscopy
+RAGE	364	404	Other
+RAGE	364	404	NMR spectroscopy
+RAGE	364	370	Cell-based/phenotypic assays
+RAGE	364	404	NMR spectroscopy
+RAGE	364	370	NMR spectroscopy
+RAGE	389	393	Biochemical activity assays
+RAGE	364	404	Other
+AMBN	223	447	Other
+AMBN	62	98	CD/IR spectroscopy
+AMBN	62	98	Thermodynamics
+AMBN	62	98	Cryo-EM
+AMBN	27	447	Other
+AMBN	220	225	Other
+AMBN	27	447	CD/IR spectroscopy
+OSBP2	1	184	Chromatography/electrophoresis
+OSBP2	1	184	Cell-based/phenotypic assays
+SNP25	83	141	NMR spectroscopy
+SNP25	83	141	NMR spectroscopy
+SNP25	83	110	NMR spectroscopy
+SNP25	111	141	Other
+SNP25	111	141	NMR spectroscopy
+SNP25	83	110	NMR spectroscopy
+ELAV1	1	19	NMR spectroscopy
+THYG	610	620	Cryo-EM
+THYG	610	620	Cryo-EM
+THYG	1	23	Cryo-EM
+THYG	388	407	Cryo-EM
+THYG	511	546	Cryo-EM
+THYG	830	847	Cryo-EM
+THYG	1010	1020	Cryo-EM
+THYG	1234	1243	Cryo-EM
+THYG	1640	1657	Cryo-EM
+THYG	1802	1814	Cryo-EM
+THYG	2729	2768	Cryo-EM
+M3K9	298	310	X-ray crystallography
+M3K9	173	183	X-ray crystallography
+RAD	116	125	X-ray crystallography
+RAD	149	160	X-ray crystallography
+GDNF	78	117	X-ray crystallography
+PTGIS	319	330	X-ray crystallography
+PTPRM	589	742	X-ray crystallography
+ZWILC	253	263	X-ray crystallography
+ZWILC	69	98	X-ray crystallography
+ZWILC	212	221	X-ray crystallography
+ZWILC	310	338	X-ray crystallography
+ZWILC	561	575	X-ray crystallography
+ZN363	187	215	NMR spectroscopy
+SRPK2	1	80	Small-angle scattering
+SRPK2	231	511	Small-angle scattering
+SRPK2	231	511	CD/IR spectroscopy
+SRPK2	1	80	CD/IR spectroscopy
+SRPK2	231	511	Other
+SRPK2	1	80	Other
+SRPK2	1	80	Chromatography/electrophoresis
+SRPK2	231	511	Chromatography/electrophoresis
+SRPK2	231	511	Other
+SRPK2	1	80	Other
+GORS2	209	452	CD/IR spectroscopy
+GORS2	209	452	Chromatography/electrophoresis
+GORS2	209	452	Other
+IF5A1	1	14	X-ray crystallography
+TYY1	1	295	Chromatography/electrophoresis
+TYY1	1	295	Biochemical activity assays
+TYY1	1	295	Chromatography/electrophoresis
+TYY1	1	295	CD/IR spectroscopy
+TYY1	1	295	Fluorescence methods
+SNF8	1	25	X-ray crystallography
+SNF8	1	25	Other
+SNF8	1	25	Microscopy
+VPS36	149	169	X-ray crystallography
+VGFR3	470	483	X-ray crystallography
+VGFR3	77	89	X-ray crystallography
+VGFR3	114	123	X-ray crystallography
+ANR27	693	732	X-ray crystallography
+ANR27	619	640	X-ray crystallography
+P20020-1	1063	1258	Cryo-EM
+P20020-1	1063	1258	Cryo-EM
+K1C14	295	331	X-ray crystallography
+K2C5	350	381	X-ray crystallography
+K2C5	1	167	Other
+K2C5	482	590	Other
+K2C5	1	167	Other
+K2C5	478	590	Other
+ATS5	557	628	X-ray crystallography
+ATS5	557	628	Other
+SIAH1	90	124	X-ray crystallography
+FMNL2	150	204	X-ray crystallography
+FMNL2	169	173	X-ray crystallography
+CMTR1	126	140	X-ray crystallography
+BIG1	50	63	X-ray crystallography
+BIG1	1	13	X-ray crystallography
+PUS10	234	243	X-ray crystallography
+PUS10	55	106	X-ray crystallography
+POP7	1	28	X-ray crystallography
+RPP25	1	21	X-ray crystallography
+RPP25	158	199	X-ray crystallography
+DPYL1	1	14	X-ray crystallography
+DPYL1	497	572	X-ray crystallography
+DPYL1	497	572	Other
+PCOC1	189	200	X-ray crystallography
+PCOC1	220	233	X-ray crystallography
+PCOC1	241	252	X-ray crystallography
+PCOC1	151	169	X-ray crystallography
+PCOC1	151	165	X-ray crystallography
+PCOC1	269	278	X-ray crystallography
+CE192	201	214	X-ray crystallography
+CE192	242	258	X-ray crystallography
+CE192	201	214	X-ray crystallography
+CE152	1	15	X-ray crystallography
+CE152	47	60	X-ray crystallography
+CASQ2	371	399	X-ray crystallography
+CASQ2	371	399	Mass spectrometry
+CASQ2	371	399	Small-angle scattering
+CASQ2	371	399	Biochemical activity assays
+KAP1	59	81	X-ray crystallography
+KAP1	1	13	X-ray crystallography
+B4GT7	260	285	X-ray crystallography
+PDIA1	323	334	X-ray crystallography
+PDIA1	348	357	X-ray crystallography
+PDIA1	479	508	X-ray crystallography
+SERB	45	56	X-ray crystallography
+SERB	45	56	X-ray crystallography
+EMAL4	45	64	X-ray crystallography
+O95278	69	79	X-ray crystallography
+A2MG	690	728	X-ray crystallography
+A2MG	690	728	Other
+A2MG	683	700	Biochemical activity assays
+AA1R	301	326	Cryo-EM
+S10AG	51	71	X-ray crystallography
+SUV92	379	392	X-ray crystallography
+SODE	19	54	X-ray crystallography
+SODE	224	240	X-ray crystallography
+PDILT	21	31	X-ray crystallography
+PDILT	21	44	X-ray crystallography
+PDILT	496	580	X-ray crystallography
+RGMC	130	145	X-ray crystallography
+ANGL3	420	429	X-ray crystallography
+ARSB	406	422	X-ray crystallography
+DCOR	422	461	X-ray crystallography
+DCOR	1	18	X-ray crystallography
+DCOR	1	18	X-ray crystallography
+DCOR	422	461	NMR spectroscopy
+OAZ1	110	125	X-ray crystallography
+OAZ1	69	92	X-ray crystallography
+AZIN1	294	310	X-ray crystallography
+AZIN1	433	448	X-ray crystallography
+B2L10	107	121	X-ray crystallography
+BODG	188	198	X-ray crystallography
+CAH6	21	31	X-ray crystallography
+PLST	1	20	X-ray crystallography
+PLAT3	40	57	X-ray crystallography
+DOCK2	70	80	X-ray crystallography
+DOCK2	1621	1830	Cryo-EM
+DOCK2	70	80	Cryo-EM
+DOCK2	578	589	Cryo-EM
+DOCK2	1257	1270	Cryo-EM
+RICTR	1	191	Cryo-EM
+RICTR	1017	1610	Cryo-EM
+RICTR	1	595	Interaction assays
+RICTR	1	905	Interaction assays
+RICTR	905	1708	Interaction assays
+RICTR	1	1708	Cryo-EM
+SIN1	248	522	Cryo-EM
+SIN1	1	522	Cryo-EM
+SIN1	1	522	Interaction assays
+SIN1	360	522	Other
+UBTD2	1	20	NMR spectroscopy
+ID2	1	23	X-ray crystallography
+BCAT1	1	21	X-ray crystallography
+DPP8	138	164	X-ray crystallography
+DPP8	148	164	X-ray crystallography
+DPP8	1	47	X-ray crystallography
+TSN	218	228	X-ray crystallography
+NR1D2	386	395	X-ray crystallography
+NR1D2	470	479	X-ray crystallography
+RPOM	105	217	X-ray crystallography
+RPOM	592	602	X-ray crystallography
+RPOM	734	769	X-ray crystallography
+RPOM	1086	1108	X-ray crystallography
+RPOM	39	218	Cryo-EM
+RPOM	592	602	Cryo-EM
+RPOM	736	769	Cryo-EM
+RPOM	1086	1108	Cryo-EM
+EIF2D	184	259	Cryo-EM
+EIF2D	348	373	Cryo-EM
+EIF2D	348	373	Cryo-EM
+EIF2D	184	259	Cryo-EM
+TNNT2	193	212	X-ray crystallography
+TNNT2	272	288	X-ray crystallography
+TNNT2	1	66	Other
+KCTD5	212	234	X-ray crystallography
+KCTD5	188	200	X-ray crystallography
+HMDH	861	888	X-ray crystallography
+TREX2	159	168	X-ray crystallography
+NELFA	189	528	Cryo-EM
+NELFA	189	528	Cryo-EM
+NELFA	189	528	Other
+NELFA	189	528	Cryo-EM
+NELFE	139	363	Cryo-EM
+SH21A	103	128	NMR spectroscopy
+UBR5	2738	2747	X-ray crystallography
+HIKES	88	106	X-ray crystallography
+DX39B	34	44	X-ray crystallography
+DX39B	34	44	Biochemical activity assays
+PIN1	39	50	X-ray crystallography
+LAP2A	51	110	NMR spectroscopy
+CHFR	446	472	X-ray crystallography
+L2GL2	471	484	X-ray crystallography
+L2GL2	631	708	X-ray crystallography
+L2GL2	471	484	X-ray crystallography
+L2GL2	631	708	Mass spectrometry
+RAIN	187	197	X-ray crystallography
+RAIN	268	285	X-ray crystallography
+RAIN	268	285	NMR spectroscopy
+RAIN	187	197	NMR spectroscopy
+GCC2	1547	1569	X-ray crystallography
+RAB6A	175	206	X-ray crystallography
+ANXA2	2	33	X-ray crystallography
+ANXA2	22	26	Mass spectrometry
+ANXA2	2	33	X-ray crystallography
+ANXA2	2	15	Fluorescence methods
+ANXA2	2	33	Thermodynamics
+ANXA2	2	33	Cell-based/phenotypic assays
+ANXA2	2	33	Thermodynamics
+PLAT2	40	51	X-ray crystallography
+MET	1225	1244	X-ray crystallography
+MET	1225	1239	X-ray crystallography
+MET	1225	1244	Biochemical activity assays
+MET	1225	1244	X-ray crystallography
+ITAV	868	897	X-ray crystallography
+TSC1	978	992	X-ray crystallography
+TSC1	939	992	X-ray crystallography
+TSC1	939	992	Thermodynamics
+TSC1	939	992	Interaction assays
+TSC1	939	992	X-ray crystallography
+IL6	28	46	NMR spectroscopy
+IL6	28	46	X-ray crystallography
+DMC1	271	289	X-ray crystallography
+DMC1	1	82	X-ray crystallography
+ROGDI	47	56	X-ray crystallography
+PGM1	256	267	X-ray crystallography
+CUL2	117	134	X-ray crystallography
+CUL2	625	634	X-ray crystallography
+CUL2	645	660	X-ray crystallography
+MCLN1	1	59	Cryo-EM
+MCLN1	206	215	Cryo-EM
+MCLN1	527	580	Cryo-EM
+MCLN1	206	215	Cryo-EM
+MCLN1	573	578	Other
+MCLN1	564	568	Biochemical activity assays
+MCLN1	48	59	Cryo-EM
+PKD2	198	215	Cryo-EM
+PKD2	494	503	Cryo-EM
+DPOA2	1	156	X-ray crystallography
+DPOA2	79	156	X-ray crystallography
+PRDX4	1	75	X-ray crystallography
+PRDX4	1	271	Biochemical activity assays
+DAG1	163	179	X-ray crystallography
+DAG1	305	315	X-ray crystallography
+DAG1	163	179	Small-angle scattering
+PDGFB	106	119	X-ray crystallography
+PDGFB	106	119	X-ray crystallography
+DICER	1003	1029	X-ray crystallography
+DICER	1003	1013	X-ray crystallography
+DICER	1013	1029	X-ray crystallography
+FANCF	211	234	X-ray crystallography
+FANCF	177	188	X-ray crystallography
+AL9A1	232	255	X-ray crystallography
+BGAL	531	544	X-ray crystallography
+BGAL	648	677	X-ray crystallography
+PUR6	37	51	X-ray crystallography
+PUR6	221	238	X-ray crystallography
+SAST	1	24	X-ray crystallography
+SAST	59	76	X-ray crystallography
+TCO1	318	330	X-ray crystallography
+TCO1	1	23	X-ray crystallography
+GATA3	304	314	X-ray crystallography
+TETN	22	46	X-ray crystallography
+TETN	1	49	Other
+TRNT1	128	139	X-ray crystallography
+TRNT1	384	434	X-ray crystallography
+RND3	1	19	X-ray crystallography
+LIRA5	147	157	X-ray crystallography
+ARF6	34	56	X-ray crystallography
+ARF6	34	56	NMR spectroscopy
+ARF6	34	56	Small-angle scattering
+ARF6	34	56	X-ray crystallography
+P48740-3	364	380	X-ray crystallography
+ZO1	589	627	X-ray crystallography
+ZO1	589	627	X-ray crystallography
+ZO1	675	687	X-ray crystallography
+ZO1	265	420	Other
+ZO1	795	1631	Other
+M4K3	315	380	X-ray crystallography
+M4K3	315	380	Chromatography/electrophoresis
+M4K3	315	380	X-ray crystallography
+PRND	24	51	NMR spectroscopy
+COTL1	132	142	X-ray crystallography
+COTL1	132	142	Other
+METK2	116	126	X-ray crystallography
+METK2	116	126	X-ray crystallography
+METK2	117	129	X-ray crystallography
+BAG6	1057	1112	X-ray crystallography
+BAG6	1048	1123	X-ray crystallography
+BAG6	1048	1123	CD/IR spectroscopy
+BAG6	1048	1123	Small-angle scattering
+BAG6	1048	1123	Other
+BAG6	1048	1123	X-ray crystallography
+BAG6	1048	1123	Interaction assays
+BAG6	395	1029	Other
+MK07	1	46	X-ray crystallography
+MK07	1	46	Other
+MEPCE	492	545	X-ray crystallography
+MEPCE	400	689	Thermodynamics
+MEPCE	418	431	X-ray crystallography
+MEPCE	418	431	X-ray crystallography
+MEPCE	665	676	X-ray crystallography
+MEPCE	665	676	X-ray crystallography
+FARP1	862	909	X-ray crystallography
+FARP1	862	909	X-ray crystallography
+SGT1	262	276	NMR spectroscopy
+SGT1	262	276	X-ray crystallography
+SGT1	262	276	X-ray crystallography
+SGT1	262	276	NMR spectroscopy
+STAR3	216	230	X-ray crystallography
+CAN3	269	320	X-ray crystallography
+CAN3	269	320	Biochemical activity assays
+CAN3	269	320	Small-angle scattering
+CAN3	269	320	X-ray crystallography
+NBN	272	295	Small-angle scattering
+NBN	276	280	Biochemical activity assays
+NBN	335	392	Biochemical activity assays
+B2L11	1	41	CD/IR spectroscopy
+B2L11	1	41	NMR spectroscopy
+B2L11	1	41	Chromatography/electrophoresis
+B2L11	97	164	Chromatography/electrophoresis
+B2L11	97	164	NMR spectroscopy
+B2L11	97	164	CD/IR spectroscopy
+B2L11	142	164	Biochemical activity assays
+B2L11	143	165	X-ray crystallography
+B2L11	142	165	Other
+B2L11	141	165	CD/IR spectroscopy
+B2L11	141	165	Other
+3BP5	266	452	Mass spectrometry
+ESCO1	740	753	X-ray crystallography
+ESCO1	1	15	X-ray crystallography
+AF10	179	188	X-ray crystallography
+AF10	179	190	X-ray crystallography
+AF10	1	23	X-ray crystallography
+AF10	179	188	X-ray crystallography
+ACE2	769	805	Cryo-EM
+ACE2	779	783	Other
+GTR1	456	492	X-ray crystallography
+CBX1	73	107	NMR spectroscopy
+CBX1	73	107	Small-angle scattering
+CBX1	73	107	Other
+CBX1	176	185	NMR spectroscopy
+CBX1	176	185	X-ray crystallography
+CBX1	73	107	NMR spectroscopy
+P18206-2	844	876	X-ray crystallography
+P18206-2	857	879	Thermodynamics
+P18206-2	857	879	NMR spectroscopy
+P18206-2	857	867	X-ray crystallography
+P18206-2	870	879	X-ray crystallography
+P18206-2	857	867	X-ray crystallography
+P18206-2	857	879	NMR spectroscopy
+CASP9	289	334	X-ray crystallography
+CASP9	316	321	X-ray crystallography
+CASP9	316	321	Interaction assays
+VIME	99	144	X-ray crystallography
+VIME	99	144	Chromatography/electrophoresis
+VIME	99	144	X-ray crystallography
+RBM8A	50	63	X-ray crystallography
+CPSF6	13	80	X-ray crystallography
+CPSF6	173	235	X-ray crystallography
+CPSF6	481	519	X-ray crystallography
+CPSF6	531	550	X-ray crystallography
+CPSF6	492	496	Mass spectrometry
+CPSF6	498	502	Mass spectrometry
+CPSF6	509	515	Mass spectrometry
+CPSF6	481	551	Microscopy
+SH2D3	756	769	X-ray crystallography
+ALR	81	93	X-ray crystallography
+CGAS	289	305	X-ray crystallography
+ABCC8	621	676	Cryo-EM
+ABCC8	621	676	Cryo-EM
+BST2	79	89	Biochemical activity assays
+Q9BZZ5-2	322	335	X-ray crystallography
+Q9BZZ5-2	455	504	X-ray crystallography
+Q9BZZ5-2	455	504	Biochemical activity assays
+Q9BZZ5-2	455	475	X-ray crystallography
+RMI2	1	16	X-ray crystallography
+DRAXI	225	243	X-ray crystallography
+DRAXI	25	245	Small-angle scattering
+DRAXI	225	243	X-ray crystallography
+SYNPO	545	613	CD/IR spectroscopy
+SYNPO	545	613	NMR spectroscopy
+SYNPO	545	613	Thermodynamics
+SYNPO	1	929	Other
+VTNC	48	130	CD/IR spectroscopy
+VTNC	1	130	Small-angle scattering
+VTNC	1	130	Other
+VTNC	1	130	Small-angle scattering
+VTNC	1	71	Fluorescence methods
+VTNC	59	70	X-ray crystallography
+VTNC	22	58	X-ray crystallography
+RXRG	2	127	CD/IR spectroscopy
+RXRG	2	127	Chromatography/electrophoresis
+RXRG	2	127	Other
+RXRG	2	127	Biochemical activity assays
+RXRG	2	127	Microscopy
+CAPR1	607	709	NMR spectroscopy
+CAPR1	607	709	Fluorescence methods
+CAPR1	607	709	Fluorescence methods
+CAPR1	607	709	Thermodynamics
+SPI1	118	165	NMR spectroscopy
+SPI1	1	168	Other
+SPI1	258	270	Other
+SPI1	118	165	CD/IR spectroscopy
+U2AF2	231	258	NMR spectroscopy
+U2AF2	250	259	NMR spectroscopy
+U2AF2	231	235	NMR spectroscopy
+U2AF2	231	258	NMR spectroscopy
+GLHA	33	57	NMR spectroscopy
+GLHA	1	10	NMR spectroscopy
+EPN1	1	18	NMR spectroscopy
+EPN1	1	18	Other
+EPN1	1	18	NMR spectroscopy
+EPN1	1	18	Other
+PANX1	163	190	Cryo-EM
+PANX1	163	190	Cryo-EM
+PANX1	374	426	Cryo-EM
+PANX1	374	426	Cryo-EM
+CO4A2	1629	1638	X-ray crystallography
+CO4A2	1680	1696	X-ray crystallography
+CO4A2	1680	1696	X-ray crystallography
+CO4A2	1629	1638	X-ray crystallography
+CO4A2	1680	1696	X-ray crystallography
+TP53B	1750	1768	X-ray crystallography
+TP53B	1741	1767	X-ray crystallography
+TP53B	1	1483	Other
+TP53B	1140	1225	CD/IR spectroscopy
+TP53B	1140	1225	NMR spectroscopy
+TP53B	1150	1157	NMR spectroscopy
+TP53B	1167	1174	NMR spectroscopy
+TP53B	1192	1199	NMR spectroscopy
+XCL1	90	114	NMR spectroscopy
+XCL1	97	114	NMR spectroscopy
+XCL1	82	114	NMR spectroscopy
+PREP	774	787	X-ray crystallography
+FCER2	150	159	X-ray crystallography
+FCER2	293	321	X-ray crystallography
+FCER2	244	258	X-ray crystallography
+DYN1	347	356	X-ray crystallography
+DYN1	500	517	X-ray crystallography
+DYN1	632	652	X-ray crystallography
+DYN1	394	404	X-ray crystallography
+DYN1	500	517	X-ray crystallography
+DYN1	632	652	X-ray crystallography
+TRIO	1494	1507	X-ray crystallography
+CCM2	160	190	X-ray crystallography
+CCM2	377	420	X-ray crystallography
+VWF	1478	1493	X-ray crystallography
+SESN2	296	309	X-ray crystallography
+SESN2	240	255	X-ray crystallography
+SESN2	295	307	X-ray crystallography
+SESN2	1	65	X-ray crystallography
+SESN2	241	255	X-ray crystallography
+SESN2	296	309	X-ray crystallography
+SESN2	222	232	X-ray crystallography
+SESN2	241	255	X-ray crystallography
+SESN2	295	307	X-ray crystallography
+SESN2	240	255	X-ray crystallography
+SESN2	1	65	X-ray crystallography
+CYBR1	231	286	X-ray crystallography
+GUC1C	186	209	X-ray crystallography
+GUC1C	1	22	X-ray crystallography
+ZC12A	297	334	X-ray crystallography
+ZC12A	112	133	X-ray crystallography
+KCNQ1	574	584	X-ray crystallography
+UBP8	888	898	X-ray crystallography
+UBP8	734	761	X-ray crystallography
+PPR3A	1	60	X-ray crystallography
+PPR3A	83	99	X-ray crystallography
+PPR3B	31	58	X-ray crystallography
+PPR3B	78	105	X-ray crystallography
+BCR	622	638	NMR spectroscopy
+BCR	624	637	X-ray crystallography
+T2FA	55	92	Cryo-EM
+GWL	855	879	X-ray crystallography
+NFKB2	702	725	X-ray crystallography
+DBF4A	255	293	X-ray crystallography
+BAZ2A	496	519	NMR spectroscopy
+BAZ2A	622	664	NMR spectroscopy
+BAZ2A	1731	1797	Other
+BRDT	144	257	NMR spectroscopy
+BRDT	144	257	Small-angle scattering
+BRDT	209	220	Other
+BRDT	209	220	Fluorescence methods
+BRDT	583	947	Other
+BRD3	429	556	NMR spectroscopy
+BRD3	645	726	NMR spectroscopy
+BLM	1093	1106	X-ray crystallography
+BLM	1091	1110	NMR spectroscopy
+BLM	1004	1014	X-ray crystallography
+BLM	1092	1107	X-ray crystallography
+BLM	1195	1207	X-ray crystallography
+BLM	1195	1207	X-ray crystallography
+MLH1	86	97	X-ray crystallography
+MLH1	301	319	X-ray crystallography
+TRI56	1	17	X-ray crystallography
+GEMI5	1297	1412	NMR spectroscopy
+GEMI5	1297	1412	Other
+GEMI5	1294	1361	Other
+DDX1	72	85	X-ray crystallography
+CO4A4	1656	1671	X-ray crystallography
+CO4A4	1656	1671	X-ray crystallography
+F262	1	30	X-ray crystallography
+F262	451	505	X-ray crystallography
+TXNIP	300	317	X-ray crystallography
+SAA1	74	85	Cryo-EM
+RN126	41	66	NMR spectroscopy
+WWP2	662	702	X-ray crystallography
+VTDB	107	125	X-ray crystallography
+VTDB	107	127	X-ray crystallography
+TRI25	361	433	X-ray crystallography
+TRI25	361	433	X-ray crystallography
+TRI18	87	116	NMR spectroscopy
+PML	94	104	NMR spectroscopy
+UCHL3	147	166	X-ray crystallography
+UCHL3	147	166	X-ray crystallography
+HYCCI	149	253	X-ray crystallography
+RN111	927	937	NMR spectroscopy
+RN111	300	386	Other
+TTC7B	343	358	X-ray crystallography
+TTC7B	619	686	X-ray crystallography
+TTC7B	197	212	X-ray crystallography
+TTC7B	157	166	X-ray crystallography
+NFRKB	483	495	X-ray crystallography
+UBE4B	1208	1227	NMR spectroscopy
+UBE4B	1208	1225	X-ray crystallography
+UBE4B	1208	1222	X-ray crystallography
+GCH1	42	57	X-ray crystallography
+GCH1	1	42	Biochemical activity assays
+CENPJ	311	348	NMR spectroscopy
+CENPJ	361	422	NMR spectroscopy
+PSPC	151	182	X-ray crystallography
+PSPC	59	89	X-ray crystallography
+PSPC	59	89	X-ray crystallography
+PSF1	146	196	X-ray crystallography
+PSF1	146	196	X-ray crystallography
+PSF3	194	216	X-ray crystallography
+PSF3	194	216	X-ray crystallography
+LATS1	622	635	X-ray crystallography
+LATS1	361	567	NMR spectroscopy
+AURKA	279	288	X-ray crystallography
+AURKA	107	127	X-ray crystallography
+AURKA	389	403	X-ray crystallography
+AURKA	273	292	X-ray crystallography
+AURKA	107	127	X-ray crystallography
+AURKA	279	290	X-ray crystallography
+MARK2	197	209	X-ray crystallography
+MARK2	196	211	X-ray crystallography
+MARK2	196	211	X-ray crystallography
+MARK2	206	210	Other
+FUBP1	347	377	NMR spectroscopy
+CD320	90	128	X-ray crystallography
+CD320	86	128	X-ray crystallography
+HNF1B	188	230	X-ray crystallography
+MK67I	226	269	NMR spectroscopy
+MK67I	226	269	Interaction assays
+MK67I	228	232	Cell-based/phenotypic assays
+MK67I	232	236	Cell-based/phenotypic assays
+MK67I	232	236	Mass spectrometry
+MK67I	236	240	Mass spectrometry
+MK67I	236	240	Cell-based/phenotypic assays
+CDKN3	1	22	X-ray crystallography
+CDKN3	201	212	X-ray crystallography
+FAS	2344	2360	X-ray crystallography
+FAS	2200	2220	X-ray crystallography
+FAS	2344	2356	X-ray crystallography
+FAK1	565	583	X-ray crystallography
+FAK1	565	583	X-ray crystallography
+EPHA2	761	777	X-ray crystallography
+EPHA2	760	883	X-ray crystallography
+XYLT1	232	251	X-ray crystallography
+NAA10	161	235	Cryo-EM
+NAA15	573	639	X-ray crystallography
+NAA15	842	866	X-ray crystallography
+NAA15	574	637	Cryo-EM
+NAA15	842	866	Cryo-EM
+TSNAX	1	30	X-ray crystallography
+TSNAX	157	176	X-ray crystallography
+TSNAX	275	290	X-ray crystallography
+CTBP1	357	378	X-ray crystallography
+CASP3	57	66	X-ray crystallography
+CASP3	201	211	X-ray crystallography
+CASP3	165	185	X-ray crystallography
+CASP3	174	184	X-ray crystallography
+STEA3	1	28	X-ray crystallography
+ANGT	428	439	X-ray crystallography
+ANGT	43	54	X-ray crystallography
+ANGT	43	53	X-ray crystallography
+ANGT	427	440	X-ray crystallography
+ANGT	35	55	X-ray crystallography
+ANGT	427	441	X-ray crystallography
+ANGT	40	52	X-ray crystallography
+UBP14	484	494	X-ray crystallography
+BUP1	1	32	X-ray crystallography
+BUP1	202	211	Cell-based/phenotypic assays
+BUP1	301	309	Cell-based/phenotypic assays
+CANT1	71	84	X-ray crystallography
+CLIC1	152	162	X-ray crystallography
+CLIC1	147	164	X-ray crystallography
+CLIC1	1	21	X-ray crystallography
+CLIC2	55	68	X-ray crystallography
+CLIC4	159	175	X-ray crystallography
+CLIC4	160	173	X-ray crystallography
+ABL1	385	401	X-ray crystallography
+ABL1	385	401	X-ray crystallography
+P00519-2	1026	1045	NMR spectroscopy
+P00519-2	520	531	X-ray crystallography
+P00519-2	138	249	X-ray crystallography
+CYLD	841	857	X-ray crystallography
+UXS1	395	420	X-ray crystallography
+UPP1	1	15	X-ray crystallography
+ADPPT	248	263	X-ray crystallography
+APAF	1	100	X-ray crystallography
+APAF	1	104	X-ray crystallography
+SCN2A	1777	1789	NMR spectroscopy
+SCN2A	1	116	Electron microscopy
+SCN2A	285	313	Electron microscopy
+SCN2A	442	739	Electron microscopy
+SCN2A	988	1190	Electron microscopy
+SCN2A	1786	2005	Electron microscopy
+SCN2A	442	739	Electron microscopy
+SCN2A	988	1190	Electron microscopy
+SCN2A	1777	1787	X-ray crystallography
+SCN2A	1900	1905	Cell-based/phenotypic assays
+SLU7	1	61	Cryo-EM
+SLU7	197	264	Cryo-EM
+SLU7	372	586	Cryo-EM
+COAA1	521	548	X-ray crystallography
+GEN	243	307	X-ray crystallography
+CSF3	157	166	X-ray crystallography
+GGCT	2	13	X-ray crystallography
+GGCT	1	13	X-ray crystallography
+CYTD	21	31	X-ray crystallography
+CYTD	21	30	X-ray crystallography
+GRK6	1	13	X-ray crystallography
+GRK6	475	491	X-ray crystallography
+GRK6	536	576	X-ray crystallography
+LMAN1	176	185	X-ray crystallography
+LMAN1	176	185	X-ray crystallography
+MANF	162	182	X-ray crystallography
+MD2BP	36	53	X-ray crystallography
+MD2BP	97	118	X-ray crystallography
+XPO5	474	490	X-ray crystallography
+XPO5	938	951	X-ray crystallography
+XPO5	980	1009	X-ray crystallography
+XPO5	1137	1191	X-ray crystallography
+XPO5	1180	1204	X-ray crystallography
+XPO5	1180	1204	Other
+XPO5	478	490	X-ray crystallography
+XPO5	474	490	X-ray crystallography
+XPO5	1167	1179	X-ray crystallography
+XPO5	938	951	X-ray crystallography
+THEM5	102	111	X-ray crystallography
+UROK	21	30	X-ray crystallography
+UROK	153	163	X-ray crystallography
+OPTN	416	442	X-ray crystallography
+CASP7	197	210	X-ray crystallography
+CASP7	197	211	X-ray crystallography
+CASP7	197	210	X-ray crystallography
+SRSF7	81	98	NMR spectroscopy
+SRSF7	81	98	Interaction assays
+SRSF7	123	176	Other
+SRSF7	200	217	Other
+BRD1	63	80	X-ray crystallography
+SUV3	47	57	X-ray crystallography
+SUV3	73	86	X-ray crystallography
+SUV3	446	456	X-ray crystallography
+SUV3	690	722	X-ray crystallography
+IZUM1	257	268	X-ray crystallography
+IZUM1	127	140	Mass spectrometry
+JUNO	111	122	X-ray crystallography
+SLD5	1	20	X-ray crystallography
+PRP17	1	82	Cryo-EM
+PKRI1	1	50	Cryo-EM
+PKRI1	143	184	Cryo-EM
+RN125	1	32	X-ray crystallography
+DSRAD	202	296	NMR spectroscopy
+STAM1	140	170	NMR spectroscopy
+P33316-2	1	23	X-ray crystallography
+ELAF	23	60	NMR spectroscopy
+S10A4	91	101	X-ray crystallography
+REG1A	23	35	X-ray crystallography
+REG1A	25	29	X-ray crystallography
+REG1A	24	33	CD/IR spectroscopy
+REG1A	24	33	Other
+PABP1	179	199	X-ray crystallography
+PABP1	180	190	X-ray crystallography
+PABP1	179	190	X-ray crystallography
+PABP1	179	183	X-ray crystallography
+PABP1	179	190	Thermodynamics
+PABP1	179	190	Small-angle scattering
+PABP1	1	10	X-ray crystallography
+VAV	130	141	X-ray crystallography
+VAV	565	584	X-ray crystallography
+SND1	660	669	X-ray crystallography
+Q92900-2	219	228	X-ray crystallography
+Q92900-2	219	228	X-ray crystallography
+GUAA	312	321	X-ray crystallography
+GNAQ	1	216	Cryo-EM
+MALT1	469	480	X-ray crystallography
+MALT1	469	480	X-ray crystallography
+MALT1	566	579	X-ray crystallography
+MALT1	466	481	X-ray crystallography
+ASPC1	498	553	X-ray crystallography
+TERA	1	20	X-ray crystallography
+TERA	462	472	X-ray crystallography
+TERA	776	806	Cryo-EM
+TERA	586	598	Cryo-EM
+TERA	1	21	Cryo-EM
+TERA	794	806	NMR spectroscopy
+TERA	797	806	Thermodynamics
+TERA	802	806	Other
+IF4B	1	96	Cryo-EM
+IF4B	172	611	Cryo-EM
+IF4B	333	611	NMR spectroscopy
+SPT2	571	604	X-ray crystallography
+SRRM2	31	2752	Cryo-EM
+SRRM2	27	2752	Cryo-EM
+SRRM2	35	2752	Cryo-EM
+SRRM2	27	2752	Cryo-EM
+PSIP1	430	471	NMR spectroscopy
+PSIP1	92	135	X-ray crystallography
+CDK12	1023	1063	X-ray crystallography
+TR13C	1	19	X-ray crystallography
+TR13C	37	184	X-ray crystallography
+BIN2	1	37	X-ray crystallography
+SVBP	1	23	X-ray crystallography
+NDST1	558	578	X-ray crystallography
+NDST1	587	600	X-ray crystallography
+TIMP2	209	220	X-ray crystallography
+TIMP2	212	220	Other
+MMP2	450	460	X-ray crystallography
+MMP1	20	31	X-ray crystallography
+MMP1	46	57	X-ray crystallography
+MMP1	52	56	Biochemical activity assays
+P4HA1	151	160	X-ray crystallography
+PLOD3	72	86	X-ray crystallography
+PLOD3	592	605	X-ray crystallography
+PLOD3	73	77	Cell-based/phenotypic assays
+PLOD3	72	86	X-ray crystallography
+PLOD3	73	77	X-ray crystallography
+PLOD3	593	597	X-ray crystallography
+PLOD3	595	599	X-ray crystallography
+A1AT	26	47	X-ray crystallography
+A1AT	25	42	X-ray crystallography
+A1AT	25	43	X-ray crystallography
+TNAP3	150	160	X-ray crystallography
+TNAP3	213	228	X-ray crystallography
+TNAP3	152	161	X-ray crystallography
+TNAP3	213	227	X-ray crystallography
+TNAP3	213	228	X-ray crystallography
+OTU7B	88	129	X-ray crystallography
+OTU7B	267	291	Other
+SMO	539	640	Cryo-EM
+LOXL2	763	774	X-ray crystallography
+RABE1	642	661	X-ray crystallography
+QKI	205	214	X-ray crystallography
+IBP2	312	325	NMR spectroscopy
+TGM3	463	472	X-ray crystallography
+TGM3	468	472	Other
+ITIH1	653	672	X-ray crystallography
+ITIH1	35	44	X-ray crystallography
+ITIH1	653	657	Mass spectrometry
+ITIH1	668	672	Mass spectrometry
+RSPO1	131	146	X-ray crystallography
+RSPO1	131	146	X-ray crystallography
+ZPI	22	59	X-ray crystallography
+ZPI	22	60	X-ray crystallography
+FA10	90	120	X-ray crystallography
+FA10	90	126	X-ray crystallography
+FA10	90	120	X-ray crystallography
+FA10	99	116	X-ray crystallography
+FA10	106	116	X-ray crystallography
+FA10	100	105	X-ray crystallography
+SPOP	357	374	X-ray crystallography
+SPOP	169	178	X-ray crystallography
+SPOP	361	374	Fluorescence methods
+SPOP	361	374	Other
+SPOP	361	374	Other
+AMBP	340	352	X-ray crystallography
+AMBP	206	229	X-ray crystallography
+AMBP	191	202	X-ray crystallography
+AMBP	213	217	Mass spectrometry
+SEM4D	649	677	X-ray crystallography
+PTEN	354	403	Biochemical activity assays
+PTEN	353	403	Biochemical activity assays
+PTEN	353	403	Other
+PTEN	378	382	Cell-based/phenotypic assays
+PTEN	380	384	Cell-based/phenotypic assays
+PTEN	381	385	Cell-based/phenotypic assays
+PTEN	286	309	Biochemical activity assays
+PTEN	366	385	Other
+PTEN	366	385	Mass spectrometry
+CYTC	27	37	NMR spectroscopy
+CYTC	27	37	X-ray crystallography
+CYTC	35	39	Other
+CYTC	27	37	Other
+RAC1	182	192	X-ray crystallography
+RAC1	179	192	X-ray crystallography
+RAC1	178	188	Interaction assays
+RAC1	178	188	Other
+RAC1	184	188	Cell-based/phenotypic assays
+RAC1	178	182	Cell-based/phenotypic assays
+RAC1	184	188	Fluorescence methods
+RAC1	184	188	Other
+THRB	187	211	X-ray crystallography
+THRB	298	316	X-ray crystallography
+THRB	187	211	X-ray crystallography
+THRB	90	110	X-ray crystallography
+THRB	187	211	Fluorescence methods
+THRB	301	316	X-ray crystallography
+THRB	312	316	Other
+AKT1	114	144	X-ray crystallography
+MMP7	18	28	NMR spectroscopy
+MMP7	90	99	NMR spectroscopy
+MMP7	256	267	NMR spectroscopy
+MMP7	90	99	NMR spectroscopy
+MMP7	21	40	NMR spectroscopy
+SPA12	367	377	X-ray crystallography
+SPA12	376	380	X-ray crystallography
+SPA12	367	377	Cell-based/phenotypic assays
+SPB5	332	343	X-ray crystallography
+SPB5	334	338	Biochemical activity assays
+NRG1	226	239	NMR spectroscopy
+NRG1	229	241	NMR spectroscopy
+COHA1	2	455	CD/IR spectroscopy
+COHA1	2	455	Other
+ROBO3	654	667	Biochemical activity assays
+PLXC1	642	659	Cryo-EM
+PLXC1	642	659	Cryo-EM
+FA9	47	93	NMR spectroscopy
+FA9	70	74	X-ray crystallography
+FA9	47	93	NMR spectroscopy
+FA9	47	57	NMR spectroscopy
+FA9	70	74	X-ray crystallography
+FA9	74	78	X-ray crystallography
+FA9	52	56	X-ray crystallography
+FA9	47	51	X-ray crystallography
+FA9	60	64	X-ray crystallography
+FA9	64	68	X-ray crystallography
+PPGB	288	327	X-ray crystallography
+F13A	2	38	NMR spectroscopy
+F13A	2	38	CD/IR spectroscopy
+REG3A	27	36	X-ray crystallography
+REG3A	27	37	Biochemical activity assays
+REG3A	27	37	NMR spectroscopy
+DMP1	17	217	Chromatography/electrophoresis
+DMP1	218	513	Chromatography/electrophoresis
+DMP1	17	217	Other
+DMP1	218	513	Other
+DMP1	17	217	CD/IR spectroscopy
+DMP1	218	513	CD/IR spectroscopy
+DMP1	17	217	CD/IR spectroscopy
+DMP1	218	513	CD/IR spectroscopy
+DMP1	17	217	Chromatography/electrophoresis
+DMP1	218	513	Chromatography/electrophoresis
+DMP1	17	217	Chromatography/electrophoresis
+DMP1	218	513	Chromatography/electrophoresis
+DMP1	17	217	Other
+DMP1	218	513	Other
+DMP1	17	217	Other
+DMP1	218	513	Chromatography/electrophoresis
+DMP1	17	217	Chromatography/electrophoresis
+DMP1	218	513	Other
+GPC1	350	361	X-ray crystallography
+SPON1	29	38	X-ray crystallography
+SPON1	185	198	X-ray crystallography
+SPON1	29	43	X-ray crystallography
+PEDF	21	35	X-ray crystallography
+PEDF	22	26	Cell-based/phenotypic assays
+LEG8	154	175	X-ray crystallography
+THEM4	81	106	X-ray crystallography
+IP3KA	187	196	X-ray crystallography
+HEP2	20	79	X-ray crystallography
+HEP2	91	113	X-ray crystallography
+HTRA1	94	106	X-ray crystallography
+HTRA1	301	313	X-ray crystallography
+HTRA1	301	313	X-ray crystallography
+BGH3	24	42	X-ray crystallography
+BGH3	636	657	NMR spectroscopy
+BGH3	638	683	X-ray crystallography
+BGH3	641	645	Cell-based/phenotypic assays
+BGH3	641	645	Interaction assays
+BGH3	641	645	Microscopy
+BGH3	641	645	Other
+G0S2	1	103	Chromatography/electrophoresis
+G0S2	1	103	Other
+G0S2	1	103	CD/IR spectroscopy
+MK12	354	367	X-ray crystallography
+TYY2	1	253	Chromatography/electrophoresis
+TYY2	1	253	Chromatography/electrophoresis
+TYY2	1	253	CD/IR spectroscopy
+TYY2	1	372	Chromatography/electrophoresis
+PRM2	46	102	CD/IR spectroscopy
+CO9A1	24	41	X-ray crystallography
+CO9A1	24	40	Chromatography/electrophoresis
+CO9A1	24	42	Mass spectrometry
+CO9A1	24	42	Chromatography/electrophoresis
+CO9A1	26	31	Cell-based/phenotypic assays
+CO9A1	24	42	Interaction assays
+LTBP1	1507	1522	NMR spectroscopy
+LTBP1	1582	1623	NMR spectroscopy
+LTBP1	1709	1721	NMR spectroscopy
+LTBP1	1507	1521	NMR spectroscopy
+LTBP1	1582	1623	NMR spectroscopy
+LTBP1	1618	1624	Interaction assays
+LTBP1	1618	1624	NMR spectroscopy
+LTBP1	1578	1624	NMR spectroscopy
+HTRA3	279	289	X-ray crystallography
+TSG6	250	277	X-ray crystallography
+STAG1	1	85	Cryo-EM
+STAG1	1053	1258	Cryo-EM
+STAG1	442	457	Cryo-EM
+STAG1	843	853	Cryo-EM
+STAG1	34	52	Other
+STAG1	34	52	Microscopy
+MX2	599	621	Cryo-EM
+MX2	1	92	Cryo-EM
+Q9Y237-2	1	59	NMR spectroscopy
+Q9Y237-2	1	25	Other
+Q9Y237-1	1	35	NMR spectroscopy
+DKK4	19	38	NMR spectroscopy
+DKK4	94	140	NMR spectroscopy
+SNX3	2	28	NMR spectroscopy
+SNX3	146	162	NMR spectroscopy
+P13051-1	1	92	NMR spectroscopy
+P60484-2	1	145	Mass spectrometry
+P60484-2	47	52	Fluorescence methods
+P60484-2	47	52	Other
+SMRCD	109	150	NMR spectroscopy
+SMRCD	200	250	NMR spectroscopy
+Q8WXS3-1	1	180	NMR spectroscopy
+ARP19	1	112	NMR spectroscopy
+ARP19	1	112	Other
+ARP19	60	65	Other
+ARP19	102	106	Other
+ARP19	20	112	Other
+ARP19	20	75	Other
+ARP19	105	112	Other
+ARP19	42	75	Cryo-EM
+ARP19	86	112	Cryo-EM
+ARP19	42	75	Cryo-EM
+ARP19	1	41	Cryo-EM
+ARP19	76	85	Cryo-EM
+ARP19	25	41	Cryo-EM
+ARP19	32	41	Cell-based/phenotypic assays
+ARP19	47	56	Cell-based/phenotypic assays
+ARP19	57	76	Cell-based/phenotypic assays
+ARP19	76	112	Cell-based/phenotypic assays
+ARP19	1	112	Fluorescence methods
+ARP19	20	112	NMR spectroscopy
+P56211-2	1	96	NMR spectroscopy
+DAP1	1	102	NMR spectroscopy
+IAPP	23	33	NMR spectroscopy
+IAPP	62	71	NMR spectroscopy
+IAPP	23	89	CD/IR spectroscopy
+IAPP	74	89	CD/IR spectroscopy
+IAPP	23	89	NMR spectroscopy
+Q96PU8-9	205	319	CD/IR spectroscopy
+Q96PU8-9	205	319	Small-angle scattering
+NUCB2	190	420	Mass spectrometry
+NUCB2	265	282	Mass spectrometry
+NUCB2	309	334	Mass spectrometry
+NUCB2	265	282	Mass spectrometry
+NUCB2	309	334	Mass spectrometry
+CXCR1	1	28	NMR spectroscopy
+CXCR1	326	350	NMR spectroscopy
+CXCR1	1	29	NMR spectroscopy
+CXCR1	1	29	Thermodynamics
+CPSM	779	792	X-ray crystallography
+CPSM	562	623	X-ray crystallography
+CPSM	779	784	X-ray crystallography
+CPSM	788	792	X-ray crystallography
+CPSM	585	623	X-ray crystallography
+CPSM	779	784	X-ray crystallography
+CPSM	779	792	X-ray crystallography
+CPSM	562	623	X-ray crystallography
+STAT3	690	722	X-ray crystallography
+STAT3	689	702	X-ray crystallography
+PAK1	492	545	Biochemical activity assays
+PAK1	1	56	Biochemical activity assays
+PAK1	186	199	NMR spectroscopy
+PAK1	150	248	Chromatography/electrophoresis
+PAK1	83	137	CD/IR spectroscopy
+PAK1	83	137	Biochemical activity assays
+PAK1	47	51	Cell-based/phenotypic assays
+PAK1	150	248	Chromatography/electrophoresis
+PAK1	182	203	Interaction assays
+PHF8	101	113	X-ray crystallography
+PHF8	101	113	X-ray crystallography
+ASH1L	2090	2107	X-ray crystallography
+ASH1L	2268	2272	Other
+ASH1L	2263	2267	Other
+ASH1L	2269	2273	Other
+ASH1L	2263	2271	X-ray crystallography
+ASH1L	2263	2271	X-ray crystallography
+ASH1L	2261	2269	X-ray crystallography
+ASH1L	2261	2284	X-ray crystallography
+ASH1L	2261	2273	X-ray crystallography
+ASH1L	2261	2273	NMR spectroscopy
+PAK2	1	108	Other
+PAK2	71	92	Fluorescence methods
+PAK2	71	92	NMR spectroscopy
+PAK2	121	136	X-ray crystallography
+PAK2	1	17	Mass spectrometry
+PAK2	1	76	NMR spectroscopy
+PAK2	144	227	NMR spectroscopy
+PAK2	78	147	Mass spectrometry
+PAK2	390	403	Mass spectrometry
+PAK2	210	215	Mass spectrometry
+PAK2	139	143	Mass spectrometry
+PAK2	399	403	Mass spectrometry
+HDAC4	130	153	X-ray crystallography
+HDAC4	729	760	X-ray crystallography
+P21675-1	1626	1638	X-ray crystallography
+P21675-1	972	1053	X-ray crystallography
+TAF2	977	1199	X-ray crystallography
+NOVA1	125	143	X-ray crystallography
+SPAST	228	323	X-ray crystallography
+SPAST	270	328	Other
+SPAST	270	328	Interaction assays
+SPAST	229	322	X-ray crystallography
+AP4M1	160	184	X-ray crystallography
+AP4M1	384	399	X-ray crystallography
+RL10	95	123	X-ray crystallography
+TAF5	381	416	X-ray crystallography
+TAF5	194	206	X-ray crystallography
+UBA5	325	404	NMR spectroscopy
+UBA5	384	404	NMR spectroscopy
+UBA5	325	357	Thermodynamics
+UBA5	325	376	Thermodynamics
+UBA5	359	404	Thermodynamics
+UBA5	359	404	NMR spectroscopy
+UBA5	338	346	X-ray crystallography
+UBA5	338	346	NMR spectroscopy
+UBA5	338	346	Thermodynamics
+UBA5	333	348	NMR spectroscopy
+UBA5	333	348	Other
+UBA5	333	348	Fluorescence methods
+UBA5	338	346	Other
+GDF5	382	396	X-ray crystallography
+BMP7	293	327	X-ray crystallography
+MK03	1	23	X-ray crystallography
+Q04637-8	1428	1437	X-ray crystallography
+Q04637-8	1080	1234	Biochemical activity assays
+ACOT2	46	56	X-ray crystallography
+ACOT2	473	483	X-ray crystallography
+SDC1	23	254	Chromatography/electrophoresis
+SDC1	23	254	Chromatography/electrophoresis
+SDC1	23	254	CD/IR spectroscopy
+SDC1	23	254	Small-angle scattering
+SDC1	23	254	Other
+SDC1	23	254	Mass spectrometry
+SDC2	19	144	Chromatography/electrophoresis
+SDC2	19	144	Chromatography/electrophoresis
+SDC2	19	144	CD/IR spectroscopy
+SDC2	19	144	Small-angle scattering
+SDC2	19	144	Other
+SDC2	19	144	Mass spectrometry
+SDC3	47	387	Chromatography/electrophoresis
+SDC3	47	387	Chromatography/electrophoresis
+SDC3	47	387	CD/IR spectroscopy
+SDC3	47	387	Small-angle scattering
+SDC3	47	387	Other
+SDC3	47	387	Mass spectrometry
+P31431-2	19	153	Chromatography/electrophoresis
+P31431-2	19	153	Chromatography/electrophoresis
+P31431-2	19	153	CD/IR spectroscopy
+P31431-2	19	153	Small-angle scattering
+P31431-2	19	153	Other
+P31431-2	19	153	Mass spectrometry
+MYOZ1	1	174	NMR spectroscopy
+MYOZ1	92	299	NMR spectroscopy
+MYOZ1	1	174	Small-angle scattering
+MYOZ1	92	299	Small-angle scattering
+MYOZ1	1	174	Chromatography/electrophoresis
+MYOZ1	92	299	Chromatography/electrophoresis
+MYOZ1	92	299	Thermodynamics
+MYOZ1	92	299	Cell-based/phenotypic assays
+MYOZ1	119	237	Mass spectrometry
+MYOZ1	176	292	NMR spectroscopy
+MYOZ1	106	128	NMR spectroscopy
+MYOZ1	180	199	X-ray crystallography
+MYOZ1	216	240	X-ray crystallography
+MYOZ1	200	215	X-ray crystallography
+MYOZ1	216	240	Thermodynamics
+MYOZ1	218	228	X-ray crystallography
+MYOZ1	92	299	Microscopy
+FHIT	107	127	X-ray crystallography
+FHIT	112	116	Mass spectrometry
+FHIT	112	116	Cell-based/phenotypic assays
+DUS29	2	31	X-ray crystallography
+DUS29	207	220	X-ray crystallography
+DUS14	2	23	X-ray crystallography
+P10636-2	1	352	Small-angle scattering
+IPO13	1	18	X-ray crystallography
+IPO13	656	673	X-ray crystallography
+NUDT5	1	13	X-ray crystallography
+PPM1A	369	382	X-ray crystallography
+DCPS	1	37	X-ray crystallography
+SYQ	183	216	X-ray crystallography
+MAP2	1	109	X-ray crystallography
+MAP2	139	152	X-ray crystallography
+AHSP	92	102	NMR spectroscopy
+TAF10	178	191	X-ray crystallography
+TAF10	1	112	Cryo-EM
+TAF10	178	191	Cryo-EM
+TAF10	209	218	Cryo-EM
+KDM7A	1	31	X-ray crystallography
+KDM6B	1141	1176	X-ray crystallography
+KDM6B	1293	1322	X-ray crystallography
+KDM6B	1141	1157	X-ray crystallography
+KDM6B	1292	1323	X-ray crystallography
+KDM6A	1048	1077	X-ray crystallography
+KDM6A	1051	1077	X-ray crystallography
+KIF11	1	15	X-ray crystallography
+KIF11	1	16	X-ray crystallography
+KIF11	272	286	X-ray crystallography
+KIF11	108	126	X-ray crystallography
+KIF11	270	287	X-ray crystallography
+KIF11	1	14	X-ray crystallography
+NFM	790	916	Chromatography/electrophoresis
+NFM	790	916	Mass spectrometry
+NFM	790	916	CD/IR spectroscopy
+Q92784-2	60	200	Other
+Q92784-2	222	259	Other
+Q92784-2	293	357	Other
+DCD	77	87	NMR spectroscopy
+DCD	63	87	CD/IR spectroscopy
+DCD	63	87	NMR spectroscopy
+DCD	63	87	CD/IR spectroscopy
+DCD	63	110	CD/IR spectroscopy
+DCD	63	110	Other
+DCD	63	110	Other
+PAIRB	149	288	NMR spectroscopy
+PAIRB	300	400	NMR spectroscopy
+PAIRB	387	400	NMR spectroscopy
+PAIRB	149	188	Fluorescence methods
+DAAM1	654	682	X-ray crystallography
+PA2G4	363	394	X-ray crystallography
+PA2G4	364	368	Cell-based/phenotypic assays
+ANK2	1113	1122	X-ray crystallography
+ANK2	1457	1476	X-ray crystallography
+ANK2	817	873	X-ray crystallography
+ANK2	846	873	X-ray crystallography
+ANK2	683	693	X-ray crystallography
+ANK2	1243	1255	X-ray crystallography
+1433Z	234	245	NMR spectroscopy
+1433Z	234	245	CD/IR spectroscopy
+1433Z	234	245	Other
+1433Z	234	245	Thermodynamics
+1433Z	234	245	Thermodynamics
+FKBP8	1	32	Other
+FKBP8	1	32	NMR spectroscopy
+FKBP8	1	32	Other
+FKBP8	1	32	Interaction assays
+FKBP8	1	32	Biochemical activity assays
+FKBP8	1	34	Other
+FKBP8	151	165	Other
+FKBP8	1	34	NMR spectroscopy
+FKBP8	357	380	X-ray crystallography
+FKBP8	23	28	Other
+FKBP8	23	28	Interaction assays
+FKBP8	23	28	Interaction assays
+FKBP8	23	28	Other
+FKBP8	23	28	Fluorescence methods
+FKBP8	23	28	Interaction assays
+A0A5F9ZHA1	1403	1430	X-ray crystallography
+A0A5F9ZHA1	1059	1068	X-ray crystallography
+A0A5F9ZHA1	796	852	X-ray crystallography
+A0A5F9ZHA1	662	672	X-ray crystallography
+A0A5F9ZHA1	825	852	X-ray crystallography
+A0A5F9ZHA1	1189	1201	X-ray crystallography
+HDAC8	1	12	X-ray crystallography
+BNIP3	146	158	NMR spectroscopy
+ARI4B	110	151	NMR spectroscopy
+ARI4B	121	151	Cell-based/phenotypic assays
+STX17	142	228	CD/IR spectroscopy
+STX17	142	228	NMR spectroscopy
+STX17	94	121	NMR spectroscopy
+STX17	171	176	Thermodynamics
+STX17	167	188	X-ray crystallography
+STX17	142	167	X-ray crystallography
+STX17	168	228	CD/IR spectroscopy
+STX17	168	228	X-ray crystallography
+STX17	142	228	Chromatography/electrophoresis
+STX17	142	228	CD/IR spectroscopy
+RBCC1	1543	1552	X-ray crystallography
+RTN3	1	27	CD/IR spectroscopy
+RTN3	1	27	NMR spectroscopy
+RTN3	988	1032	CD/IR spectroscopy
+RTN3	988	1032	NMR spectroscopy
+RTN3	988	1032	Thermodynamics
+RTN3	988	1032	NMR spectroscopy
+PAXI	1	20	CD/IR spectroscopy
+PAXI	213	232	CD/IR spectroscopy
+PAXI	296	315	CD/IR spectroscopy
+CADH6	592	607	X-ray crystallography
+STK4	326	401	CD/IR spectroscopy
+STK4	326	401	NMR spectroscopy
+STK4	343	357	Fluorescence methods
+STK4	358	372	Fluorescence methods
+STK4	343	357	X-ray crystallography
+CACO2	365	413	NMR spectroscopy
+CACO2	127	141	X-ray crystallography
+CACO2	129	141	Chromatography/electrophoresis
+CACO2	129	141	NMR spectroscopy
+CACO2	135	139	Biochemical activity assays
+CACO2	128	140	Fluorescence methods
+CACO2	127	141	NMR spectroscopy
+CACO2	130	140	NMR spectroscopy
+CACO2	131	137	Other
+CACO2	131	137	Cell-based/phenotypic assays
+CACO2	133	137	NMR spectroscopy
+CACO2	128	141	Fluorescence methods
+CACO2	128	141	Cell-based/phenotypic assays
+CACO2	128	141	Other
+CACO2	134	136	Other
+CACO2	134	136	NMR spectroscopy
+IPO5	1	21	X-ray crystallography
+IPO5	316	329	X-ray crystallography
+ATLA3	1	21	X-ray crystallography
+V2R	343	371	CD/IR spectroscopy
+V2R	343	371	NMR spectroscopy
+V2R	343	371	Small-angle scattering
+GHSR	339	366	CD/IR spectroscopy
+GHSR	339	366	NMR spectroscopy
+GHSR	339	366	Small-angle scattering
+ADRB2	342	413	CD/IR spectroscopy
+ADRB2	342	413	NMR spectroscopy
+ADRB2	342	413	Small-angle scattering
+CD8A	128	182	NMR spectroscopy
+CD8A	128	182	CD/IR spectroscopy
+AMOL1	178	384	CD/IR spectroscopy
+AMOL1	178	384	NMR spectroscopy
+AMOL1	186	204	NMR spectroscopy
+AMOL1	305	317	NMR spectroscopy
+AMOL1	365	371	NMR spectroscopy
+AMOL1	261	273	NMR spectroscopy
+AMOL1	178	384	Thermodynamics
+MCL1	192	201	X-ray crystallography
+MCL1	193	203	NMR spectroscopy
+DBND1	1	158	NMR spectroscopy
+TRPV4	2	148	NMR spectroscopy
+TRPV4	2	68	Other
+TRPV4	1	134	CD/IR spectroscopy
+NBPFF	174	247	NMR spectroscopy
+NBPFF	338	552	NMR spectroscopy
+NBPFF	338	412	NMR spectroscopy
+NBPFF	401	487	NMR spectroscopy
+NBPFF	478	552	NMR spectroscopy
+CX05A	1	108	NMR spectroscopy
+GAB1	613	694	CD/IR spectroscopy
+GAB1	613	694	NMR spectroscopy
+GAB1	613	694	NMR spectroscopy
+GAB1	613	694	Thermodynamics
+GAB1	117	694	Other
+P17706-2	303	387	NMR spectroscopy
+P17706-2	303	387	Small-angle scattering
+P17706-2	303	387	Biochemical activity assays
+P17706-2	344	385	NMR spectroscopy
+P17706-2	344	385	Other
+APBA3	1	214	CD/IR spectroscopy
+APBA3	1	214	Thermodynamics
+APBA3	1	214	NMR spectroscopy
+APBA3	1	214	Mass spectrometry
+PK3C3	422	469	Electron microscopy
+PK3C3	873	887	Electron microscopy
+PK3C3	246	260	Electron microscopy
+PK3C3	418	470	X-ray crystallography
+PK3C3	872	887	X-ray crystallography
+PK3C3	418	434	X-ray crystallography
+PK3C3	452	469	X-ray crystallography
+PK3C3	250	253	Cell-based/phenotypic assays
+PK3C3	250	253	Interaction assays
+MLP3C	1	12	X-ray crystallography
+PHB2	246	265	X-ray crystallography
+TOLIP	1	53	Other
+TOLIP	1	53	CD/IR spectroscopy
+TOLIP	1	53	NMR spectroscopy
+TOLIP	23	53	NMR spectroscopy
+TOLIP	1	22	NMR spectroscopy
+TOLIP	1	53	Interaction assays
+BIRC5	1	10	X-ray crystallography
+BIRC5	1	99	NMR spectroscopy
+ECHA	637	647	Electron microscopy
+ULK2	168	177	X-ray crystallography
+DYR1A	481	490	X-ray crystallography
+NUFP1	486	495	NMR spectroscopy
+TRPV1	2	100	NMR spectroscopy
+TRPV2	2	73	NMR spectroscopy
+TRPV3	2	119	NMR spectroscopy
+Q8NE35-2	1	426	CD/IR spectroscopy
+Q8NE35-2	1	426	Fluorescence methods
+Q8NE35-2	1	426	NMR spectroscopy
+AKAP5	300	427	NMR spectroscopy
+AKAP5	300	427	CD/IR spectroscopy
+AKAP5	404	413	NMR spectroscopy
+AKAP5	390	395	NMR spectroscopy
+AKAP5	361	365	NMR spectroscopy
+AKAP5	371	375	NMR spectroscopy
+AKAP5	337	343	NMR spectroscopy
+AKAP5	300	425	Interaction assays
+AKAP5	337	343	Thermodynamics
+AKAP5	390	417	NMR spectroscopy
+MAGI1	555	580	NMR spectroscopy
+PMM1	1	11	X-ray crystallography
+A0A090N8E9	735	751	X-ray crystallography
+FLT3	762	782	X-ray crystallography
+FLT3	948	958	X-ray crystallography
+IWS1	352	548	NMR spectroscopy
+IWS1	352	548	CD/IR spectroscopy
+IWS1	352	548	Other
+IWS1	352	548	Thermodynamics
+IWS1	352	548	NMR spectroscopy
+SCN9A	417	725	Cryo-EM
+SCN9A	973	1174	Cryo-EM
+SCN9A	417	725	Cryo-EM
+SCN9A	1	113	Cryo-EM
+SCN9A	1769	1988	Cryo-EM
+A2ML1	634	668	X-ray crystallography
+A2ML1	696	726	X-ray crystallography
+METK1	1	13	X-ray crystallography
+THTPA	215	230	X-ray crystallography
+VRK1	1	20	NMR spectroscopy
+VRK1	343	364	X-ray crystallography
+VRK1	342	353	Biochemical activity assays
+VRK1	342	364	X-ray crystallography
+DPP6	117	126	X-ray crystallography
+DPP6	850	865	X-ray crystallography
+DDX6	81	93	X-ray crystallography
+AGO1	1	21	X-ray crystallography
+AGO1	113	126	X-ray crystallography
+AGO1	819	834	X-ray crystallography
+RED1	462	473	X-ray crystallography
+RED1	299	316	X-ray crystallography
+RED1	454	477	X-ray crystallography
+RED1	215	233	X-ray crystallography
+S12A2	1	283	Cryo-EM
+S12A2	1	285	Cryo-EM
+S12A2	1	286	Cryo-EM
+S12A2	557	572	Cryo-EM
+BRAF	600	611	Other
+BRAF	601	613	X-ray crystallography
+BRAF	597	613	X-ray crystallography
+BRAF	600	610	X-ray crystallography
+BRAF	601	614	X-ray crystallography
+BRAF	601	611	X-ray crystallography
+BRAF	432	447	X-ray crystallography
+CDK6	1	11	X-ray crystallography
+CDK6	46	55	X-ray crystallography
+CDK6	167	180	X-ray crystallography
+CDK6	45	56	X-ray crystallography
+CDK6	168	181	X-ray crystallography
+CDK6	1	10	X-ray crystallography
+CERT	344	361	X-ray crystallography
+CERT	344	362	X-ray crystallography
+CERT	187	218	Mass spectrometry
+CERT	300	381	Mass spectrometry
+CLPP	57	72	X-ray crystallography
+CLPP	250	277	X-ray crystallography
+COG4	525	536	X-ray crystallography
+ISPD	319	334	X-ray crystallography
+SYDC	224	247	X-ray crystallography
+SYDC	1	20	X-ray crystallography
+SYDC	273	282	X-ray crystallography
+SYDC	163	172	X-ray crystallography
+SYDC	237	241	Mass spectrometry
+SYDC	239	243	Mass spectrometry
+SYDM	631	645	X-ray crystallography
+DHYS	76	92	X-ray crystallography
+DHYS	1	27	X-ray crystallography
+DHYS	1	12	X-ray crystallography
+DLL1	443	551	X-ray crystallography
+REQU	235	249	X-ray crystallography
+SYEP	1003	1014	X-ray crystallography
+SYEP	1464	1473	X-ray crystallography
+SYEP	998	1015	X-ray crystallography
+SYEP	1464	1473	X-ray crystallography
+SYEP	1001	1014	X-ray crystallography
+FDFT	315	327	X-ray crystallography
+FUT8	68	107	X-ray crystallography
+FUT8	41	107	X-ray crystallography
+GALT	1	21	X-ray crystallography
+GALT	49	63	X-ray crystallography
+GALT	367	379	X-ray crystallography
+GLSK	71	135	X-ray crystallography
+GLSK	72	135	X-ray crystallography
+GLSK	646	669	X-ray crystallography
+GLSK	72	136	X-ray crystallography
+GEPH	1	12	X-ray crystallography
+HPRT	104	123	X-ray crystallography
+HPRT	104	113	X-ray crystallography
+HPRT	103	119	X-ray crystallography
+HPRT	102	121	X-ray crystallography
+RSMB	90	229	Electron microscopy
+RSMB	50	62	Electron microscopy
+RSMB	92	240	Electron microscopy
+RSMB	88	174	X-ray crystallography
+RSMB	46	64	X-ray crystallography
+HCD2	95	113	X-ray crystallography
+HCD2	208	228	X-ray crystallography
+HCD2	97	102	Cell-based/phenotypic assays
+IDUA	643	653	X-ray crystallography
+IGF1	70	90	X-ray crystallography
+KIF7	349	543	Cryo-EM
+KIF7	349	398	Cryo-EM
+KIF7	261	273	X-ray crystallography
+KIF7	230	241	X-ray crystallography
+RASK	174	189	X-ray crystallography
+RASK	167	189	X-ray crystallography
+RASK	60	70	X-ray crystallography
+RASK	60	64	Cell-based/phenotypic assays
+LONM	1	122	X-ray crystallography
+LONM	222	271	X-ray crystallography
+AOFA	465	527	X-ray crystallography
+AOFA	1	11	X-ray crystallography
+AOFA	507	527	X-ray crystallography
+M3K7	66	80	X-ray crystallography
+M3K7	178	190	X-ray crystallography
+MK01	1	15	X-ray crystallography
+MK01	175	189	X-ray crystallography
+DCMC	344	371	X-ray crystallography
+MMAA	182	197	X-ray crystallography
+MMAA	268	279	X-ray crystallography
+MMAA	182	197	X-ray crystallography
+MMAA	268	279	X-ray crystallography
+MMAC	231	282	X-ray crystallography
+MMAD	108	133	X-ray crystallography
+MMAD	108	132	X-ray crystallography
+MUTA	12	35	X-ray crystallography
+MUTA	12	26	X-ray crystallography
+MPDZ	1171	1183	X-ray crystallography
+MTHR	161	171	X-ray crystallography
+MTOR	290	355	Cryo-EM
+MTOR	904	926	Cryo-EM
+MTOR	1239	1262	Cryo-EM
+MTOR	1811	1872	Cryo-EM
+MTOR	2434	2491	Cryo-EM
+Q92913-2	159	192	X-ray crystallography
+MTRR	165	216	X-ray crystallography
+MTRR	258	271	X-ray crystallography
+MTRR	502	515	X-ray crystallography
+SYNC	98	110	X-ray crystallography
+NONO	54	65	X-ray crystallography
+NONO	53	65	X-ray crystallography
+NPC1	605	620	X-ray crystallography
+NPC1	374	383	X-ray crystallography
+NPC1	288	333	X-ray crystallography
+NPC1	797	813	X-ray crystallography
+NPC1	1256	1278	X-ray crystallography
+NPC1	289	329	X-ray crystallography
+NPC1	773	803	X-ray crystallography
+NPC1	960	983	X-ray crystallography
+NPC1	1252	1278	X-ray crystallography
+RASN	59	70	X-ray crystallography
+NSD2	661	986	Cryo-EM
+NSD2	1206	1365	Cryo-EM
+NSD2	1221	1226	Cell-based/phenotypic assays
+5NTC	489	536	X-ray crystallography
+5NTC	399	419	X-ray crystallography
+5NTC	1	23	X-ray crystallography
+5NTC	489	561	X-ray crystallography
+5NTC	403	419	X-ray crystallography
+5NTC	1	23	X-ray crystallography
+5NTC	489	510	X-ray crystallography
+5NTC	537	553	X-ray crystallography
+SUMO2	1	14	Chromatography/electrophoresis
+OCLN	383	415	X-ray crystallography
+OCRL	697	729	X-ray crystallography
+OGT1	757	771	Cryo-EM
+PH4H	1	20	X-ray crystallography
+PHF2	60	79	X-ray crystallography
+PTC1	1	75	Cryo-EM
+PTC1	608	730	Cryo-EM
+PTC1	888	901	Cryo-EM
+PTC1	1177	1447	Cryo-EM
+PTC1	614	728	Cryo-EM
+DS13B	1	24	X-ray crystallography
+RNH2C	1	13	X-ray crystallography
+RNH2C	87	117	X-ray crystallography
+RNH2C	93	107	X-ray crystallography
+H33	1	38	X-ray crystallography
+CIRBP	90	172	NMR spectroscopy
+MDM4	181	300	NMR spectroscopy
+MDM4	181	300	NMR spectroscopy
+MDM4	181	300	CD/IR spectroscopy
+STIM1	395	404	NMR spectroscopy
+DLG4	1	71	NMR spectroscopy
+GPSM2	355	421	X-ray crystallography
+GPSM2	275	421	X-ray crystallography
+STRAA	292	347	X-ray crystallography
+STRAA	300	347	X-ray crystallography
+STRAA	402	424	X-ray crystallography
+DISC1	718	771	CD/IR spectroscopy
+P29353-2	1	41	NMR spectroscopy
+P29353-2	192	207	NMR spectroscopy
+P29353-2	17	34	NMR spectroscopy
+E2AK2	229	255	X-ray crystallography
+E2AK2	337	355	X-ray crystallography
+E2AK2	441	451	X-ray crystallography
+E2AK2	542	551	X-ray crystallography
+E2AK2	170	251	NMR spectroscopy
+E2AK2	80	100	NMR spectroscopy
+E2AK2	444	448	Cell-based/phenotypic assays
+E2AK2	446	451	Cell-based/phenotypic assays
+NTRK2	385	426	X-ray crystallography
+DNM3A	831	846	X-ray crystallography
+DNM3A	455	473	X-ray crystallography
+DNM3A	831	846	X-ray crystallography
+O15294-3	747	760	Cryo-EM
+O15294-3	1	78	Cryo-EM
+NMDE2	1	33	Cryo-EM
+NMDE2	201	212	Cryo-EM
+NMDE2	393	402	Cryo-EM
+NMDE2	580	599	Cryo-EM
+LIS1	298	307	Cryo-EM
+ABCD1	2	63	Cryo-EM
+ABCD1	437	461	Cryo-EM
+ABCD1	353	375	Cryo-EM
+ABCD1	684	745	Cryo-EM
+ABCD4	2	12	Cryo-EM
+ABCD4	357	383	Cryo-EM
+ACTB	33	78	Cryo-EM
+ACL6A	45	67	X-ray crystallography
+ACL6A	216	245	X-ray crystallography
+ACL6A	312	322	X-ray crystallography
+ACL6A	1	11	Cryo-EM
+ACL6A	45	67	Cryo-EM
+ACL6A	216	245	Cryo-EM
+ACL6A	312	322	Cryo-EM
+ACL6A	418	429	Cryo-EM
+AGRG1	549	559	Cryo-EM
+AGRG1	664	693	Cryo-EM
+ADK	348	362	X-ray crystallography
+ADPRS	1	13	X-ray crystallography
+ADPRS	60	69	X-ray crystallography
+PUR8	283	294	X-ray crystallography
+PUR8	475	484	X-ray crystallography
+AIFM1	78	125	X-ray crystallography
+AIFM1	511	559	X-ray crystallography
+AIFM1	545	556	X-ray crystallography
+AIFM1	78	121	Small-angle scattering
+AIFM1	546	558	X-ray crystallography
+AIFM1	517	550	X-ray crystallography
+AIFM1	103	127	X-ray crystallography
+AIFM1	517	545	X-ray crystallography
+AL1A3	1	26	X-ray crystallography
+AL1A3	1	19	X-ray crystallography
+AL4A1	512	537	X-ray crystallography
+AL4A1	552	563	X-ray crystallography
+AL7A1	487	509	X-ray crystallography
+AL7A1	528	539	X-ray crystallography
+AL7A1	487	509	X-ray crystallography
+ALKB8	159	173	X-ray crystallography
+ALKB8	182	191	X-ray crystallography
+AMPD2	229	248	X-ray crystallography
+AMPD2	390	441	X-ray crystallography
+AMPD2	228	248	X-ray crystallography
+APC1	1	10	Cryo-EM
+APC1	33	70	Cryo-EM
+APC1	134	145	Cryo-EM
+APC1	193	205	Cryo-EM
+APC1	277	403	Cryo-EM
+APC1	513	580	Cryo-EM
+APC1	671	703	Cryo-EM
+APC1	732	756	Cryo-EM
+APC1	815	838	Cryo-EM
+APC1	883	923	Cryo-EM
+APC1	987	1012	Cryo-EM
+APC1	1334	1346	Cryo-EM
+APC1	1438	1451	Cryo-EM
+APC1	1705	1746	Cryo-EM
+APC1	1756	1769	Cryo-EM
+APC1	1828	1838	Cryo-EM
+APC1	1896	1907	Cryo-EM
+APC1	1933	1944	Cryo-EM
+ANO10	1	12	Cryo-EM
+ANO10	642	660	Cryo-EM
+ANO10	463	474	Cryo-EM
+ANO10	1	13	X-ray crystallography
+ANO10	640	660	X-ray crystallography
+AP1B1	1	13	X-ray crystallography
+GBRA1	351	410	Cryo-EM
+GBRB3	338	439	Cryo-EM
+GBRG2	363	444	Cryo-EM
+GBRG2	1	65	Cryo-EM
+AROS	1	136	NMR spectroscopy
+AROS	1	136	Chromatography/electrophoresis
+AROS	1	136	Biochemical activity assays
+AROS	62	71	NMR spectroscopy
+AROS	1	136	Thermodynamics
+AROS	1	136	Other
+NDRG1	312	394	CD/IR spectroscopy
+NDRG1	312	394	NMR spectroscopy
+NDRG1	338	394	NMR spectroscopy
+NDRG1	312	394	Thermodynamics
+G3BP2	45	54	X-ray crystallography
+REP15	1	14	X-ray crystallography
+REP15	117	130	X-ray crystallography
+TALDO	1	10	X-ray crystallography
+KPCI	233	248	X-ray crystallography
+KPCI	542	560	X-ray crystallography
+TTLL7	236	268	X-ray crystallography
+TTLL7	383	450	X-ray crystallography
+TTLL7	485	518	X-ray crystallography
+COPT1	1	52	CD/IR spectroscopy
+LRFN5	222	231	X-ray crystallography
+LRFN5	292	378	X-ray crystallography
+DCAF1	1486	1499	X-ray crystallography
+CLPB	208	227	X-ray crystallography
+DISP1	254	291	Cryo-EM
+DISP1	390	414	Cryo-EM
+DISP1	663	687	Cryo-EM
+DISP1	1145	1249	Cryo-EM
+DISP1	1	180	Cryo-EM
+DISP1	1149	1524	Cryo-EM
+DISP1	263	280	Other
+DISP1	1	180	Cryo-EM
+DISP1	1145	1524	Cryo-EM
+DISP1	662	686	Cryo-EM
+DISP1	263	285	Cryo-EM
+DISP1	263	280	Cell-based/phenotypic assays
+MORC2	551	603	X-ray crystallography
+KLH20	303	316	X-ray crystallography
+CHKA	151	173	X-ray crystallography
+SHOC2	1	85	X-ray crystallography
+SHOC2	1	85	Small-angle scattering
+P35790-2	50	81	X-ray crystallography
+P35790-2	50	85	X-ray crystallography
+P35790-2	131	140	X-ray crystallography
+P35790-2	296	308	X-ray crystallography
+MED23	1335	1368	X-ray crystallography
+PLXA1	25	38	X-ray crystallography
+P4HTM	88	106	X-ray crystallography
+P4HTM	482	502	X-ray crystallography
+DPYL5	493	564	X-ray crystallography
+SYYC	343	364	X-ray crystallography
+SC6A1	1	46	Cryo-EM
+SC6A1	578	599	Cryo-EM
+CAH8	1	22	X-ray crystallography
+RGS6	453	470	X-ray crystallography
+RGS7	451	463	X-ray crystallography
+RGS7	1	17	Cryo-EM
+RGS7	219	255	Cryo-EM
+RGS7	451	495	Cryo-EM
+RNT2	215	234	X-ray crystallography
+SMG9	1	11	Biochemical activity assays
+SMG9	12	180	CD/IR spectroscopy
+SMG9	12	180	Fluorescence methods
+SMG9	12	180	NMR spectroscopy
+SMG9	2	180	Other
+SMG9	2	180	Cell-based/phenotypic assays
+S17A5	1	31	Cryo-EM
+S17A5	69	101	Cryo-EM
+AP1G1	677	699	X-ray crystallography
+SGPL1	62	109	X-ray crystallography
+SGPL1	554	568	X-ray crystallography
+P52306-2	61	78	X-ray crystallography
+ZMY11	172	195	X-ray crystallography
+P5CR2	274	300	X-ray crystallography
+PTHB1	219	232	X-ray crystallography
+PTHB1	370	407	X-ray crystallography
+PTHB1	210	232	Cryo-EM
+PTHB1	801	887	Cryo-EM
+BBS1	1	20	Cryo-EM
+A0A0C4DGY3	78	180	Cryo-EM
+BBS4	1	27	Cryo-EM
+BBS4	424	519	Cryo-EM
+BBIP1	1	25	Cryo-EM
+BBIP1	81	92	Cryo-EM
+BBS5	135	148	Cryo-EM
+BBS5	254	341	Cryo-EM
+RGS10	98	116	NMR spectroscopy
+RGS10	111	121	X-ray crystallography
+RGS10	10	31	X-ray crystallography
+Q01105-2	168	188	X-ray crystallography
+GNB5	1	56	Cryo-EM
+GP158	1	69	Cryo-EM
+GP158	221	260	Cryo-EM
+GP158	362	388	Cryo-EM
+GP158	24	70	Cryo-EM
+GP158	221	261	Cryo-EM
+GP158	512	524	Cryo-EM
+GP158	669	702	Cryo-EM
+GP158	764	863	Cryo-EM
+GP158	669	710	Cryo-EM
+MKS3	1	36	Cryo-EM
+MKS3	644	665	Cryo-EM
+MKS3	793	827	Cryo-EM
+MKS3	849	867	Cryo-EM
+S10A9	87	114	NMR spectroscopy
+HD	1	17	CD/IR spectroscopy
+HD	1	17	NMR spectroscopy
+HD	19	29	X-ray crystallography
+HD	1	34	NMR spectroscopy
+HD	1	17	CD/IR spectroscopy
+HD	39	88	Fluorescence methods
+HD	1	38	Fluorescence methods
+HD	1	90	NMR spectroscopy
+HD	1	90	Mass spectrometry
+HD	1	87	CD/IR spectroscopy
+HD	1	87	Other
+HD	1	87	CD/IR spectroscopy
+HD	1	87	Chromatography/electrophoresis
+HD	1	87	Small-angle scattering
+HD	1	87	CD/IR spectroscopy
+HD	1	87	Other
+HD	1	87	NMR spectroscopy
+HD	1	88	NMR spectroscopy
+HD	1	88	Small-angle scattering
+HD	1	88	NMR spectroscopy
+HD	1	87	NMR spectroscopy
+HD	1718	1732	Cryo-EM
+HD	2067	2095	Cryo-EM
+HD	2067	2090	Mass spectrometry
+HD	407	664	Cryo-EM
+HD	419	432	Mass spectrometry
+HD	1179	1199	Mass spectrometry
+HD	1162	1226	Cryo-EM
+HD	1	94	Cryo-EM
+HD	1323	1351	Cryo-EM
+HD	1376	1422	Cryo-EM
+HD	1859	1885	Cryo-EM
+HD	2329	2351	Cryo-EM
+HD	2631	2664	Cryo-EM
+HD	3103	3142	Cryo-EM
+HD	1862	1874	Mass spectrometry
+HD	2333	2337	Mass spectrometry
+HD	327	346	Cryo-EM
+HD	964	981	Cryo-EM
+HD	1107	1124	Cryo-EM
+HD	2476	2494	Cryo-EM
+HD	2930	2948	Cryo-EM
+HD	2338	2342	Mass spectrometry
+DDI2	116	133	NMR spectroscopy
+DDI2	192	212	NMR spectroscopy
+TREM2	131	174	X-ray crystallography
+TREM2	189	206	NMR spectroscopy
+TREM2	189	198	NMR spectroscopy
+TREM2	190	194	Mass spectrometry
+APOE	19	40	X-ray crystallography
+APOE	100	109	X-ray crystallography
+APOE	183	209	X-ray crystallography
+APOE	184	242	Biochemical activity assays
+APOE	19	41	Fluorescence methods
+APOE	186	223	Fluorescence methods
+APOE	19	40	X-ray crystallography
+APOE	185	209	X-ray crystallography
+APOE	183	209	Biochemical activity assays
+APOE	19	38	Biochemical activity assays
+EZH1	1	30	Cryo-EM
+EZH1	728	747	Cryo-EM
+EZH1	125	271	Cryo-EM
+EZH1	323	431	Cryo-EM
+EZH1	478	517	Cryo-EM
+EZH1	323	431	Other
+EZH1	323	431	Cell-based/phenotypic assays
+O43561-2	30	233	Other
+O43561-2	30	233	Fluorescence methods
+ARI1A	1	1016	Other
+ARI1A	1124	1611	Other
+PBIR1	1	124	Other
+PBIR1	30	115	Other
+PBIR1	73	95	Other
+PBIR1	81	111	Cryo-EM
+PBIR1	29	80	Cryo-EM
+PBIR1	84	89	Cell-based/phenotypic assays
+PBIR1	90	95	Cell-based/phenotypic assays
+PBIR1	97	111	Cryo-EM
+PBIR1	104	108	Cell-based/phenotypic assays
+PBIR1	1	124	Interaction assays
+PBIR1	97	111	Cryo-EM
+PBIR1	1	124	Fluorescence methods
+SYT1	81	142	Other
+SYT1	81	142	CD/IR spectroscopy
+SYT1	81	142	Thermodynamics
+SYT1	101	119	Other
+SYT1	81	142	Other
+SYT1	81	142	Thermodynamics
+SYT1	81	98	Fluorescence methods
+SYT1	81	98	Fluorescence methods
+CLCN2	1	88	Cryo-EM
+CLCN2	650	753	Cryo-EM
+CLCN2	846	898	Cryo-EM
+CLCN2	561	572	Cryo-EM
+CLCN2	645	743	Cryo-EM
+CLCN2	14	28	Cryo-EM
+CLCN2	14	27	Cell-based/phenotypic assays
+CLCN2	14	28	Cryo-EM
+CLCN2	409	418	Cryo-EM
+CLCN2	14	28	Other
+RBL1	612	687	NMR spectroscopy
+RBL1	614	624	NMR spectroscopy
+RBL1	615	630	Interaction assays
+RBL1	615	630	Other
+RBL1	647	663	Other
+RBL1	647	663	Interaction assays
+RBL1	647	663	NMR spectroscopy
+RBL1	613	617	Mass spectrometry
+RBL1	638	642	Mass spectrometry
+RBL1	615	630	Other
+SH3K1	163	263	NMR spectroscopy
+SH3K1	219	232	NMR spectroscopy
+SH3K1	228	232	Other
+SH3K1	219	232	Other
+EF2K	562	597	NMR spectroscopy
+SRBS1	851	867	NMR spectroscopy
+SASH1	396	564	NMR spectroscopy
+SIR6	284	355	Cryo-EM
+SIR6	1	25	Cryo-EM
+SIR6	62	84	Cryo-EM
+SIR6	293	355	Cell-based/phenotypic assays
+SIR6	330	348	Other
+SIR6	293	355	Cell-based/phenotypic assays
+SIR6	270	355	NMR spectroscopy
+SIR6	270	355	Other
+SIR6	270	355	Chromatography/electrophoresis
+SIR6	293	344	Cell-based/phenotypic assays
+SIR6	270	355	Other
+SIR6	290	355	Cell-based/phenotypic assays
+SIR6	345	351	Cell-based/phenotypic assays
+SIR6	272	355	Fluorescence methods
+BIN1	1	41	X-ray crystallography
+BIN1	12	30	Other
+BIN1	1	33	CD/IR spectroscopy
+BIN1	1	33	Other
+BIN1	8	33	Other
+BIN1	10	33	Other
+BIN1	1	33	Electron microscopy
+BIN1	1	33	Fluorescence methods
+BIN1	1	33	Other
+Q92784-1	60	200	Other
+Q92784-1	222	259	Other
+TCAB1	1	150	Cryo-EM
+TCAB1	199	209	Cryo-EM
+TCAB1	442	452	Cryo-EM
+TCAB1	486	503	Cryo-EM
+TCAB1	511	548	Cryo-EM
+HMGN1	1	100	Chromatography/electrophoresis
+HMGN1	1	100	CD/IR spectroscopy
+HMGN1	1	100	NMR spectroscopy
+HMGN1	11	64	Other
+TERT	180	321	Cryo-EM
+TERT	418	443	Cryo-EM
+TERT	222	240	Cell-based/phenotypic assays
+HMOX2	1	29	X-ray crystallography
+HMOX2	249	264	X-ray crystallography
+HMOX2	1	29	X-ray crystallography
+ZNRD2	1	12	X-ray crystallography
+ZNRD2	78	111	X-ray crystallography
+ZNRD2	1	11	X-ray crystallography
+PHX2B	228	240	NMR spectroscopy
+PHX2B	261	314	NMR spectroscopy
+ACADV	486	518	X-ray crystallography
+3MG	131	141	Other
+3MG	263	273	Other
+3MG	263	273	X-ray crystallography
+3MG	131	141	Other
+3MG	263	273	Other
+3MG	131	141	X-ray crystallography
+UBXN6	1	133	Other
+UBXN6	1	133	CD/IR spectroscopy
+UBXN6	1	133	Other
+UBXN6	1	154	Other
+UBXN6	52	63	Cell-based/phenotypic assays
+CL16A	892	1050	Other
+CL16A	892	1052	NMR spectroscopy
+CL16A	892	1052	Chromatography/electrophoresis
+AHSA1	162	204	NMR spectroscopy
+AHSA1	1	27	NMR spectroscopy
+AHSA1	1	27	Fluorescence methods
+AHSA1	1	27	NMR spectroscopy
+AHSA1	1	27	NMR spectroscopy
+AHSA1	1	27	Electron microscopy
+AHSA1	1	16	Fluorescence methods
+AHSA1	1	16	Other
+FA83D	380	448	NMR spectroscopy
+CISD2	57	72	X-ray crystallography
+DAPK1	303	334	X-ray crystallography
+DAPK1	303	320	X-ray crystallography
+DAPK1	305	312	X-ray crystallography
+DAPK1	303	320	X-ray crystallography
+DAPK1	302	320	Thermodynamics
+DAPK1	306	310	Other
+DAPK1	306	310	Biochemical activity assays
+CBX5	1	21	NMR spectroscopy
+CBX5	79	123	NMR spectroscopy
+CBX5	178	191	NMR spectroscopy
+CBX5	79	123	NMR spectroscopy
+CBX5	1	21	NMR spectroscopy
+NCYM	1	109	NMR spectroscopy
+NCYM	1	109	Small-angle scattering
+NCYM	1	109	Other
+NCYM	1	109	Interaction assays
+NCYM	1	109	Interaction assays
+NCYM	1	109	Biochemical activity assays
+NCYM	1	109	Cell-based/phenotypic assays
+NCYM	1	109	Other
+DKC1	1	22	Cryo-EM
+DKC1	422	514	Cryo-EM
+NHP2	1	22	Cryo-EM
+GAR1	162	217	Cryo-EM
+GAR1	1	64	Cryo-EM
+IF2B1	157	194	NMR spectroscopy
+IF2B1	344	404	NMR spectroscopy
+IF2B1	179	183	Cell-based/phenotypic assays
+IF2B1	394	398	Cell-based/phenotypic assays
+IF2B1	170	175	NMR spectroscopy
+IF2B1	179	183	Cell-based/phenotypic assays
+IF2B1	388	395	NMR spectroscopy
+IF2B1	179	183	Mass spectrometry
+IF2B1	394	398	Mass spectrometry
+IF2B1	157	194	Other
+IF2B1	344	404	Other
+SUZ12	168	181	X-ray crystallography
+SUZ12	256	293	X-ray crystallography
+SUZ12	323	350	X-ray crystallography
+SUZ12	364	422	X-ray crystallography
+SUZ12	497	513	X-ray crystallography
+SUZ12	150	188	X-ray crystallography
+SUZ12	201	241	X-ray crystallography
+SUZ12	251	367	X-ray crystallography
+SUZ12	380	423	X-ray crystallography
+SUZ12	497	510	X-ray crystallography
+SUZ12	201	241	X-ray crystallography
+NHEJ1	229	299	NMR spectroscopy
+NHEJ1	295	299	NMR spectroscopy
+NHEJ1	282	294	NMR spectroscopy
+NFL	40	63	NMR spectroscopy
+NFL	40	63	Other
+NFL	40	63	CD/IR spectroscopy
+CRYAA	149	173	NMR spectroscopy
+CRYAA	1	60	Other
+HSPB1	178	205	NMR spectroscopy
+ATF4	1	275	NMR spectroscopy
+PR15B	414	613	Mass spectrometry
+PR15B	556	571	Mass spectrometry
+PR15B	414	613	NMR spectroscopy
+PR15B	557	561	NMR spectroscopy
+PR15B	425	430	Cell-based/phenotypic assays
+PR15B	420	425	Cell-based/phenotypic assays
+PR15B	1	713	Biochemical activity assays
+PR15B	414	639	Interaction assays
+PR15B	639	713	Interaction assays
+PR15B	1	713	Interaction assays
+PR15B	340	639	Interaction assays
+PR15B	639	713	Interaction assays
+PR15B	639	713	Other
+PR15B	426	439	Mass spectrometry
+PR15B	471	495	Mass spectrometry
+PR15B	421	431	Mass spectrometry
+PR15B	474	480	Mass spectrometry
+UBE2T	157	197	Other
+CSN9	1	40	NMR spectroscopy
+CSN9	1	57	CD/IR spectroscopy
+APOA1	210	267	Mass spectrometry
+APOA1	140	170	Mass spectrometry
+APOA1	25	267	CD/IR spectroscopy
+APOA1	70	83	CD/IR spectroscopy
+APOA1	70	83	Electron microscopy
+APOA1	25	267	Other
+APOA1	44	54	Mass spectrometry
+CARD8	1	162	Other
+CARD8	1	162	Cell-based/phenotypic assays
+MTMR1	1	94	Other
+MTMR1	1	94	Cell-based/phenotypic assays
+D2HDH	1	51	Other
+D2HDH	1	51	Cell-based/phenotypic assays
+NOL7	1	94	Other
+P49815-5	50	126	Cryo-EM
+P49815-5	644	682	Cryo-EM
+P49815-5	937	970	Cryo-EM
+P49815-5	1039	1137	Cryo-EM
+P49815-5	1202	1426	Cryo-EM
+P49815-5	1689	1740	Cryo-EM
+H31	1	38	Other
+NEK7	182	195	X-ray crystallography
+NEK7	190	195	Biochemical activity assays
+NEK7	182	195	X-ray crystallography
+NEK7	1	19	X-ray crystallography
+NEK7	190	195	Other
+DBR1	394	544	Other
+DBR1	503	544	Other
+DBR1	394	544	Other
+MPLKI	1	135	Other
+MPLKI	160	179	Other
+TX1B3	1	10	NMR spectroscopy
+TX1B3	113	124	NMR spectroscopy
+RIPK3	387	518	Other
+RIPK3	387	518	Fluorescence methods
+RIPK3	430	465	NMR spectroscopy
+RIPK3	388	447	Cryo-EM
+RIPK3	470	518	Cryo-EM
+RIPK3	476	518	NMR spectroscopy
+RIPK3	418	446	NMR spectroscopy
+RIPK3	447	475	NMR spectroscopy
+RIPK3	448	469	Cryo-EM
+RIPK3	388	518	Cryo-EM
+RIPK3	388	518	NMR spectroscopy
+RIPK3	448	462	NMR spectroscopy
+RIPK3	446	464	Interaction assays
+RIPK3	388	518	CD/IR spectroscopy
+RIPK3	388	518	Cell-based/phenotypic assays
+RIPK3	457	461	Cell-based/phenotypic assays
+RIPK3	300	518	Other
+PNRC2	1	101	X-ray crystallography
+RIPK1	300	560	Other
+RIPK1	496	531	NMR spectroscopy
+RIPK1	549	583	NMR spectroscopy
+RIPK1	496	583	Electron microscopy
+RIPK1	525	555	Interaction assays
+RIPK1	532	548	NMR spectroscopy
+RIPK1	532	549	NMR spectroscopy
+RIPK1	496	583	CD/IR spectroscopy
+RIPK1	496	583	Fluorescence methods
+RIPK1	496	583	CD/IR spectroscopy
+RIPK1	539	545	Cell-based/phenotypic assays
+RIPK2	173	183	X-ray crystallography
+RIPK2	519	540	Cryo-EM
+RIPK2	512	540	NMR spectroscopy
+TFP11	1	350	CD/IR spectroscopy
+TFP11	1	350	Fluorescence methods
+TFP11	1	350	Other
+TFP11	1	350	CD/IR spectroscopy
+TFP11	1	350	Other
+HSPB8	1	89	Other
+HSPB8	171	196	Other
+NEIL2	56	129	Mass spectrometry
+HERC2	4793	4834	NMR spectroscopy
+HERC2	4793	4834	CD/IR spectroscopy
+MSX1	1	172	Other
+PGRP2	164	208	Fluorescence methods
+PGRP2	164	208	Other
+SHSA5	126	240	Other
+SHSA5	126	240	Cell-based/phenotypic assays
+SHSA5	150	177	Other
+SHSA5	150	177	Other
+SHSA5	126	240	Microscopy
+SHSA5	150	177	Cell-based/phenotypic assays
+SHSA5	126	240	Cell-based/phenotypic assays
+TSYL5	1	195	CD/IR spectroscopy
+TSYL5	1	195	Other
+TSYL5	1	242	Mass spectrometry
+TSYL5	1	195	Thermodynamics
+TSYL5	1	195	Interaction assays
+TSYL5	65	97	Thermodynamics
+TSYL5	1	195	Chromatography/electrophoresis
+TSYL5	1	123	Interaction assays
+TSYL5	124	242	Interaction assays
