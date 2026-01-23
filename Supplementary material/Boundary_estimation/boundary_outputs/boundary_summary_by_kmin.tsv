@@ -1,0 +1,7 @@
+k_min	auc	p_thresh	tpr	fpr	J	boundary_file	plot_file
+12	0.9925360886405579	0.17635658914728683	0.9793388429752066	0.05472197705207414	0.9246168659231324	boundary_outputs/LC_boundary_points_kmin_12.tsv	boundary_outputs/LC_boundary_posterior_kmin_12.png
+11	0.9853254611606266	0.3059808124106961	0.9779559118236473	0.0794351279788173	0.8985207838448299	boundary_outputs/LC_boundary_points_kmin_11.tsv	boundary_outputs/LC_boundary_posterior_kmin_11.png
+10	0.9814061524551697	0.4749845583693638	0.9765853658536585	0.10414827890556046	0.8724370869480981	boundary_outputs/LC_boundary_points_kmin_10.tsv	boundary_outputs/LC_boundary_posterior_kmin_10.png
+9	0.977058695869493	0.5833333333333334	0.9738625363020329	0.11827007943512798	0.8555924568669049	boundary_outputs/LC_boundary_points_kmin_9.tsv	boundary_outputs/LC_boundary_posterior_kmin_9.png
+8	0.9402164012783776	0.7222222222222222	0.8924657534246575	0.11827007943512798	0.7741956739895295	boundary_outputs/LC_boundary_points_kmin_8.tsv	boundary_outputs/LC_boundary_posterior_kmin_8.png
+7	0.9070174476367497	0.868421052631579	0.8457922494840633	0.15710503089143865	0.6886872185926246	boundary_outputs/LC_boundary_points_kmin_7.tsv	boundary_outputs/LC_boundary_posterior_kmin_7.png
