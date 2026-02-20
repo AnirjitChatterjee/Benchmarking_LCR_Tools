@@ -1,8 +1,7 @@
-Fig2: Contains the folders “multiinter” and “Python Scripts”, Figure 2 and the R code (Fig2.R) used to generate the figure. 
-The folder “multinter” contains the bed files of the LCRs predicted by various methods (ending with .bed). It also has the files containing LCRs detected by “n” number of methods, their sequences (files ending with “_gf”), their peptide counts (files ending with “_gf_peptide_counts”) and their entropy and purity (files ending with “_gf_entropy_purity”). 
-The folder “Python Scripts” has all the relevant Python scripts required to produce these files.
+Fig3: Contains the folder “Purity”, the tsv file “entity_counts” (having the counts of the number of LCRs of various purities, predicted by the different methods), Figure 3 and the R code (Fig3.R) used to generate the figure. 
 
- 
+The folder “Purity” contains LCR sequences detected (files ending with “_gf”) and information about the most repeated amino acid in the LCR and its purity (files ending with “_sorted.bed”). The Python script “purity” calculates the most frequent amino acid in the LCR and its purity, and “counter” counts the number of LCRs in each purity category.
+
 Prerequisites:
 R (version 4.3.3)
-R Packages: ggplot2, ggpatern, dplyr, Polychrome, patchwork
+R Packages: ggplot2, tidyr, dplyr, Polychrome
