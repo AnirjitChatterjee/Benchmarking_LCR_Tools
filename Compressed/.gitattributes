@@ -1,3 +1,0 @@
-Di_tri_pep.tar.gz filter=lfs diff=lfs merge=lfs -text
-Fig2.tar.gz filter=lfs diff=lfs merge=lfs -text
-*.tar.gz filter=lfs diff=lfs merge=lfs -text
